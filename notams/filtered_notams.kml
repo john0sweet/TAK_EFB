@@ -1,45 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
-    <Document id="1835">
-        <name>Filtered out and FIR NOTAMs Expires 05/01/2023, 20:11</name>
-        <Folder id="1836">
-            <Style id="1837">
-                <IconStyle id="1838">
+    <Document id="2195">
+        <name>Filtered out and FIR NOTAMs Expires 06/01/2023, 11:11</name>
+        <Folder id="2196">
+            <Style id="2197">
+                <IconStyle id="2198">
                     <color>ffff0000</color>
                     <colorMode>normal</colorMode>
                     <scale>1</scale>
                     <heading>0</heading>
-                    <Icon id="1839">
+                    <Icon id="2199">
                         <href>https://raw.githubusercontent.com/john0sweet/TAK_EFB/main/icons/database.png</href>
                     </Icon>
                 </IconStyle>
             </Style>
             <name>Filtered Out NOTAMs</name>
-            <Placemark id="1845">
+            <Placemark id="2205">
                 <name>Filtered Out NOTAMs</name>
                 <visibility>1</visibility>
-                <description/>
-                <styleUrl>#1837</styleUrl>
-                <Point id="1844">
+                <description>********** 
+EGGN/M28/23
+THE FOLLOWING NORTH WALES MILITARY TRAINING AREAS ACTIVATED:
+NORTH (LOW)  0830-1630 FL195-FL285
+SOUTH (LOW)  0830-1630 FL195-FL285
+</description>
+                <styleUrl>#2197</styleUrl>
+                <Point id="2204">
                     <coordinates>-1.0844900000000002,51.61756,100</coordinates>
                     <altitudeMode>relativeToGround</altitudeMode>
                 </Point>
             </Placemark>
         </Folder>
-        <Folder id="1840">
-            <Style id="1841">
-                <IconStyle id="1842">
+        <Folder id="2200">
+            <Style id="2201">
+                <IconStyle id="2202">
                     <color>ffff0000</color>
                     <colorMode>normal</colorMode>
                     <scale>1</scale>
                     <heading>0</heading>
-                    <Icon id="1843">
+                    <Icon id="2203">
                         <href>https://raw.githubusercontent.com/john0sweet/TAK_EFB/main/icons/database.png</href>
                     </Icon>
                 </IconStyle>
             </Style>
             <name>FIR and Large Radius NOTAMs</name>
-            <Placemark id="1847">
+            <Placemark id="2207">
                 <name>FIR/Large Radius NOTAMs</name>
                 <visibility>1</visibility>
                 <description>********** 
@@ -93,7 +98,7 @@ LIVERPOOL  (EGGP)
 CAMBRIDHE  (EGSC)
 CARDIFF    (EGFF)
 ********** 
-EGGN/B19/23
+EGGN/B30/23
 CAUTION - LOW ATMOSPHERIC PRESSURE IS FORECAST IN THE SCOTTISH
 TMA. ALL PILOTS, ESPECIALLY THOSE INBOUND TO, OR OUTBOUND FROM,
 GLASGOW, EDINBURGH, PRESTWICK, ABERDEEN, NEWCASTLE, BELFAST
@@ -146,6 +151,13 @@ BEFORE OPERATING IN THIS AREA. CONTACT UK DEPARTMENT FOR TRANSPORT
 +44 (0)207-082 6639 OR +44 (0)207-944 5999 OUT OF HOURS.
 2022-02-0359/AS6.
 ********** 
+EGGN/H55/23
+PIPELINE INSPECTION NOTIFICATION PROCEDURE SYSTEM (PINS) WILL 
+TAKE PLACE IN THE FOLLOWING LOW FLYING AREAS 1, 2, 3, 4, 5, 6, 7N, 
+7S, 8, 9, 10, 11N, 11S, 12, 13, 14W, 14E, 16, 17, 18, 19 AND THE 
+THAMES VALLEY AVOIDANCE AREA MAX HEIGHT 2000FT AGL. UK AIP ENR 6 
+(PINS AREAS AND UK DAY LOW FLYING SYSTEM (DLFS))REFERS. 22/01/011/LFC
+********** 
 EGGN/V28/22
 CURRENT AIRSPACE WARNING - SECURITY - HAZARDOUS SITUATION IN IRAQ 
 - REPLACE THE CURRENT ENTRY WITH THE FOLLOWING:
@@ -189,9 +201,16 @@ SECURITY ACT SHOULD CONTACT UK DEPARTMENT FOR TRANSPORT (DFT)
 BEFORE OPERATING IN THIS AREA. CONTACT UK DEPARTMENT FOR TRANSPORT 
 +44 (0)207-082 6639 OR +44 (0)207-944 5999 OUT OF HOURS.
 2022-02-0359/AS6.
+********** 
+EGGN/H55/23
+PIPELINE INSPECTION NOTIFICATION PROCEDURE SYSTEM (PINS) WILL 
+TAKE PLACE IN THE FOLLOWING LOW FLYING AREAS 1, 2, 3, 4, 5, 6, 7N, 
+7S, 8, 9, 10, 11N, 11S, 12, 13, 14W, 14E, 16, 17, 18, 19 AND THE 
+THAMES VALLEY AVOIDANCE AREA MAX HEIGHT 2000FT AGL. UK AIP ENR 6 
+(PINS AREAS AND UK DAY LOW FLYING SYSTEM (DLFS))REFERS. 22/01/011/LFC
 </description>
-                <styleUrl>#1841</styleUrl>
-                <Point id="1846">
+                <styleUrl>#2201</styleUrl>
+                <Point id="2206">
                     <coordinates>-1.08549,51.61756,100</coordinates>
                     <altitudeMode>relativeToGround</altitudeMode>
                 </Point>

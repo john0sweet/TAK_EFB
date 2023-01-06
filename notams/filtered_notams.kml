@@ -1,45 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
-    <Document id="1751">
-        <name>Filtered out and FIR NOTAMs Expires 06/01/2023, 21:11</name>
-        <Folder id="1752">
-            <Style id="1753">
-                <IconStyle id="1754">
+    <Document id="1727">
+        <name>Filtered out and FIR NOTAMs Expires 06/01/2023, 22:11</name>
+        <Folder id="1728">
+            <Style id="1729">
+                <IconStyle id="1730">
                     <color>ffff0000</color>
                     <colorMode>normal</colorMode>
                     <scale>1</scale>
                     <heading>0</heading>
-                    <Icon id="1755">
+                    <Icon id="1731">
                         <href>https://raw.githubusercontent.com/john0sweet/TAK_EFB/main/icons/database.png</href>
                     </Icon>
                 </IconStyle>
             </Style>
             <name>Filtered Out NOTAMs</name>
-            <Placemark id="1761">
+            <Placemark id="1737">
                 <name>Filtered Out NOTAMs</name>
                 <visibility>1</visibility>
                 <description/>
-                <styleUrl>#1753</styleUrl>
-                <Point id="1760">
+                <styleUrl>#1729</styleUrl>
+                <Point id="1736">
                     <coordinates>-1.0844900000000002,51.61756,100</coordinates>
                     <altitudeMode>relativeToGround</altitudeMode>
                 </Point>
             </Placemark>
         </Folder>
-        <Folder id="1756">
-            <Style id="1757">
-                <IconStyle id="1758">
+        <Folder id="1732">
+            <Style id="1733">
+                <IconStyle id="1734">
                     <color>ffff0000</color>
                     <colorMode>normal</colorMode>
                     <scale>1</scale>
                     <heading>0</heading>
-                    <Icon id="1759">
+                    <Icon id="1735">
                         <href>https://raw.githubusercontent.com/john0sweet/TAK_EFB/main/icons/database.png</href>
                     </Icon>
                 </IconStyle>
             </Style>
             <name>FIR and Large Radius NOTAMs</name>
-            <Placemark id="1763">
+            <Placemark id="1739">
                 <name>FIR/Large Radius NOTAMs</name>
                 <visibility>1</visibility>
                 <description>********** 
@@ -190,8 +190,8 @@ BEFORE OPERATING IN THIS AREA. CONTACT UK DEPARTMENT FOR TRANSPORT
 +44 (0)207-082 6639 OR +44 (0)207-944 5999 OUT OF HOURS.
 2022-02-0359/AS6.
 </description>
-                <styleUrl>#1757</styleUrl>
-                <Point id="1762">
+                <styleUrl>#1733</styleUrl>
+                <Point id="1738">
                     <coordinates>-1.08549,51.61756,100</coordinates>
                     <altitudeMode>relativeToGround</altitudeMode>
                 </Point>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
     <Document id="1">
-        <name>UK Airfields and HLS Expires 06/01/2023, 11:11</name>
+        <name>UK Airfields and HLS Expires 06/01/2023, 21:11</name>
         <Folder id="2">
             <Style id="6">
                 <IconStyle id="7">
@@ -83,22 +83,10 @@ EGGN/L6797/22
 CRANE OPR PSN 535020N 0011156W (LEEDS EAST AD, DISPLACED 
 THRESHOLD OF DISUSED RWY 16) MAX HGT 130FT AMSL/ 100FT AGL
 &lt;a href=https://raw.githubusercontent.com/john0sweet/TAK_EFB/main/PIB.xml&gt; link &lt;/a&gt;********** 
-EGGN/L7/23
-RFFS DOWNGRADED TO CAT 1
-&lt;a href=https://raw.githubusercontent.com/john0sweet/TAK_EFB/main/PIB.xml&gt; link &lt;/a&gt;********** 
 EGGN/L55/23
 AIR TRAFFIC SERVICES COMMUNICATION FACILITIES - FENTON RADIO 
 CHANNEL (A/G) 126.505 CHANGED TO 120.710. DOC 30NM/6,000FT.
 UK AIP EGCM AD 2.18, AD 2.EGCM-2-1 REFER.
-&lt;a href=https://raw.githubusercontent.com/john0sweet/TAK_EFB/main/PIB.xml&gt; link &lt;/a&gt;********** 
-EGGN/L102/23
-TRAFFIC CIRCUIT CLSD FOR ARRIVALS AND DEPARTURES FOR SHORT 
-PERIODS TO FACILITATE CALIBRATION FLIGHTS, RNP APPROACH RWY 24/06 
-OPR WI ATZ AND WITHIN THE VICINITY OF ATZ
-&lt;a href=https://raw.githubusercontent.com/john0sweet/TAK_EFB/main/PIB.xml&gt; link &lt;/a&gt;********** 
-EGGN/L103/23
-RWY 24/06 NOT AVBL FOR CIRCUITS. FULL STOP LANDINGS ONLY. ALL 
-MOVEMENTS WITHIN ATZ STRICTLY PPR.
 &lt;a href=https://raw.githubusercontent.com/john0sweet/TAK_EFB/main/PIB.xml&gt; link &lt;/a&gt;</description>
                 <styleUrl>#3</styleUrl>
                 <Point id="26">
@@ -178,6 +166,9 @@ INCLUDING THE RESPECTIVE RWY APPROACH PATHS.
 EGGN/L73/23
 RUNWAYS 14/32, 05/23 AND 21/03 GRASS AND ALL GRASS AREAS ARE NOT 
 AVAILABLE
+&lt;a href=https://raw.githubusercontent.com/john0sweet/TAK_EFB/main/PIB.xml&gt; link &lt;/a&gt;********** 
+EGGN/L112/23
+MOGAS FUEL NOT AVAILABLE
 &lt;a href=https://raw.githubusercontent.com/john0sweet/TAK_EFB/main/PIB.xml&gt; link &lt;/a&gt;</description>
                 <styleUrl>#3</styleUrl>
                 <Point id="36">
@@ -227,10 +218,6 @@ OBSTRUCTION LIGHTS ON HANGARS U/S DUE WIP
 EGGN/L6498/22
 NO VISITOR PARKING AVBL UNLESS PRIOR APPROVAL OBTAINED FROM 
 AIRPORT AUTHORITY DUE EXTENSIVE WIP
-&lt;a href=https://raw.githubusercontent.com/john0sweet/TAK_EFB/main/PIB.xml&gt; link &lt;/a&gt;********** 
-EGGN/L6702/22
-CRANE OPR PSN 520438N 0003621W (CRANFIELD VILLAGE). MAX HGT
-99FT AGL/ 445FT AMSL
 &lt;a href=https://raw.githubusercontent.com/john0sweet/TAK_EFB/main/PIB.xml&gt; link &lt;/a&gt;</description>
                 <styleUrl>#3</styleUrl>
                 <Point id="44">
@@ -291,8 +278,14 @@ MOVEMENT AREAS.
             </Placemark>
             <Placemark id="57">
                 <name>MIDDLE WALLOP</name>
-                <description>No Notams</description>
-                <styleUrl>#6</styleUrl>
+                <description>********** 
+EGGN/U106/23
+ATIS UNSERVICABLE
+&lt;a href=https://raw.githubusercontent.com/john0sweet/TAK_EFB/main/PIB.xml&gt; link &lt;/a&gt;********** 
+EGGN/U119/23
+AD CLOSED
+&lt;a href=https://raw.githubusercontent.com/john0sweet/TAK_EFB/main/PIB.xml&gt; link &lt;/a&gt;</description>
+                <styleUrl>#3</styleUrl>
                 <Point id="56">
                     <coordinates>-1.570250,51.149358,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -341,6 +334,10 @@ UK AIP EGLL AD 2.10 REFERS.
 &lt;a href=https://raw.githubusercontent.com/john0sweet/TAK_EFB/main/PIB.xml&gt; link &lt;/a&gt;********** 
 EGGN/A7363/22
 STAND 235 CLOSED DUE WIP.
+&lt;a href=https://raw.githubusercontent.com/john0sweet/TAK_EFB/main/PIB.xml&gt; link &lt;/a&gt;********** 
+EGGN/H8614/22
+LASER DISPLAY WI 1NM RADIUS: 512845N 0001734W (KEW, LONDON).
+FOR INFO 07961 488480. 2022-11-0308/AS4.
 &lt;a href=https://raw.githubusercontent.com/john0sweet/TAK_EFB/main/PIB.xml&gt; link &lt;/a&gt;********** 
 EGGN/A7549/22
 TWO CRANES OPERATING AT PSN: 513117N 0001024W (PADDINGTON,
@@ -397,27 +394,11 @@ LONDON). UP TO 427FT AGL/507FT AMSL. FOR INFO CONTACT
 07818 528840. ON EXPIRY OF THIS NOTAM DETAILS WILL BE INCLUDED IN 
 THE UK AIP ENR 5.4. 2022-12-0194/AS8.
 &lt;a href=https://raw.githubusercontent.com/john0sweet/TAK_EFB/main/PIB.xml&gt; link &lt;/a&gt;********** 
-EGGN/A8162/22
-LIT CRANE OPR PSN 512750N 0002345W (CLEMENTS COURT HOUNSLOW)
-MAX HEIGHT 158FT AGL / 234FT AMSL. CRANE REFERENCE 2022111712
-NO OPERATIONS IN LOW VISIBILITY SAFEGUARDING OR PROCEDURES.
-&lt;a href=https://raw.githubusercontent.com/john0sweet/TAK_EFB/main/PIB.xml&gt; link &lt;/a&gt;********** 
 EGGN/A8017/22
 TWO CRANES OPR AT PSN: 513157N 0001609W (PARK ROYAL, LONDON). UP 
 TO 358FT AGL/468FT AMSL. FOR INFO CONTACT 01362 821048. ON EXPIRY OF 
 THIS NOTAM DETAILS WILL BE INCLUDED IN THE UK AIP ENR 5.4. 
 2022-12-0050/AS8.
-&lt;a href=https://raw.githubusercontent.com/john0sweet/TAK_EFB/main/PIB.xml&gt; link &lt;/a&gt;********** 
-EGGN/A8412/22
-LIT CRANE OPERATING WITHIN 513028N 0002321W - 513026N 0002321W -
-513027N 0002329W - 513029N 0002328W - 513028N 0002321W  (HAYES).
-UPTO 279FT AGL / 384FT AMSL. NO OPERATIONS DURING LVP. REFERENCE
-2022121930 REFERS
-&lt;a href=https://raw.githubusercontent.com/john0sweet/TAK_EFB/main/PIB.xml&gt; link &lt;/a&gt;********** 
-EGGN/A8415/22
-LIT CRANE OPR PSN 513040N 0002653W (UXBRIDGE) MAX HGT 243FT AGL /
-362FT AMSL. NO CRANE OPS IN AIRFIELD LOW VIS CONDITIONS. CRANE REF
-2022121961
 &lt;a href=https://raw.githubusercontent.com/john0sweet/TAK_EFB/main/PIB.xml&gt; link &lt;/a&gt;********** 
 EGGN/A100/23
 PPILOTS ARE REMINDED THAT IN THE EVENT OF THERE BEING NO ACTIVATED
@@ -512,11 +493,6 @@ INSERT - THE 120M OF ASPHALT NORTH OF RWY 18 THRESHOLD IS UNFIT FOR
 USE BY AIRCRAFT.
 UK AIP EGPO AD 2.12 REFERS.
 &lt;a href=https://raw.githubusercontent.com/john0sweet/TAK_EFB/main/PIB.xml&gt; link &lt;/a&gt;********** 
-EGGN/H7275/22
-QUARRY BLASTING WI 0.5NM RADIUS 581140N 0062333W (STORNOWAY, ISLE 
-OF LEWIS). FOR UP TO DATE BLASTING TIMES CONTACT 07825 859243. 
-2022-09-0327/AS4.
-&lt;a href=https://raw.githubusercontent.com/john0sweet/TAK_EFB/main/PIB.xml&gt; link &lt;/a&gt;********** 
 EGGN/I16/23
 TEMPORARY RAISED TAXIWAY EDGE LIGHTS ON PARTS OF B AND C 
 TAXIWAYS REPLACING UNSERVICEABLE FLUSH LIGHTS.
@@ -526,6 +502,9 @@ OBST LIGHT U/S ON VDF MAST
 &lt;a href=https://raw.githubusercontent.com/john0sweet/TAK_EFB/main/PIB.xml&gt; link &lt;/a&gt;********** 
 EGGN/I48/23
 OBST LIGHT U/S ON NDB MAST
+&lt;a href=https://raw.githubusercontent.com/john0sweet/TAK_EFB/main/PIB.xml&gt; link &lt;/a&gt;********** 
+EGGN/I85/23
+STORNOWAY ATZ ACTIVE. AD/ATS/MET SERVICE ACTIVE. RFFS CAT 5 AVBL.)
 &lt;a href=https://raw.githubusercontent.com/john0sweet/TAK_EFB/main/PIB.xml&gt; link &lt;/a&gt;</description>
                 <styleUrl>#3</styleUrl>
                 <Point id="66">
@@ -619,8 +598,10 @@ UK AIP EGBB AD 2.10 REFERS.)
             <Placemark id="79">
                 <name>HAWARDEN</name>
                 <description>********** 
-EGGN/L106/23
-DME ASSOCIATED WITH ILS U/S DUE MAINTENANCE
+EGGN/L105/23
+HAWARDEN RADAR SERVICE IS NOT AVBL DUE TO STAFF SHORTAGE. 
+HAWARDEN RADAR FREQUENCY WILL BE BAND-BOXED WITH HAWARDEN TOWER 
+PROVIDING A BASIC SERVICE ONLY.
 &lt;a href=https://raw.githubusercontent.com/john0sweet/TAK_EFB/main/PIB.xml&gt; link &lt;/a&gt;</description>
                 <styleUrl>#3</styleUrl>
                 <Point id="78">
@@ -640,10 +621,6 @@ DME ASSOCIATED WITH ILS U/S DUE MAINTENANCE
             <Placemark id="83">
                 <name>LEEDS BRADFORD</name>
                 <description>********** 
-EGGN/H8722/22
-UNMANNED CAPTIVE BALLOON WI 0.5NM RADIUS: 534821N 0013807W
-(LEEDS). MAX HGT 197FT AGL. FOR INFO 07971 523253. 2022-11-0110/AS3.
-&lt;a href=https://raw.githubusercontent.com/john0sweet/TAK_EFB/main/PIB.xml&gt; link &lt;/a&gt;********** 
 EGGN/C7329/22
 ACFT NOT PERMITTED TO ENTER ALLOCATED PARKING STAND WITHOUT
 MARSHALLER GUIDANCE. IF NO MARSHALLER IS PRESENT, PILOTS
@@ -656,11 +633,6 @@ EGGN/C7377/22
 TWY A CLOSED WEST OF HOLDING POINT B UP TO HOLDING POINT A1. ACFT 
 LANDING RWY 32 SHOULD EXPECT TO VACATE VIA TAXIWAY N FOR PARKING 
 NORTHSIDE.
-&lt;a href=https://raw.githubusercontent.com/john0sweet/TAK_EFB/main/PIB.xml&gt; link &lt;/a&gt;********** 
-EGGN/H9511/22
-SEARCHLIGHT, LASER AND FIREWORK DISPLAY WI 1NM RADIUS 
-534904N 0013456W (LEEDS, WEST YORKSHIRE). MAX HGT FOR FIREWORKS 
-100FT AGL. FOR INFO 07596 103995 / 0113 230 4750. 2023-01-0084/AS2.
 &lt;a href=https://raw.githubusercontent.com/john0sweet/TAK_EFB/main/PIB.xml&gt; link &lt;/a&gt;********** 
 EGGN/C60/23
 REVISED LEEDS BRADFORD CTR/CTA/ATZ AND AD OPR HRS
@@ -675,6 +647,11 @@ PERIODS OF CLOSURE. SUITABLY EQUIPPED ACFT WI LEEDS BRADFORD
 AIRSPACE DURING THESE PERIODS SHOULD MONITOR LEEDS RADAR ON
 134.580MHZ AND SQUAWK EITHER 2677, ANY DISCRETE TASK SPECIFIC
 CODE, OR ANY DISCRETE CODE ALLOCATED BY ANOTHER UNIT.
+&lt;a href=https://raw.githubusercontent.com/john0sweet/TAK_EFB/main/PIB.xml&gt; link &lt;/a&gt;********** 
+EGGN/H50/23
+UAS SWARM OPR WI 0.5NM RADIUS OF 534904N 0013456W (HEADINGLEY,
+LEEDS). SWARM COMPRISED 150 UAS. MAX HGT 400FT AGL. FOR INFO 
+07817266960. 2023-01-0118/AS2
 &lt;a href=https://raw.githubusercontent.com/john0sweet/TAK_EFB/main/PIB.xml&gt; link &lt;/a&gt;</description>
                 <styleUrl>#3</styleUrl>
                 <Point id="82">
@@ -811,10 +788,6 @@ FAIRFORD METRO FREQUENCY 284.425MHZ UNSERVICEABLE.
 &lt;a href=https://raw.githubusercontent.com/john0sweet/TAK_EFB/main/PIB.xml&gt; link &lt;/a&gt;********** 
 EGGN/U15/23
 TACAN FFA/FAIRFORD 113.4MHZ/CH 81X INTERMITTENT.
-&lt;a href=https://raw.githubusercontent.com/john0sweet/TAK_EFB/main/PIB.xml&gt; link &lt;/a&gt;********** 
-EGGN/U100/23
-RWY 27/09 SURFACE CONDITION IS CONCRETE WET ASPHALT WET WITH
-NO STANDING WATER.
 &lt;a href=https://raw.githubusercontent.com/john0sweet/TAK_EFB/main/PIB.xml&gt; link &lt;/a&gt;</description>
                 <styleUrl>#3</styleUrl>
                 <Point id="100">
@@ -837,12 +810,6 @@ NO STANDING WATER.
 EGGN/U7384/22
 LIT CRANE OPR AT PSN 530551N 0000956W (RAF CONINGSBY). HGT 126FT 
 AGL/150FT AMSL
-&lt;a href=https://raw.githubusercontent.com/john0sweet/TAK_EFB/main/PIB.xml&gt; link &lt;/a&gt;********** 
-EGGN/U7643/22
-AD OPENING HR
-MON-WED CLOSED
-THU 0930-1800
-FRI 0915-1330
 &lt;a href=https://raw.githubusercontent.com/john0sweet/TAK_EFB/main/PIB.xml&gt; link &lt;/a&gt;</description>
                 <styleUrl>#3</styleUrl>
                 <Point id="104">
@@ -936,21 +903,12 @@ EGGN/C6523/22
 HOLDING POINT NOVEMBER ENGINE RUN UPS TO BE CARRIED OUT INLINE
 WITH TWY AND KEPT TO A MINIMUM
 &lt;a href=https://raw.githubusercontent.com/john0sweet/TAK_EFB/main/PIB.xml&gt; link &lt;/a&gt;********** 
-EGGN/C6968/22
-CRANE OPR PSN 504608N 0015059W (202T 1400M FM BOURNEMOUTH AD ARP) 
-TO
-JIB HGT OF 92FT AGL/ 122FT AMSL
-&lt;a href=https://raw.githubusercontent.com/john0sweet/TAK_EFB/main/PIB.xml&gt; link &lt;/a&gt;********** 
 EGGN/C7397/22
 AD MAY OPERATE OUTSIDE PUBLISHED OPERATING HOURS FOR PRE ARRANGED
 FLIGHTS ONLY
 &lt;a href=https://raw.githubusercontent.com/john0sweet/TAK_EFB/main/PIB.xml&gt; link &lt;/a&gt;********** 
 EGGN/C7415/22
 RUNWAY 08 ANEMOMETER U/S
-&lt;a href=https://raw.githubusercontent.com/john0sweet/TAK_EFB/main/PIB.xml&gt; link &lt;/a&gt;********** 
-EGGN/C46/23
-CRANE OPR PSN 504441N 0014954W (169T 3996M FM BOURNEMOUTH ARP).MAX
-JIB HGT 59FT AGL/118FT AMSL
 &lt;a href=https://raw.githubusercontent.com/john0sweet/TAK_EFB/main/PIB.xml&gt; link &lt;/a&gt;</description>
                 <styleUrl>#3</styleUrl>
                 <Point id="110">
@@ -971,10 +929,6 @@ EGGN/U7650/22
 TWY ALPHA CLOSED TO ACFT FM TWY FOXTROT TO ALPHA SOUTH APRON. TWY 
 FOXTROT AND REMAINING AREAS OF TWY ALPHA ARE AVBL. ALTN TAXI 
 PATTERNS PROVIDED BY ATC.
-&lt;a href=https://raw.githubusercontent.com/john0sweet/TAK_EFB/main/PIB.xml&gt; link &lt;/a&gt;********** 
-EGGN/U80/23
-CRANE (LIT) OPERATING AT RAF LOSSIEMOUTH AT POSITION
-574234.26N 0031839.76W. HGT SURFACE TO 102FT AGL 125FT AMSL
 &lt;a href=https://raw.githubusercontent.com/john0sweet/TAK_EFB/main/PIB.xml&gt; link &lt;/a&gt;</description>
                 <styleUrl>#3</styleUrl>
                 <Point id="112">
@@ -1018,16 +972,8 @@ RE-ROUTING SHOULD BE FOLLOWED. ACFT UNDER THIS WEIGHT ARE TO USE LOW
 POWER SETTINGS ONLY WHEN TRANSITIONING BTN THESE TWO TWY BRAVO-EAST
 POINTS
 &lt;a href=https://raw.githubusercontent.com/john0sweet/TAK_EFB/main/PIB.xml&gt; link &lt;/a&gt;********** 
-EGGN/U58/23
-HIGH INTENSITY RADIO TRANSMISSION AREA (HIRTA) B2011 ACTIVE AT
-PSN 510939N 0014522W BOSCOMBE DOWN WI 5NM RADIUS
-MIL ACFT SUSCEPTIBILITY
-VERY LOW  0.040NM        201FT AGL/576FT AMSL
-LOW       0.070NM        404FT AGL/779FT AMSL
-MEDIUM    0.120NM        691FT AGL/1066FT AMSL
-HIGH      0.320NM        1929FT AGL/2304FT AMSL
-PULSE LOW/MEDIUM/HIGH   0.00NM          0FT AGL/375FT AMSL
-THIS ACTIVITY IS WHOLLY CONTAINED WITHIN THE ATZ/MATZ
+EGGN/U110/23
+CONTINUOUS FRICTION MEASURING DEVICE (MU METER) U/S
 &lt;a href=https://raw.githubusercontent.com/john0sweet/TAK_EFB/main/PIB.xml&gt; link &lt;/a&gt;</description>
                 <styleUrl>#3</styleUrl>
                 <Point id="118">
@@ -1066,9 +1012,6 @@ ELEVATION/HEIGHT: 252FT AMSL/233FT AGL
 LIGHTING: YES - RED
 REMARKS: GREENMARKET. END ESTIMATED OCTOBER  2023.
 UK AIP EGPN AD 2.10 REFERS.
-&lt;a href=https://raw.githubusercontent.com/john0sweet/TAK_EFB/main/PIB.xml&gt; link &lt;/a&gt;********** 
-EGGN/I70/23
-ATIS 119.330MHZ U/S DUE POWER OUTAGE.
 &lt;a href=https://raw.githubusercontent.com/john0sweet/TAK_EFB/main/PIB.xml&gt; link &lt;/a&gt;</description>
                 <styleUrl>#3</styleUrl>
                 <Point id="124">
@@ -1087,11 +1030,6 @@ EGGN/A7997/22
 PRESTWICK - ATC SURVEILLANCE MINIMUM ALTITUDE CHART - MINIMUM 
 ALTITUDE IN SECTOR E AMENDED TO 3200FT AMSL.
 UK AIP AD 2.EGPK-5-1 REFERS
-&lt;a href=https://raw.githubusercontent.com/john0sweet/TAK_EFB/main/PIB.xml&gt; link &lt;/a&gt;********** 
-EGGN/A8058/22
-UAS OPR WI 0.5NM RADIUS OF 553453N 0043653W (VCY DUNDONALD,
-AYRSHIRE). MAX HGT 1000FT AGL. FOR INFO 07828 160896. 
-2022-11-0744/AS4.
 &lt;a href=https://raw.githubusercontent.com/john0sweet/TAK_EFB/main/PIB.xml&gt; link &lt;/a&gt;********** 
 EGGN/A8340/22
 AIRCRAFT USING PRESTWICK MAY EXPERIENCE DELAYS OR REDUCED FLOW
@@ -1162,6 +1100,9 @@ GENERAL AVIATION CAN STILL BE ACCEPTED ON A TACTICAL BASIS
 &lt;a href=https://raw.githubusercontent.com/john0sweet/TAK_EFB/main/PIB.xml&gt; link &lt;/a&gt;********** 
 EGGN/A8567/22
 RUNWAY 23 WIND DIRECTION INDICATOR U/S.
+&lt;a href=https://raw.githubusercontent.com/john0sweet/TAK_EFB/main/PIB.xml&gt; link &lt;/a&gt;********** 
+EGGN/A8541/22
+SOUTHEND RADAR SERVICES NOT AVBL
 &lt;a href=https://raw.githubusercontent.com/john0sweet/TAK_EFB/main/PIB.xml&gt; link &lt;/a&gt;</description>
                 <styleUrl>#3</styleUrl>
                 <Point id="134">
@@ -1252,14 +1193,8 @@ AIRFIELD WESTERN WINDSOCK U/S
 EGGN/U13/23
 TWR PRIMARY CONTACT FREQUENCY CHANGED TO 118.210MHZ
 &lt;a href=https://raw.githubusercontent.com/john0sweet/TAK_EFB/main/PIB.xml&gt; link &lt;/a&gt;********** 
-EGGN/U48/23
-WATTISHAM PRIMARY RADAR U/S
-&lt;a href=https://raw.githubusercontent.com/john0sweet/TAK_EFB/main/PIB.xml&gt; link &lt;/a&gt;********** 
 EGGN/U49/23
 WATTISHAM SSR U/S
-&lt;a href=https://raw.githubusercontent.com/john0sweet/TAK_EFB/main/PIB.xml&gt; link &lt;/a&gt;********** 
-EGGN/U50/23
-PAR NOT AVBL
 &lt;a href=https://raw.githubusercontent.com/john0sweet/TAK_EFB/main/PIB.xml&gt; link &lt;/a&gt;</description>
                 <styleUrl>#3</styleUrl>
                 <Point id="148">
@@ -1270,11 +1205,6 @@ PAR NOT AVBL
             <Placemark id="151">
                 <name>BENSON</name>
                 <description>********** 
-EGGN/H9419/22
-FLYING OF MODEL ACFT WI 0.3NM RADIUS 513922N 0010616W
-(NEWINGTON, OXFORDSHIRE). FOR INFO CONTACT 01865 891236. 
-2022-12-0223/AS2.
-&lt;a href=https://raw.githubusercontent.com/john0sweet/TAK_EFB/main/PIB.xml&gt; link &lt;/a&gt;********** 
 EGGN/U7570/22
 LATEST UK MIL AIS PUBLICATIONS. UK MIL AIP SUPP 007/2022. GO TO 
 HTTPS://WWW.AIDU.MOD.UK/AIP/ FOR FURTHER DETAILS.
@@ -1321,19 +1251,6 @@ AMENDED AD OPENING HOURS:
 MON, WED 0800-1800 (0700-1700) 
 TUE, THU 1000-1500 (0900-1400) 
 FRI-0800-1700 (0700-1600)
-&lt;a href=https://raw.githubusercontent.com/john0sweet/TAK_EFB/main/PIB.xml&gt; link &lt;/a&gt;********** 
-EGGN/A8441/22
-CRANE OPR WITHIN A RADIUS OF 1.1NM CENTRED ON PSN 521253N 0001050E
-(WITHIN CAMBRIDGE ATZ) MAX JIB HGT 146FT AGL / 199FT AMSL
-&lt;a href=https://raw.githubusercontent.com/john0sweet/TAK_EFB/main/PIB.xml&gt; link &lt;/a&gt;********** 
-EGGN/A61/23
-ILS RWY 23 U/S
-&lt;a href=https://raw.githubusercontent.com/john0sweet/TAK_EFB/main/PIB.xml&gt; link &lt;/a&gt;********** 
-EGGN/A123/23
-RUNWAY 23G/05G GRASS CLOSED DUE WATERLOGGING.
-&lt;a href=https://raw.githubusercontent.com/john0sweet/TAK_EFB/main/PIB.xml&gt; link &lt;/a&gt;********** 
-EGGN/A124/23
-GRASS TAXYWAYS UNIFORM AND VICTOR CLOSED DUE WATERLOGGING.
 &lt;a href=https://raw.githubusercontent.com/john0sweet/TAK_EFB/main/PIB.xml&gt; link &lt;/a&gt;</description>
                 <styleUrl>#3</styleUrl>
                 <Point id="152">
@@ -1435,6 +1352,11 @@ OF BLDG 539(MIL1093), BLDG 539 SOUTHWEST CORNER UNLIT, BLDG 550
 SOUTHEAST AND NORTHEAST CORNER LIGHTS UNLIT, OBSTRUCTION LIGHTS
 SURROUNDING ATEX AREA NEAR BLDG 782 UNLIT, WATER TOWER(MIL1525)
 NORTH OF BLDG 772.
+&lt;a href=https://raw.githubusercontent.com/john0sweet/TAK_EFB/main/PIB.xml&gt; link &lt;/a&gt;********** 
+EGGN/U117/23
+DIGITAL AUDIO LEGAL RECORDER (DALR) FOR PHONE CALLS AND AIR 
+TRAFFIC
+TRANSMISSIONS IS UNMONITORED.
 &lt;a href=https://raw.githubusercontent.com/john0sweet/TAK_EFB/main/PIB.xml&gt; link &lt;/a&gt;</description>
                 <styleUrl>#3</styleUrl>
                 <Point id="156">
@@ -1455,6 +1377,13 @@ RFFS CAT CHANGES:
 MON 0830-1355 CAT 4, 1510-1650 CAT 7, 1750-1930 CAT 4
 FRI 1755-1935 CAT 7
 SUN 0745-1355 CAT 4
+&lt;a href=https://raw.githubusercontent.com/john0sweet/TAK_EFB/main/PIB.xml&gt; link &lt;/a&gt;********** 
+EGGN/C92/23
+AVGAS FUEL NOT AVAILABLE
+&lt;a href=https://raw.githubusercontent.com/john0sweet/TAK_EFB/main/PIB.xml&gt; link &lt;/a&gt;********** 
+EGGN/C94/23
+TEESSIDE INTERNATIONAL CTA/CTR/ATZ DEACTIVATED. AIRSPACE REVERTS 
+TO CLASS G. ATS NOT AVBL DUE STAFF SHORTAGE.
 &lt;a href=https://raw.githubusercontent.com/john0sweet/TAK_EFB/main/PIB.xml&gt; link &lt;/a&gt;</description>
                 <styleUrl>#3</styleUrl>
                 <Point id="158">
@@ -1521,10 +1450,6 @@ NUMEROUS FLOCKS OF BIRDS HAVE BEEN OBSERVED CROSSING THE
 APPROACHES TO RWY 09 AND RWY 27 AT DAWN AND DUSK WITHIN 1.5NM OF 
 TOUCHDOWN.
 UK AIP AD 2.20 REFERS
-&lt;a href=https://raw.githubusercontent.com/john0sweet/TAK_EFB/main/PIB.xml&gt; link &lt;/a&gt;********** 
-EGGN/A122/23
-MOBILE CRANE OPR 523924N 0011527E (HELLESDON) HGT 108FT AGL,
-194FT AMSL
 &lt;a href=https://raw.githubusercontent.com/john0sweet/TAK_EFB/main/PIB.xml&gt; link &lt;/a&gt;</description>
                 <styleUrl>#3</styleUrl>
                 <Point id="166">
@@ -1556,16 +1481,8 @@ EGGN/L5991/22
 CRANE OPR PSN 515325N 0021224W (GLOUCESTER) MAX HGT 158FT AGL,
 209FT AMSL.
 &lt;a href=https://raw.githubusercontent.com/john0sweet/TAK_EFB/main/PIB.xml&gt; link &lt;/a&gt;********** 
-EGGN/L6263/22
-CRANE OPR 515330N 0021224W (CHELTENHAM) MAX HGT 98FT AGL, 
-151FT AMSL.
-&lt;a href=https://raw.githubusercontent.com/john0sweet/TAK_EFB/main/PIB.xml&gt; link &lt;/a&gt;********** 
 EGGN/L20/23
 RWY 09 THRESHOLD WINDSOCK UNLIT
-&lt;a href=https://raw.githubusercontent.com/john0sweet/TAK_EFB/main/PIB.xml&gt; link &lt;/a&gt;********** 
-EGGN/L6701/22
-CRANE OPR 515346N 0020756W (CHELTENHAM) MAX HGT 83FT AGL, 
-207FT AMSL.
 &lt;a href=https://raw.githubusercontent.com/john0sweet/TAK_EFB/main/PIB.xml&gt; link &lt;/a&gt;</description>
                 <styleUrl>#3</styleUrl>
                 <Point id="170">
@@ -1604,8 +1521,9 @@ OBST LIGHTS U/S ON RWY 23 WINDSOCK AND ANEMOMETER MASTS
 EGGN/A8507/22
 SUMBURGH PRIMARY RADAR OUT OF SERVICE
 &lt;a href=https://raw.githubusercontent.com/john0sweet/TAK_EFB/main/PIB.xml&gt; link &lt;/a&gt;********** 
-EGGN/A126/23
-NDB(L) SBH/SUMBURGH 351KHZ U/S
+EGGN/A141/23
+ASUMBURGH CTA, CTR, ATZ ACTIVATED. AD, TWR HR OF OPERATION
+EXTENDED. FIRE AND RESCUE CAT 3. PPR ONLY.
 &lt;a href=https://raw.githubusercontent.com/john0sweet/TAK_EFB/main/PIB.xml&gt; link &lt;/a&gt;</description>
                 <styleUrl>#3</styleUrl>
                 <Point id="178">
@@ -1619,10 +1537,6 @@ NDB(L) SBH/SUMBURGH 351KHZ U/S
 EGGN/U6806/22
 WESTERN TAXIWAY BLUE EDGE LIGHTS U/S BETWEEN RWY04 THRESHOLD TO 
 PAR CROSSCUT
-&lt;a href=https://raw.githubusercontent.com/john0sweet/TAK_EFB/main/PIB.xml&gt; link &lt;/a&gt;********** 
-EGGN/U7245/22
-CRANE OPR AT PSN 510042N 0024047W (ILCHESTER) MAX JIB HGT 115FT 
-AGL/ 200FT AMSL
 &lt;a href=https://raw.githubusercontent.com/john0sweet/TAK_EFB/main/PIB.xml&gt; link &lt;/a&gt;********** 
 EGGN/U7317/22
 ILS RWY 26 REFERENCE DATUM HEIGHT SET TO 27FT AND DOES NOT 
@@ -1679,6 +1593,10 @@ AIP AD 2.12, AD 2.13 REFER.
 EGGN/C30/23
 RWY 13/31 CLOSED
 &lt;a href=https://raw.githubusercontent.com/john0sweet/TAK_EFB/main/PIB.xml&gt; link &lt;/a&gt;********** 
+EGGN/H46/23
+LASER AND SEARCHLIGHT DISPLAY WI 1NM RADIUS 534856N 0030322W
+(BLACKPOOL, LANCASHIRE). FOR INFO 07796 994836. 2022-10-0470/AS2.
+&lt;a href=https://raw.githubusercontent.com/john0sweet/TAK_EFB/main/PIB.xml&gt; link &lt;/a&gt;********** 
 EGGN/C56/23
 REVISED OPERATING HOURS.
 05     0800-1800, 1845-2000
@@ -1693,25 +1611,10 @@ REVISED OPERATING HOURS.
             <Placemark id="187">
                 <name>GLASGOW</name>
                 <description>********** 
-EGGN/A7640/22
-MOBILE CRANE OPR PSN 555323N 0042330W (GLASGOW). 
-MAX HGT 154FT AGL, 155FT AMSL (APRX). JIB WILL BE LOWERED IN LVP. 
-SITE CONTACT  JIM ARMOUR 07976325587
-&lt;a href=https://raw.githubusercontent.com/john0sweet/TAK_EFB/main/PIB.xml&gt; link &lt;/a&gt;********** 
-EGGN/A7642/22
-MOBILE CRANE OPR PSN 555317N 0042338W (GLASGOW). 
-MAX HGT 141FT AGL, 143FT AMSL (APRX). JIB WILL BE LOWERED IN LVP. 
-SITE CONTACT  JIM ARMOUR 07976325587
-&lt;a href=https://raw.githubusercontent.com/john0sweet/TAK_EFB/main/PIB.xml&gt; link &lt;/a&gt;********** 
 EGGN/A7680/22
 MOBILE CRANE OPR PSN 555218N 0042434W (GLASGOW). MAX HGT 114FT 
 AGL / 118FT AMSL (APRX). JIB WILL BE LOWERED IN LVP. SITE CTC 
 DOUGLAS HILL 07904 406828
-&lt;a href=https://raw.githubusercontent.com/john0sweet/TAK_EFB/main/PIB.xml&gt; link &lt;/a&gt;********** 
-EGGN/A7910/22
-MOBILE CRANE OPR PSN 555119N 0042619W (GLASGOW). MAX HGT 118FT 
-AGL / 121FT AMSL (APRX). JIB WILL BE LOWERED IN LVP. SITE CONTACT 
-ADAM BALLIE 07834 126167
 &lt;a href=https://raw.githubusercontent.com/john0sweet/TAK_EFB/main/PIB.xml&gt; link &lt;/a&gt;********** 
 EGGN/H9064/22
 SEARCHLIGHT DISPLAY WI 1NM RADIUS: 555202N 0041728W (GLASGOW).
@@ -1721,11 +1624,6 @@ EGGN/A8059/22
 RFFS DOWNGRADED TO CAT 8. RFFS CAN BE INCREASED IF REQUIRED ON A 
 PPR BASIS VIA AIRPORT COORDINATION LIMITED OR VIA GLASGOW AIRPORT 
 DUTY MANAGER ON 0141 8484510
-&lt;a href=https://raw.githubusercontent.com/john0sweet/TAK_EFB/main/PIB.xml&gt; link &lt;/a&gt;********** 
-EGGN/A8202/22
-MOBILE CRANE OPR PSN 555049N 0042829W (GLASGOW). MAX HGT 85FT 
-AGL/ 101FT AMSL (APRX). JIB WILL BE LOWERED IN LVP. SITE CONTACT 
-MICHAEL RICHARDS 07971 873912
 &lt;a href=https://raw.githubusercontent.com/john0sweet/TAK_EFB/main/PIB.xml&gt; link &lt;/a&gt;</description>
                 <styleUrl>#3</styleUrl>
                 <Point id="186">
@@ -1783,6 +1681,10 @@ EGGN/A8298/22
 LIT CRANE OPR PSN 532136.3387N 0021704.8546W (VCY MANCHESTER 
 AIRPORT), MAX HGT 174FT AGL/396FT AMSL. AIP SUP 025/2022 EXTENDED 
 UNTIL THE CRANE IS INCORPORATED IN THE AIP AS OF 23 MARCH 2023.
+&lt;a href=https://raw.githubusercontent.com/john0sweet/TAK_EFB/main/PIB.xml&gt; link &lt;/a&gt;********** 
+EGGN/H9216/22
+SEARCHLIGHT DISPLAY WI 1NM RADIUS: 532841N 0021531W (ECCLES,
+MANCHESTER). FOR INFO 07973 239939. 2022-01-0026/AS4.
 &lt;a href=https://raw.githubusercontent.com/john0sweet/TAK_EFB/main/PIB.xml&gt; link &lt;/a&gt;</description>
                 <styleUrl>#3</styleUrl>
                 <Point id="192">
@@ -1853,13 +1755,6 @@ DUE TO CONTROLLER TRAINING
 &lt;a href=https://raw.githubusercontent.com/john0sweet/TAK_EFB/main/PIB.xml&gt; link &lt;/a&gt;********** 
 EGGN/U7511/22
 TAXIWAY ALPHA UNUSABLE AT NIGHT DUE TO U/S LIGHTING
-&lt;a href=https://raw.githubusercontent.com/john0sweet/TAK_EFB/main/PIB.xml&gt; link &lt;/a&gt;********** 
-EGGN/U7361/22
-NO DIVERSIONS, NO PRACTICE DIVERSIONS AND NO VISITORS
-&lt;a href=https://raw.githubusercontent.com/john0sweet/TAK_EFB/main/PIB.xml&gt; link &lt;/a&gt;********** 
-EGGN/U38/23
-CHANGE TO AD OPENING OPENING HOURS
-0900-1500
 &lt;a href=https://raw.githubusercontent.com/john0sweet/TAK_EFB/main/PIB.xml&gt; link &lt;/a&gt;********** 
 EGGN/U79/23
 ILS RWY 16, USEABLE WITH RESTRICTIONS
@@ -1957,13 +1852,6 @@ SUN 1500-1645 (1400-1545) AND 1715-1915 (1615-1815): AND BY
 ARRANGEMENT WITH AD OPERATOR HIGHLANDS AND ISLANDS AIRPORTS LTD 
 (HIAL)
 UK AIP AD 2.3, AD 2.18, AD 2.19 REFER.
-&lt;a href=https://raw.githubusercontent.com/john0sweet/TAK_EFB/main/PIB.xml&gt; link &lt;/a&gt;********** 
-EGGN/I4036/22
-WICK ATZ DEACTIVATED, AD CLOSED AND ATC/MET NOT AVBL DUE ATC 
-STAFF SHORTAGE. ACFT NOT REQUIRING USE OF A LICENSED AERODROME MAY 
-OPERATE IN ACCORDANCE WITH HIGHLANDS AND ISLANDS AIRPORTS LTD (HIAL) 
-OUT OF HOURS INDEMNITY SCHEME. INSTRUMENT APPROACH PROCEDURES ARE 
-UNAVAILABLE WHEN ATC IS NOT IN ATTENDANCE.
 &lt;a href=https://raw.githubusercontent.com/john0sweet/TAK_EFB/main/PIB.xml&gt; link &lt;/a&gt;</description>
                 <styleUrl>#3</styleUrl>
                 <Point id="202">
@@ -2026,10 +1914,6 @@ EGGN/U7347/22
 OBSTRUCTION LIGHT ON DIGITAL AIRPORT SURVEILLANCE RADAR (DASR) 
 UNLIT.
 &lt;a href=https://raw.githubusercontent.com/john0sweet/TAK_EFB/main/PIB.xml&gt; link &lt;/a&gt;********** 
-EGGN/U7345/22
-USE CAUTION: MEN AND EQUIPMENT WORKING WITHIN 670FT SOUTHWEST OF
-RWY 24 OVERRUN
-&lt;a href=https://raw.githubusercontent.com/john0sweet/TAK_EFB/main/PIB.xml&gt; link &lt;/a&gt;********** 
 EGGN/U7577/22
 OBST LIGHT ON BARRIER SHACK THREE SOUTH UNLIT.
 &lt;a href=https://raw.githubusercontent.com/john0sweet/TAK_EFB/main/PIB.xml&gt; link &lt;/a&gt;********** 
@@ -2053,10 +1937,6 @@ CATEGORY 8 AND 9 AIRCRAFT AND CRITICAL LEVEL FOR CATEGORY 10.
 &lt;a href=https://raw.githubusercontent.com/john0sweet/TAK_EFB/main/PIB.xml&gt; link &lt;/a&gt;********** 
 EGGN/U57/23
 CHARLIE RAMP NORTH SPOTS 33 TO 42 CLOSED
-&lt;a href=https://raw.githubusercontent.com/john0sweet/TAK_EFB/main/PIB.xml&gt; link &lt;/a&gt;********** 
-EGGN/U97/23
-RWY 06/24 SURFACE CONDITION IS CONCRETE WET ASPHALT WET, NO
-STANDING WATER.
 &lt;a href=https://raw.githubusercontent.com/john0sweet/TAK_EFB/main/PIB.xml&gt; link &lt;/a&gt;</description>
                 <styleUrl>#3</styleUrl>
                 <Point id="208">
@@ -2106,9 +1986,6 @@ RWY EDGE LIGHTS RWY 17/35 U/S
 &lt;a href=https://raw.githubusercontent.com/john0sweet/TAK_EFB/main/PIB.xml&gt; link &lt;/a&gt;********** 
 EGGN/L6703/22
 RWY APPROACH LIGHTS FOR RWY 17/35 U/S
-&lt;a href=https://raw.githubusercontent.com/john0sweet/TAK_EFB/main/PIB.xml&gt; link &lt;/a&gt;********** 
-EGGN/L57/23
-AD CLOSED AFIS NOT AVBL
 &lt;a href=https://raw.githubusercontent.com/john0sweet/TAK_EFB/main/PIB.xml&gt; link &lt;/a&gt;</description>
                 <styleUrl>#3</styleUrl>
                 <Point id="214">
@@ -2146,14 +2023,6 @@ EGGN/C28/23
 SOUTHERN END OF TWY DELTA AND DELTA BRAVO PARKING RAMP CLOSED TO 
 ACFT MOVEMENTS DUE WIP.
 UK AIP AD 2.20 GROUND MOVEMENT REFERS
-&lt;a href=https://raw.githubusercontent.com/john0sweet/TAK_EFB/main/PIB.xml&gt; link &lt;/a&gt;********** 
-EGGN/C73/23
-CRANE OPR PSN 511657N 0004604W (TEMPLER AVENUE, FARNBOROUGH
-BUSINESS PARK). HGT 138FT AGL/353FT AMSL. CRANE RADIUS 60M.
-&lt;a href=https://raw.githubusercontent.com/john0sweet/TAK_EFB/main/PIB.xml&gt; link &lt;/a&gt;********** 
-EGGN/C79/23
-CRANE OPR WI 60M RADIUS OF PSN 511716N 0004520W (MEUDON 
-AVE,FARNBOROUGH). HGT 151FT AGL/371FT AMSL.
 &lt;a href=https://raw.githubusercontent.com/john0sweet/TAK_EFB/main/PIB.xml&gt; link &lt;/a&gt;</description>
                 <styleUrl>#3</styleUrl>
                 <Point id="218">
@@ -2210,9 +2079,6 @@ VDF ASSOCIATED WITH APPROACH FREQUENCY 120.705MHZ U/S.
 &lt;a href=https://raw.githubusercontent.com/john0sweet/TAK_EFB/main/PIB.xml&gt; link &lt;/a&gt;********** 
 EGGN/C58/23
 ILS LOCALIZER RWY 21 U/S
-&lt;a href=https://raw.githubusercontent.com/john0sweet/TAK_EFB/main/PIB.xml&gt; link &lt;/a&gt;********** 
-EGGN/C78/23
-RFFS DOWNGRADED TO CAT 1
 &lt;a href=https://raw.githubusercontent.com/john0sweet/TAK_EFB/main/PIB.xml&gt; link &lt;/a&gt;</description>
                 <styleUrl>#3</styleUrl>
                 <Point id="224">
@@ -2223,10 +2089,6 @@ RFFS DOWNGRADED TO CAT 1
             <Placemark id="227">
                 <name>LIVERPOOL</name>
                 <description>********** 
-EGGN/A8535/22
-AUTO METAR WILL DISPLAY ///// FOR TEMPERATURE AND DEW POINT
-READINGS DURING PERIODS OF ATC CLOSURE.
-&lt;a href=https://raw.githubusercontent.com/john0sweet/TAK_EFB/main/PIB.xml&gt; link &lt;/a&gt;********** 
 EGGN/A127/23
 NANTI2V SID NOT AVAILABLE. PILOTS CAN EXPECT TO RECEIVE
 STANDARD OUTBOUND CLEARANCE 145 DEGREES CLIMB TO ALTITUDE
@@ -2294,6 +2156,14 @@ UP TO TWO CRANES OPERATING AT PSN: 513251N 0002032W (GREENFORD,
 WEST LONDON). UP TO 330FT AGL/450FT AMSL. FOR INFO CONTACT 
 07776 164760. ON EXPIRY OF THIS NOTAM DETAILS WILL BE INCLUDED IN 
 THE UK AIP ENR 5.4. 2022-11-0362/AS8.
+&lt;a href=https://raw.githubusercontent.com/john0sweet/TAK_EFB/main/PIB.xml&gt; link &lt;/a&gt;********** 
+EGGN/U115/23
+THE FOLLOWING RNAV SID NOT AVBL:
+BUZAD 4X/2Y, MATCH 2X/2Y, COMPTON 6X/5Y, CHARLIE AND ROMEO.
+ALREADY PUBLISHED DVOR SID ARE TO BE USED.
+&lt;a href=https://raw.githubusercontent.com/john0sweet/TAK_EFB/main/PIB.xml&gt; link &lt;/a&gt;********** 
+EGGN/U123/23
+AD CLOSED
 &lt;a href=https://raw.githubusercontent.com/john0sweet/TAK_EFB/main/PIB.xml&gt; link &lt;/a&gt;</description>
                 <styleUrl>#3</styleUrl>
                 <Point id="232">
@@ -2316,9 +2186,6 @@ STEEL PLATE ON TAXIWAY ALPHA 40M EAST OF A13
 &lt;a href=https://raw.githubusercontent.com/john0sweet/TAK_EFB/main/PIB.xml&gt; link &lt;/a&gt;********** 
 EGGN/A8589/22
 STEEL PLATE 2M SOUTH OF B1 HOLDING BAR
-&lt;a href=https://raw.githubusercontent.com/john0sweet/TAK_EFB/main/PIB.xml&gt; link &lt;/a&gt;********** 
-EGGN/A28/23
-ILS RWY 06 DOWNGARDED TO CAT 1 ONLY
 &lt;a href=https://raw.githubusercontent.com/john0sweet/TAK_EFB/main/PIB.xml&gt; link &lt;/a&gt;********** 
 EGGN/A105/23
 BRAVO TAXIWAY LINK CLOSED
@@ -2347,21 +2214,8 @@ LICENSED AREODROME
             <Placemark id="239">
                 <name>CARDIFF</name>
                 <description>********** 
-EGGN/A8509/22
-DUE TO ATC STAFFING, REQUESTS TO CROSS THE CARDIFF CTA/CTR MAY BE
-REFUSED OR DELAYED. PILOTS SHOULD PLAN TO REMAIN CLEAR OF
-CARDIFF CONTROLLED AIRSPACE AND USE THE LISTENING SSR CODE 3636
-&lt;a href=https://raw.githubusercontent.com/john0sweet/TAK_EFB/main/PIB.xml&gt; link &lt;/a&gt;********** 
-EGGN/A8511/22
-BASIC SERVICE, TRAFFIC SERVICE AND DECONFLICTION SERVICE NOT
-AVAILABLE FROM CARDIFF ATS. PILOTS ARE ENCOURAGED TO USE THE CARDIFF
-LISTENING SQUAWK SSR 3636
-&lt;a href=https://raw.githubusercontent.com/john0sweet/TAK_EFB/main/PIB.xml&gt; link &lt;/a&gt;********** 
 EGGN/A54/23
 AVGAS NOT AVBL
-&lt;a href=https://raw.githubusercontent.com/john0sweet/TAK_EFB/main/PIB.xml&gt; link &lt;/a&gt;********** 
-EGGN/A106/23
-NDB(L) CDF/CARDIFF 388.5KHZ U/S
 &lt;a href=https://raw.githubusercontent.com/john0sweet/TAK_EFB/main/PIB.xml&gt; link &lt;/a&gt;</description>
                 <styleUrl>#3</styleUrl>
                 <Point id="238">
@@ -2418,8 +2272,8 @@ EGGN/I4056/22
 CLOUD BASE RECORDER U/S. AUTO-METAR CLOUD BASE INFORMATION
 SHOULD BE DISREGARDED.
 &lt;a href=https://raw.githubusercontent.com/john0sweet/TAK_EFB/main/PIB.xml&gt; link &lt;/a&gt;********** 
-EGGN/I69/23
-NUMBER 2 PAPI UNIT FROM RWY 24 EDGE U/S.
+EGGN/I80/23
+ABBREVIATED PAPI SYSTEM IN USE RWY 24.
 &lt;a href=https://raw.githubusercontent.com/john0sweet/TAK_EFB/main/PIB.xml&gt; link &lt;/a&gt;</description>
                 <styleUrl>#3</styleUrl>
                 <Point id="244">
@@ -2490,10 +2344,6 @@ AIP ENR 5.4. 2022-11-0577/AS8.
 &lt;a href=https://raw.githubusercontent.com/john0sweet/TAK_EFB/main/PIB.xml&gt; link &lt;/a&gt;********** 
 EGGN/C6842/22
 STAND 32 CLOSED
-&lt;a href=https://raw.githubusercontent.com/john0sweet/TAK_EFB/main/PIB.xml&gt; link &lt;/a&gt;********** 
-EGGN/C39/23
-STEEL PLATE ON TWY DELTA 600M EAST OF D8, ACFT SHOULD TAXI WITH 
-CAUTION.
 &lt;a href=https://raw.githubusercontent.com/john0sweet/TAK_EFB/main/PIB.xml&gt; link &lt;/a&gt;</description>
                 <styleUrl>#3</styleUrl>
                 <Point id="250">
@@ -2521,11 +2371,8 @@ CAUTION.
             </Placemark>
             <Placemark id="257">
                 <name>WELLESBOURNE MOUNTFORD</name>
-                <description>********** 
-EGGN/L32/23
-RWY 05/23 CLSD
-&lt;a href=https://raw.githubusercontent.com/john0sweet/TAK_EFB/main/PIB.xml&gt; link &lt;/a&gt;</description>
-                <styleUrl>#3</styleUrl>
+                <description>No Notams</description>
+                <styleUrl>#6</styleUrl>
                 <Point id="256">
                     <coordinates>-1.614444,52.192222,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -2796,11 +2643,8 @@ OVERHEAD UPWIND END OF RUNWAY
             </Placemark>
             <Placemark id="299">
                 <name>COMPTON ABBAS</name>
-                <description>********** 
-EGGN/L108/23
-AERODROME CLSD
-&lt;a href=https://raw.githubusercontent.com/john0sweet/TAK_EFB/main/PIB.xml&gt; link &lt;/a&gt;</description>
-                <styleUrl>#10</styleUrl>
+                <description>No Notams</description>
+                <styleUrl>#13</styleUrl>
                 <Point id="298">
                     <coordinates>-2.153611,50.967222,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -2817,8 +2661,11 @@ AERODROME CLSD
             </Placemark>
             <Placemark id="303">
                 <name>CUMBERNAULD</name>
-                <description>No Notams</description>
-                <styleUrl>#13</styleUrl>
+                <description>********** 
+EGGN/I77/23
+APAPI RWY 07 U/S
+&lt;a href=https://raw.githubusercontent.com/john0sweet/TAK_EFB/main/PIB.xml&gt; link &lt;/a&gt;</description>
+                <styleUrl>#10</styleUrl>
                 <Point id="302">
                     <coordinates>-3.975556,55.974722,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -2846,6 +2693,11 @@ INCORPORATED IN THE AIP AS OF 23 MARCH 2023.
 &lt;a href=https://raw.githubusercontent.com/john0sweet/TAK_EFB/main/PIB.xml&gt; link &lt;/a&gt;********** 
 EGGN/L82/23
 JET A1 FUEL PUMP IS PPR VIA DUTY OFFICER
+&lt;a href=https://raw.githubusercontent.com/john0sweet/TAK_EFB/main/PIB.xml&gt; link &lt;/a&gt;********** 
+EGGN/L122/23
+NE OF AD NOT AVBL FOR ALL ACFT TAXI DUE TO VERY SOFT GROUND AND 
+MULTIPLE DEEP RUTS. 200M NORTH OF RWY 24 AND NE CORNER CONTAIN DEEP 
+RUTS. CAUTION TO ROTARY LANDING NORTH SIDE GRASS RWY
 &lt;a href=https://raw.githubusercontent.com/john0sweet/TAK_EFB/main/PIB.xml&gt; link &lt;/a&gt;</description>
                 <styleUrl>#10</styleUrl>
                 <Point id="304">
@@ -3136,13 +2988,8 @@ NETHERAVON AFIS CLOSED IN LINE WITH SALISBURY OPS CLOSURE.
             </Placemark>
             <Placemark id="355">
                 <name>NEWTOWNARDS</name>
-                <description>********** 
-EGGN/I63/23
-CRANE OPR PSN 543511N 0054136W (NEWTOWNARDS) MAX HGT 100FT AGL, 
-109FT AMSL. CLOSE TO AIRFIELD PERIMETER AND RWY 15 APCH/RWY 33 
-CLIMBOUT. PILOTS ARE ADVISED TO EXERCISE CAUTION
-&lt;a href=https://raw.githubusercontent.com/john0sweet/TAK_EFB/main/PIB.xml&gt; link &lt;/a&gt;</description>
-                <styleUrl>#10</styleUrl>
+                <description>No Notams</description>
+                <styleUrl>#13</styleUrl>
                 <Point id="354">
                     <coordinates>-5.691944,54.581111,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -3313,6 +3160,10 @@ AD IDENT BEACON SC U/S
                 <description>********** 
 EGGN/L6316/22
 LOCATOR SH/SHOBDON 426KHZ U/S
+&lt;a href=https://raw.githubusercontent.com/john0sweet/TAK_EFB/main/PIB.xml&gt; link &lt;/a&gt;********** 
+EGGN/L117/23
+AD NOT AVBL FOR ACFT REQUIRING THE USE OF A LICENSED AD DUE NO 
+RFFS COVER
 &lt;a href=https://raw.githubusercontent.com/john0sweet/TAK_EFB/main/PIB.xml&gt; link &lt;/a&gt;</description>
                 <styleUrl>#10</styleUrl>
                 <Point id="382">

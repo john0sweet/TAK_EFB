@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
     <Document id="1">
-        <name>UK Airfields and HLS Expires 06/01/2023, 21:11</name>
+        <name>UK Airfields and HLS Expires 06/01/2023, 22:11</name>
         <Folder id="2">
             <Style id="6">
                 <IconStyle id="7">
@@ -502,9 +502,6 @@ OBST LIGHT U/S ON VDF MAST
 &lt;a href=https://raw.githubusercontent.com/john0sweet/TAK_EFB/main/PIB.xml&gt; link &lt;/a&gt;********** 
 EGGN/I48/23
 OBST LIGHT U/S ON NDB MAST
-&lt;a href=https://raw.githubusercontent.com/john0sweet/TAK_EFB/main/PIB.xml&gt; link &lt;/a&gt;********** 
-EGGN/I85/23
-STORNOWAY ATZ ACTIVE. AD/ATS/MET SERVICE ACTIVE. RFFS CAT 5 AVBL.)
 &lt;a href=https://raw.githubusercontent.com/john0sweet/TAK_EFB/main/PIB.xml&gt; link &lt;/a&gt;</description>
                 <styleUrl>#3</styleUrl>
                 <Point id="66">
@@ -597,13 +594,8 @@ UK AIP EGBB AD 2.10 REFERS.)
             </Placemark>
             <Placemark id="79">
                 <name>HAWARDEN</name>
-                <description>********** 
-EGGN/L105/23
-HAWARDEN RADAR SERVICE IS NOT AVBL DUE TO STAFF SHORTAGE. 
-HAWARDEN RADAR FREQUENCY WILL BE BAND-BOXED WITH HAWARDEN TOWER 
-PROVIDING A BASIC SERVICE ONLY.
-&lt;a href=https://raw.githubusercontent.com/john0sweet/TAK_EFB/main/PIB.xml&gt; link &lt;/a&gt;</description>
-                <styleUrl>#3</styleUrl>
+                <description>No Notams</description>
+                <styleUrl>#6</styleUrl>
                 <Point id="78">
                     <coordinates>-2.977778,53.178056,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -877,6 +869,9 @@ AD 2 EGLC 6-1/6-2/6-3 REMOVED AND CHARTS RENUMBERED.
 &lt;a href=https://raw.githubusercontent.com/john0sweet/TAK_EFB/main/PIB.xml&gt; link &lt;/a&gt;********** 
 EGGN/C7408/22
 3 TAXIWAY CENTRELINE LIGHTS U/S ABEAM EASTERN COMPOUND.
+&lt;a href=https://raw.githubusercontent.com/john0sweet/TAK_EFB/main/PIB.xml&gt; link &lt;/a&gt;********** 
+EGGN/C102/23
+AERODROME OPENING HOURS EXTENDED.
 &lt;a href=https://raw.githubusercontent.com/john0sweet/TAK_EFB/main/PIB.xml&gt; link &lt;/a&gt;</description>
                 <styleUrl>#3</styleUrl>
                 <Point id="108">
@@ -1381,9 +1376,8 @@ SUN 0745-1355 CAT 4
 EGGN/C92/23
 AVGAS FUEL NOT AVAILABLE
 &lt;a href=https://raw.githubusercontent.com/john0sweet/TAK_EFB/main/PIB.xml&gt; link &lt;/a&gt;********** 
-EGGN/C94/23
-TEESSIDE INTERNATIONAL CTA/CTR/ATZ DEACTIVATED. AIRSPACE REVERTS 
-TO CLASS G. ATS NOT AVBL DUE STAFF SHORTAGE.
+EGGN/C95/23
+TEESSIDE INTERNATIONAL CTA/CTR/ATZ ACTIVATED. AD HR EXTENDED.
 &lt;a href=https://raw.githubusercontent.com/john0sweet/TAK_EFB/main/PIB.xml&gt; link &lt;/a&gt;</description>
                 <styleUrl>#3</styleUrl>
                 <Point id="158">
@@ -1827,9 +1821,6 @@ PLANNED CORPORATE MOVEMENTS. TO ENSURE THAT AD FIRE AND RESCUE
 SERVICE ARE MAINTAINED FOR 15 MINUTES AFTER A DEPARTURE, ACFT ARE
 REQUIRED TO BE AIRBORNE 15 MINUTES PRIOR TO THE AD PUBLISHED CLOSING
 TIME.
-&lt;a href=https://raw.githubusercontent.com/john0sweet/TAK_EFB/main/PIB.xml&gt; link &lt;/a&gt;********** 
-EGGN/I54/23
-HELICOPTER TRAINING AREA NOT AVAILABLE DUE FLOODING
 &lt;a href=https://raw.githubusercontent.com/john0sweet/TAK_EFB/main/PIB.xml&gt; link &lt;/a&gt;********** 
 EGGN/I58/23
 ATC PHONE NUMBER 028 7181 3337 U/S.

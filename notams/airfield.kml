@@ -3,17 +3,6 @@
     <Document id="1">
         <name>UK Airfields and HLS Expires 08/01/2023, 14:11</name>
         <Folder id="2">
-            <Style id="6">
-                <IconStyle id="7">
-                    <color>ff008000</color>
-                    <colorMode>normal</colorMode>
-                    <scale>1</scale>
-                    <heading>0</heading>
-                    <Icon id="8">
-                        <href>https://raw.githubusercontent.com/john0sweet/TAK_EFB/main/icons/airport.png</href>
-                    </Icon>
-                </IconStyle>
-            </Style>
             <Style id="3">
                 <IconStyle id="4">
                     <color>ff0000ff</color>
@@ -28,8 +17,10 @@
             <name>Airfields</name>
             <Placemark id="17">
                 <name>MOUNT PLEASANT</name>
-                <description>No Notams</description>
-                <styleUrl>#6</styleUrl>
+                <description>*****TAF EGYP 081016Z 0812/0906 05010KT CAVOK BECMG 0812/0813 36015G25KT 520003 PROB30 TEMPO 0813/0906 VRB07KT 560003 PROB40 TEMPO 0815/0906 36017G35KT 530003 PROB30 TEMPO 0900/0906 SCT004******
+*****No valid METAR******
+No Notams</description>
+                <styleUrl>#3</styleUrl>
                 <Point id="16">
                     <coordinates>-58.456111,-51.821789,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -37,8 +28,10 @@
             </Placemark>
             <Placemark id="19">
                 <name>GUERNSEY</name>
-                <description>No Notams</description>
-                <styleUrl>#6</styleUrl>
+                <description>*****TAF EGJB 081058Z 0812/0821 22018KT 9999 FEW016CB PROB40 TEMPO 0812/0821 22022G35KT 6000 SHRAGS BKN014CB******
+*****No valid METAR******
+No Notams</description>
+                <styleUrl>#3</styleUrl>
                 <Point id="18">
                     <coordinates>-2.602778,49.435000,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -46,8 +39,10 @@
             </Placemark>
             <Placemark id="21">
                 <name>ALDERNEY</name>
-                <description>No Notams</description>
-                <styleUrl>#6</styleUrl>
+                <description>*****TAF EGJA 081058Z 0812/0821 22018KT 9999 FEW016CB PROB40 TEMPO 0812/0821 22022G35KT 6000 SHRAGS BKN014CB******
+*****No valid METAR******
+No Notams</description>
+                <styleUrl>#3</styleUrl>
                 <Point id="20">
                     <coordinates>-2.214444,49.706667,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -55,7 +50,9 @@
             </Placemark>
             <Placemark id="23">
                 <name>ISLE OF MAN</name>
-                <description>********** 
+                <description>*****TAF EGNS 081100Z 0812/0821 22022KT 9999 SCT020******
+*****No valid METAR******
+********** 
 EGGN/C6232/22
 ATIS IS NOT COMPATIBLE WITH GLOBAL REPORTING FORMAT (GRF) 
 PARAMETERS.
@@ -69,8 +66,10 @@ GRF REPORTS WILL BE PASSED ON THE RTF BY ATC.
             </Placemark>
             <Placemark id="25">
                 <name>JERSEY</name>
-                <description>No Notams</description>
-                <styleUrl>#6</styleUrl>
+                <description>*****TAF EGJJ 081058Z 0812/0821 22018KT 9999 FEW016CB TEMPO 0812/0821 22022G34KT PROB30 TEMPO 0812/0821 6000 SHRAGS BKN014CB******
+*****No valid METAR******
+No Notams</description>
+                <styleUrl>#3</styleUrl>
                 <Point id="24">
                     <coordinates>-2.195556,49.208056,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -78,7 +77,9 @@ GRF REPORTS WILL BE PASSED ON THE RTF BY ATC.
             </Placemark>
             <Placemark id="27">
                 <name>LEEDS EAST</name>
-                <description>********** 
+                <description>***** No Valid TAF *****
+***** No Valid METAR *****
+********** 
 EGGN/L6797/22
 CRANE OPR PSN 535020N 0011156W (LEEDS EAST AD, DISPLACED 
 THRESHOLD OF DISUSED RWY 16) MAX HGT 130FT AMSL/ 100FT AGL
@@ -96,8 +97,10 @@ UK AIP EGCM AD 2.18, AD 2.EGCM-2-1 REFER.
             </Placemark>
             <Placemark id="29">
                 <name>SANDTOFT</name>
-                <description>No Notams</description>
-                <styleUrl>#6</styleUrl>
+                <description>***** No Valid TAF *****
+***** No Valid METAR *****
+No Notams</description>
+                <styleUrl>#3</styleUrl>
                 <Point id="28">
                     <coordinates>-0.858333,53.559722,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -105,7 +108,9 @@ UK AIP EGCM AD 2.18, AD 2.EGCM-2-1 REFER.
             </Placemark>
             <Placemark id="31">
                 <name>TATENHILL</name>
-                <description>********** 
+                <description>***** No Valid TAF *****
+***** No Valid METAR *****
+********** 
 EGGN/L30/23
 GRASS TAXIWAY CLSD AND GRASS PARKING UNUSABLE DUE WATERLOGGING
 &lt;a href=https://raw.githubusercontent.com/john0sweet/TAK_EFB/main/PIB.xml&gt; link &lt;/a&gt;********** 
@@ -124,7 +129,9 @@ FIRE COVER.
             </Placemark>
             <Placemark id="33">
                 <name>NEWQUAY</name>
-                <description>********** 
+                <description>*****TAF EGHQ 081102Z 0812/0821 21015KT 9999 SCT030 TEMPO 0812/0816 23020G30KT TEMPO 0812/0813 6000 SHRA PROB30 TEMPO 0812/0813 3000 +SHRAGS BKN014 PROB30 TEMPO 0813/0816 6000 SHRA BKN014 BECMG 0816/0819 27015KT TEMPO 0816/0821 28025G35KT 6000 SHRA BKN014 PROB30 TEMPO 0816/0821 3000 +SHRAGS BKN009******
+*****No valid METAR******
+********** 
 EGGN/C5635/22
 AMEND RESCUE AND FIRE FIGHTING SERVICES AT NEWQUAY TO ADD -  RFF 
 CATEGORY 9 IS ALSO AVAILABLE BY PRIOR ARRANGEMENT.
@@ -147,8 +154,10 @@ PLACE.
             </Placemark>
             <Placemark id="35">
                 <name>THRUXTON</name>
-                <description>No Notams</description>
-                <styleUrl>#6</styleUrl>
+                <description>***** No Valid TAF *****
+***** No Valid METAR *****
+No Notams</description>
+                <styleUrl>#3</styleUrl>
                 <Point id="34">
                     <coordinates>-1.600000,51.210556,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -156,7 +165,9 @@ PLACE.
             </Placemark>
             <Placemark id="37">
                 <name>SYWELL</name>
-                <description>********** 
+                <description>***** No Valid TAF *****
+***** No Valid METAR *****
+********** 
 EGGN/L6058/22
 HEL WEST ENTRY/EXIT POINT TO NORTHAMPTON/SYWELL ATZ IS CLSD 
 EXCEPT FOR HEL ARRIVING OR DEPARTING FOR SKYTECH APRON ONLY. HEL 
@@ -178,8 +189,10 @@ MOGAS FUEL NOT AVAILABLE
             </Placemark>
             <Placemark id="39">
                 <name>BEDFORD</name>
-                <description>No Notams</description>
-                <styleUrl>#6</styleUrl>
+                <description>***** No Valid TAF *****
+***** No Valid METAR *****
+No Notams</description>
+                <styleUrl>#3</styleUrl>
                 <Point id="38">
                     <coordinates>-0.445556,52.232500,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -187,8 +200,10 @@ MOGAS FUEL NOT AVAILABLE
             </Placemark>
             <Placemark id="41">
                 <name>LEE ON SOLENT</name>
-                <description>No Notams</description>
-                <styleUrl>#6</styleUrl>
+                <description>***** No Valid TAF *****
+***** No Valid METAR *****
+No Notams</description>
+                <styleUrl>#3</styleUrl>
                 <Point id="40">
                     <coordinates>-1.206667,50.815556,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -196,8 +211,10 @@ MOGAS FUEL NOT AVAILABLE
             </Placemark>
             <Placemark id="43">
                 <name>MERRYFIELD</name>
-                <description>No Notams</description>
-                <styleUrl>#6</styleUrl>
+                <description>***** No Valid TAF *****
+***** No Valid METAR *****
+No Notams</description>
+                <styleUrl>#3</styleUrl>
                 <Point id="42">
                     <coordinates>-2.935667,50.962500,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -205,7 +222,9 @@ MOGAS FUEL NOT AVAILABLE
             </Placemark>
             <Placemark id="45">
                 <name>CRANFIELD</name>
-                <description>********** 
+                <description>*****TAF EGTC 081100Z 0812/0818 20012KT 9999 SCT020 TEMPO 0812/0818 7000 SHRA PROB30 TEMPO 0812/0817 21015G26KT 3000 +SHRA SHGS BKN014CB******
+*****No valid METAR******
+********** 
 EGGN/L5768/22
 OBSTRUCTION LIGHTS ON HANGARS U/S DUE WIP
 &lt;a href=https://raw.githubusercontent.com/john0sweet/TAK_EFB/main/PIB.xml&gt; link &lt;/a&gt;********** 
@@ -221,8 +240,10 @@ AIRPORT AUTHORITY DUE EXTENSIVE WIP
             </Placemark>
             <Placemark id="47">
                 <name>KEMBLE</name>
-                <description>No Notams</description>
-                <styleUrl>#6</styleUrl>
+                <description>***** No Valid TAF *****
+***** No Valid METAR *****
+No Notams</description>
+                <styleUrl>#3</styleUrl>
                 <Point id="46">
                     <coordinates>-2.056944,51.668056,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -230,7 +251,9 @@ AIRPORT AUTHORITY DUE EXTENSIVE WIP
             </Placemark>
             <Placemark id="49">
                 <name>ST ATHAN</name>
-                <description>********** 
+                <description>*****TAF EGSY 081104Z 0812/0821 21012KT 9999 SCT025 TEMPO 0812/0821 23015G30KT TEMPO 0812/0815 6000 SHRA BKN010 PROB40 TEMPO 0812/0815 3000 +SHRAGS BKN008 BKN020CB PROB30 TEMPO 0815/0818 6000 SHRA BKN010 TEMPO 0818/0821 6000 SHRA PROB30 TEMPO 0818/0821 3000 +SHRAGS BKN014******
+*****No valid METAR******
+********** 
 EGGN/L4534/22
 RADIO NAVIGATION AND LANDING AIDS. 
 ILS/GP ADD REMARK, 
@@ -254,7 +277,9 @@ ATC CLSD IN THE EVENT OF AN EMERGENCY CTC AD SECURITY ON 01446
             </Placemark>
             <Placemark id="51">
                 <name>LITTLE RISSINGTON</name>
-                <description>********** 
+                <description>***** No Valid TAF *****
+***** No Valid METAR *****
+********** 
 EGGN/U6702/22
 WIP ON AD. INCREASED CONSTRUCTION VEHICLE MOVEMENTS AROUND ACFT
 MOVEMENT AREAS.
@@ -267,8 +292,10 @@ MOVEMENT AREAS.
             </Placemark>
             <Placemark id="55">
                 <name>PREDANNACK</name>
-                <description>No Notams</description>
-                <styleUrl>#6</styleUrl>
+                <description>***** No Valid TAF *****
+***** No Valid METAR *****
+No Notams</description>
+                <styleUrl>#3</styleUrl>
                 <Point id="54">
                     <coordinates>-5.231769,50.002033,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -276,7 +303,9 @@ MOVEMENT AREAS.
             </Placemark>
             <Placemark id="57">
                 <name>MIDDLE WALLOP</name>
-                <description>********** 
+                <description>***** No Valid TAF *****
+*****No valid METAR******
+********** 
 EGGN/U106/23
 ATIS UNSERVICABLE
 &lt;a href=https://raw.githubusercontent.com/john0sweet/TAK_EFB/main/PIB.xml&gt; link &lt;/a&gt;********** 
@@ -295,7 +324,9 @@ MIDDLE WALLOP ATZ) UP TO 1000FT AGL/1297FT AMSL
             </Placemark>
             <Placemark id="59">
                 <name>SHOREHAM</name>
-                <description>********** 
+                <description>*****TAF EGKA 081100Z 0812/0819 21017KT 9999 SCT018 TEMPO 0812/0818 22022G34KT 7000 SHRA PROB30 TEMPO 0812/0818 4000 +SHRA SHGS BKN014CB PROB30 TEMPO 0818/0819 7000 SHRA******
+*****No valid METAR******
+********** 
 EGGN/C5885/22
 CRANE OPR PSN 504953N 0001511W (EAST SHOREHAM). 
 140FT AGL/151FT AMSL.
@@ -323,7 +354,9 @@ ACFT DUE TO WATERLOGGING
             </Placemark>
             <Placemark id="61">
                 <name>LONDON HEATHROW</name>
-                <description>********** 
+                <description>*****TAF EGLL 081057Z 0812/0918 21013KT 9999 SCT020 TEMPO 0812/0819 7000 SHRA PROB30 TEMPO 0812/0816 21016G27KT 3000 +SHRA BKN014 BKN020CB PROB30 TEMPO 0819/0902 8000 SHRA BKN013 PROB30 TEMPO 0907/0912 8000 SHRA BKN013 PROB30 TEMPO 0912/0917 28017G27KT******
+*****No valid METAR******
+********** 
 EGGN/A7064/22
 LONDON HEATHROW OBSTACLE
 ADD A NEW CRANE TO AD OBSTACLES - IN CIRCLING AREA AND AT AD 
@@ -439,7 +472,9 @@ STAND 235 CLOSED DUE TO WIP.
             </Placemark>
             <Placemark id="63">
                 <name>EXETER</name>
-                <description>********** 
+                <description>*****TAF EGTE 081102Z 0812/0819 21010KT 9999 SCT020 TEMPO 0812/0815 6000 SHRA PROB30 TEMPO 0812/0815 23015G25KT 3000 +SHRAGS BKN014 PROB30 TEMPO 0815/0817 23015G25KT 6000 SHRA BKN014 TEMPO 0817/0819 6000 SHRA PROB30 TEMPO 0817/0819 23015G25KT 3000 +SHRAGS******
+*****No valid METAR******
+********** 
 EGGN/C6289/22
 APRON TWY AND TWY CHARLIE HAS RESTRICTED CLEARANCE BTN THE 
 EASTERN EDGE OF STAND 2 AND WESTERN EDGE OF APRON 24. AVBL TO FIXED 
@@ -471,7 +506,9 @@ WHEN RITT OPERATIONS ARE ACTIVE)
             </Placemark>
             <Placemark id="65">
                 <name>LONDON LUTON</name>
-                <description>********** 
+                <description>*****TAF EGGW 081058Z 0812/0912 19012KT 9999 FEW015 SCT025 TEMPO 0812/0818 6000 SHRA BKN012 PROB30 TEMPO 0812/0818 21018G32KT 3000 +SHRA BKN008CB TEMPO 0821/0903 BKN010 PROB30 TEMPO 0821/0903 BKN008 BECMG 0900/0903 26008KT PROB30 TEMPO 0907/0912 6000 SHRA BKN012 TEMPO 0909/0912 27015G25KT******
+*****No valid METAR******
+********** 
 EGGN/A7674/22
 TWY DELTA CLOSED BETWEEN DELTA 1 AND SOUTH OF FOXTROT 5 DUE WIP
 &lt;a href=https://raw.githubusercontent.com/john0sweet/TAK_EFB/main/PIB.xml&gt; link &lt;/a&gt;********** 
@@ -490,7 +527,9 @@ ELEV 673FT AMSL/HGT 159FT AGL
             </Placemark>
             <Placemark id="67">
                 <name>STORNOWAY</name>
-                <description>********** 
+                <description>*****TAF AMD EGPO 081228Z 0812/0821 19032G45KT 9999 SCT020 BKN030 TEMPO 0812/0821 6000 SHRA BKN014CB PROB30 TEMPO 0812/0821 2000 +SHRA SHGS BKN007 PROB30 TEMPO 0812/0813 20042G55KT BECMG 0813/0816 25012KT PROB40 TEMPO 0816/0821 25015G25KT******
+*****No valid METAR******
+********** 
 EGGN/I3214/22
 AD, SUNDAY OPENING HOURS 1245-1730
 &lt;a href=https://raw.githubusercontent.com/john0sweet/TAK_EFB/main/PIB.xml&gt; link &lt;/a&gt;********** 
@@ -525,7 +564,9 @@ OBST LIGHT U/S ON NDB MAST
             </Placemark>
             <Placemark id="69">
                 <name>BLACKBUSHE</name>
-                <description>********** 
+                <description>***** No Valid TAF *****
+***** No Valid METAR *****
+********** 
 EGGN/L6784/22
 AFIS AT TIMES DOWNGRADED TO A/G COMMUNICATIONS SERVICE
 &lt;a href=https://raw.githubusercontent.com/john0sweet/TAK_EFB/main/PIB.xml&gt; link &lt;/a&gt;********** 
@@ -543,8 +584,10 @@ VISITOR GRASS PARKING AREA CLSD DUE WATERLOGGING
             </Placemark>
             <Placemark id="71">
                 <name>DUXFORD</name>
-                <description>No Notams</description>
-                <styleUrl>#6</styleUrl>
+                <description>***** No Valid TAF *****
+***** No Valid METAR *****
+No Notams</description>
+                <styleUrl>#3</styleUrl>
                 <Point id="70">
                     <coordinates>0.131389,52.090556,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -552,7 +595,9 @@ VISITOR GRASS PARKING AREA CLSD DUE WATERLOGGING
             </Placemark>
             <Placemark id="73">
                 <name>VALLEY</name>
-                <description>********** 
+                <description>***** No Valid TAF *****
+*****No valid METAR******
+********** 
 EGGN/U6116/22
 TACAN VYL/VALLEY 108.4/ CH 21X EXPERIENCES LOSS OF SIGNAL BTN 
 047-055 DEGREES DUE TO PHYSICAL OBSTRUCTIONS
@@ -568,7 +613,9 @@ PARKING SLOTS 60, 61 CLSD. 41, 45 GND UNSERVICEABLE.
             </Placemark>
             <Placemark id="75">
                 <name>BELFAST ALDERGROVE</name>
-                <description>********** 
+                <description>*****TAF EGAA 081059Z 0812/0912 20012KT 9999 FEW025 TEMPO 0814/0818 7000 SHRA SCT008 BKN012CB PROB30 TEMPO 0814/0818 23015G27KT 4000 +SHRA BKN008 TEMPO 0822/0904 7000 SHRA BKN012 BECMG 0900/0903 28010KT PROB40 TEMPO 0904/0910 26015G27KT TEMPO 0910/0912 25020G30KT 7000 SHRA BKN010******
+*****No valid METAR******
+********** 
 EGGN/A8246/22
 BELFAST ALDERGROVE - ATC SURVEILLANCE MINIMUM ALTITUDE CHART.
 MINIMUM INITIAL ALTITUDE INCREASED. A - TO WEST OF BEL VOR TO 2200FT.
@@ -582,7 +629,9 @@ B - TO NORTH OF BEL VOR TO 2500FT.
             </Placemark>
             <Placemark id="77">
                 <name>BIRMINGHAM</name>
-                <description>********** 
+                <description>*****TAF EGBB 081101Z 0812/0912 19009KT 9999 SCT025 TEMPO 0812/0818 6000 SHRA BKN014 PROB30 TEMPO 0812/0816 21015G25KT 3000 +SHRA BKN008CB PROB30 TEMPO 0818/0905 6000 SHRA TEMPO 0822/0905 BKN014 PROB30 TEMPO 0822/0905 BKN008 TEMPO 0905/0912 6000 SHRA BKN014 PROB30 TEMPO 0905/0909 3000 +SHRA BKN008 BECMG 0906/0909 29012KT PROB30 TEMPO 0910/0912 30015G25KT******
+*****No valid METAR******
+********** 
 EGGN/C6161/22
 AIRCRAFT GROUND MOVEMENT/PARKING/DOCKING CHART - REINSTATE STANDS 
 501 (522701.17N 0014454.17W) AND 503 (522703.78N 0014502.30W). 
@@ -608,8 +657,10 @@ UK AIP EGBB AD 2.10 REFERS.)
             </Placemark>
             <Placemark id="79">
                 <name>HAWARDEN</name>
-                <description>No Notams</description>
-                <styleUrl>#6</styleUrl>
+                <description>*****TAF EGNR 081054Z 0812/0818 17010KT 9999 SCT020 TEMPO 0812/0816 6000 SHRA RA BKN014 PROB30 TEMPO 0812/0814 20015G28KT 3000 +SHRAGS BKN009 BKN016CB******
+*****No valid METAR******
+No Notams</description>
+                <styleUrl>#3</styleUrl>
                 <Point id="78">
                     <coordinates>-2.977778,53.178056,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -617,8 +668,10 @@ UK AIP EGBB AD 2.10 REFERS.)
             </Placemark>
             <Placemark id="81">
                 <name>OBAN</name>
-                <description>No Notams</description>
-                <styleUrl>#6</styleUrl>
+                <description>*****TAF EGEO 081112Z 0812/0817 18018KT 9999 BKN030 PROB40 TEMPO 0812/0815 20024G38KT TEMPO 0813/0817 4000 SHRA BKN009 BECMG 0815/0817 20008KT******
+*****No valid METAR******
+No Notams</description>
+                <styleUrl>#3</styleUrl>
                 <Point id="80">
                     <coordinates>-5.400000,56.463611,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -626,7 +679,9 @@ UK AIP EGBB AD 2.10 REFERS.)
             </Placemark>
             <Placemark id="83">
                 <name>LEEDS BRADFORD</name>
-                <description>********** 
+                <description>*****TAF EGNM 081053Z 0812/0912 19009KT 9999 SCT020 TEMPO 0812/0818 6000 SHRA RA BKN012 PROB30 TEMPO 0812/0814 22015G28KT 4500 +SHRA BKN009 BKN016CB TEMPO 0818/0903 BKN012 PROB30 TEMPO 0820/0824 22015G28KT 5000 SHRA RA BKN009 BECMG 0900/0903 27012KT TEMPO 0903/0906 6000 SHRA BKN012 PROB30 TEMPO 0906/0912 8000 -SHRA BKN012 TEMPO 0909/0912 28018G32KT******
+*****No valid METAR******
+********** 
 EGGN/H8722/22
 UNMANNED CAPTIVE BALLOON WI 0.5NM RADIUS: 534821N 0013807W
 (LEEDS). MAX HGT 197FT AGL. FOR INFO 07971 523253. 2022-11-0110/AS3.
@@ -666,7 +721,9 @@ CODE, OR ANY DISCRETE CODE ALLOCATED BY ANOTHER UNIT.
             </Placemark>
             <Placemark id="85">
                 <name>CAERNARFON</name>
-                <description>********** 
+                <description>*****TAF EGCK 081054Z 0812/0821 20013KT 9999 FEW014 SCT020 TEMPO 0812/0819 5000 SHRA RA PROB30 TEMPO 0812/0819 22015G25KT 2000 +SHRA TSGS BKN014 BKN020CB BECMG 0818/0821 27012KT******
+*****No valid METAR******
+********** 
 EGGN/L5528/22
 AVAILABLE RFFS ARE AS FOLLOWS:
 CAT A1
@@ -681,8 +738,10 @@ UK AIP AD 2.6 REFERS.
             </Placemark>
             <Placemark id="87">
                 <name>COLERNE</name>
-                <description>No Notams</description>
-                <styleUrl>#6</styleUrl>
+                <description>***** No Valid TAF *****
+***** No Valid METAR *****
+No Notams</description>
+                <styleUrl>#3</styleUrl>
                 <Point id="86">
                     <coordinates>-2.279081,51.441078,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -690,7 +749,9 @@ UK AIP AD 2.6 REFERS.
             </Placemark>
             <Placemark id="89">
                 <name>MARHAM</name>
-                <description>********** 
+                <description>***** No Valid TAF *****
+*****No valid METAR******
+********** 
 EGGN/U6132/22
 RWY 01/19 CLOSED
 &lt;a href=https://raw.githubusercontent.com/john0sweet/TAK_EFB/main/PIB.xml&gt; link &lt;/a&gt;********** 
@@ -716,7 +777,9 @@ NOISE AND MOVEMENT EMBARGO
             </Placemark>
             <Placemark id="91">
                 <name>COVENTRY</name>
-                <description>********** 
+                <description>***** No Valid TAF *****
+***** No Valid METAR *****
+********** 
 EGGN/C6745/22
 LIT CRANE OPR PSN 522407.1N 0013046.4W (VCY COVENTRY AIRPORT) HGT 
 312FT AGL/607FT AMSL. SUP 056/2021 EXTENDED UNTIL 28 FEBRUARY 2023 
@@ -730,8 +793,10 @@ EST.
             </Placemark>
             <Placemark id="95">
                 <name>LEICESTER</name>
-                <description>No Notams</description>
-                <styleUrl>#6</styleUrl>
+                <description>***** No Valid TAF *****
+***** No Valid METAR *****
+No Notams</description>
+                <styleUrl>#3</styleUrl>
                 <Point id="94">
                     <coordinates>-1.031944,52.607778,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -739,7 +804,9 @@ EST.
             </Placemark>
             <Placemark id="97">
                 <name>CAMPBELTOWN</name>
-                <description>********** 
+                <description>***** No Valid TAF *****
+***** No Valid METAR *****
+********** 
 EGGN/I4033/22
 ALL VOR INSTRUMENT APPROACHES WITHDRAWN DUE TO DVOR MAC BEING
 WITHDRAWN FROM SERVICE.
@@ -752,8 +819,10 @@ WITHDRAWN FROM SERVICE.
             </Placemark>
             <Placemark id="99">
                 <name>ODIHAM</name>
-                <description>No Notams</description>
-                <styleUrl>#6</styleUrl>
+                <description>***** No Valid TAF *****
+*****No valid METAR******
+No Notams</description>
+                <styleUrl>#3</styleUrl>
                 <Point id="98">
                     <coordinates>-0.942808,51.234192,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -761,7 +830,9 @@ WITHDRAWN FROM SERVICE.
             </Placemark>
             <Placemark id="101">
                 <name>FAIRFORD</name>
-                <description>********** 
+                <description>***** No Valid TAF *****
+*****No valid METAR******
+********** 
 EGGN/U6178/22
 RWY 09/27 WIDTH 150FT, RUNWAY SHOULDER WIDTH VARYING FROM 
 23-25FT, LOAD BEARING CAPACITY UNDETERMINED FOR MORE INFORMATION 
@@ -804,8 +875,10 @@ TACAN FFA/FAIRFORD 113.4MHZ/CH 81X INTERMITTENT.
             </Placemark>
             <Placemark id="103">
                 <name>YORK RUFFORTH</name>
-                <description>No Notams</description>
-                <styleUrl>#6</styleUrl>
+                <description>***** No Valid TAF *****
+***** No Valid METAR *****
+No Notams</description>
+                <styleUrl>#3</styleUrl>
                 <Point id="102">
                     <coordinates>-1.186486,53.947331,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -813,7 +886,9 @@ TACAN FFA/FAIRFORD 113.4MHZ/CH 81X INTERMITTENT.
             </Placemark>
             <Placemark id="105">
                 <name>CONINGSBY</name>
-                <description>********** 
+                <description>*****TAF EGXC 081043Z 0812/0906 18014KT 9999 FEW020 TEMPO 0812/0903 SCT020 PROB30 TEMPO 0813/0818 20015G25KT 4000 SHRA BKN018CB******
+*****No valid METAR******
+********** 
 EGGN/U7384/22
 LIT CRANE OPR AT PSN 530551N 0000956W (RAF CONINGSBY). HGT 126FT 
 AGL/150FT AMSL
@@ -826,8 +901,10 @@ AGL/150FT AMSL
             </Placemark>
             <Placemark id="107">
                 <name>SCAMPTON</name>
-                <description>No Notams</description>
-                <styleUrl>#6</styleUrl>
+                <description>***** No Valid TAF *****
+***** No Valid METAR *****
+No Notams</description>
+                <styleUrl>#3</styleUrl>
                 <Point id="106">
                     <coordinates>-0.550819,53.307944,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -835,7 +912,9 @@ AGL/150FT AMSL
             </Placemark>
             <Placemark id="109">
                 <name>LONDON CITY</name>
-                <description>********** 
+                <description>*****TAF EGLC 081100Z 0812/0821 20010KT 9999 SCT020 TEMPO 0812/0818 7000 SHRA PROB30 TEMPO 0812/0818 21015G26KT 3000 +SHRA SHGS BKN014CB******
+*****No valid METAR******
+********** 
 EGGN/C5979/22
 WIP WITHIN RWY 09/27 RESA NO IMPACT TO FLIGHT CREW.
 &lt;a href=https://raw.githubusercontent.com/john0sweet/TAK_EFB/main/PIB.xml&gt; link &lt;/a&gt;********** 
@@ -893,7 +972,9 @@ EGGN/C7408/22
             </Placemark>
             <Placemark id="111">
                 <name>BOURNEMOUTH</name>
-                <description>********** 
+                <description>*****TAF EGHH 081104Z 0812/0821 21012KT 9999 SCT025 TEMPO 0812/0816 6000 SHRA PROB30 TEMPO 0812/0816 23015G28KT 3000 +SHRA TSRA BKN009 PROB30 TEMPO 0816/0819 23015G25KT 6000 SHRA BKN014 BECMG 0818/0821 26012KT TEMPO 0819/0821 6000 SHRA PROB30 TEMPO 0819/0821 27018G28KT 3000 +SHRA BKN014******
+*****No valid METAR******
+********** 
 EGGN/C6217/22
 CRANE OPR PSN 504526N 0015616W, 255T 7190M FM BOURNEMOUTH AD ARP 
 TO 161FT AGL,  375FT AMSL
@@ -934,7 +1015,9 @@ JIB HGT 59FT AGL/118FT AMSL
             </Placemark>
             <Placemark id="113">
                 <name>LOSSIEMOUTH</name>
-                <description>********** 
+                <description>*****TAF EGQS 081050Z 0812/0906 20016G26KT 9999 FEW025 BECMG 0815/0818 20014KT******
+*****No valid METAR******
+********** 
 EGGN/U6962/22
 TACAN LSM / LOSSIEMOUTH 111.300MHZ CH50.
 USE OF TACAN APPROACH ON RWY 05/23 AND 10/28 ARE NOT PERMITTED. 
@@ -954,8 +1037,10 @@ PATTERNS PROVIDED BY ATC.
             </Placemark>
             <Placemark id="115">
                 <name>WEST WALES</name>
-                <description>No Notams</description>
-                <styleUrl>#6</styleUrl>
+                <description>***** No Valid TAF *****
+***** No Valid METAR *****
+No Notams</description>
+                <styleUrl>#3</styleUrl>
                 <Point id="114">
                     <coordinates>-4.559444,52.114722,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -963,7 +1048,9 @@ PATTERNS PROVIDED BY ATC.
             </Placemark>
             <Placemark id="117">
                 <name>SWANSEA</name>
-                <description>********** 
+                <description>***** No Valid TAF *****
+***** No Valid METAR *****
+********** 
 EGGN/L142/23
 AD NOT AVBL TO ACFT REQUIRING USE OF A LICENSED AD DUE ADVERSE 
 WEATHER
@@ -976,7 +1063,9 @@ WEATHER
             </Placemark>
             <Placemark id="119">
                 <name>BOSCOMBE DOWN</name>
-                <description>********** 
+                <description>***** No Valid TAF *****
+*****No valid METAR******
+********** 
 EGGN/U5783/22
 50 PERCENT OF RUNWAY 23/05 APPROACH LIGHTS U/S
 &lt;a href=https://raw.githubusercontent.com/john0sweet/TAK_EFB/main/PIB.xml&gt; link &lt;/a&gt;********** 
@@ -1003,8 +1092,10 @@ CONTINUOUS FRICTION MEASURING DEVICE (MU METER) U/S
             </Placemark>
             <Placemark id="121">
                 <name>ISLAY</name>
-                <description>No Notams</description>
-                <styleUrl>#6</styleUrl>
+                <description>*****TAF EGPI 081128Z 0812/0818 20020G32KT 9999 FEW025 TEMPO 0812/0818 6000 SHRA BKN014 PROB40 TEMPO 0814/0818 3000 +SHRA SHGS BKN007 BKN015CB BECMG 0815/0818 27015G25KT******
+*****No valid METAR******
+No Notams</description>
+                <styleUrl>#3</styleUrl>
                 <Point id="120">
                     <coordinates>-6.259722,55.683333,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -1012,7 +1103,9 @@ CONTINUOUS FRICTION MEASURING DEVICE (MU METER) U/S
             </Placemark>
             <Placemark id="123">
                 <name>TOPCLIFFE</name>
-                <description>********** 
+                <description>***** No Valid TAF *****
+*****No valid METAR******
+********** 
 EGGN/H6/23
 FLYING OF MODEL ACFT WI 0.5NM RADIUS 540827N 0012505W (DISHFORTH 
 DISUSED AD). FOR INFO CONTACT 07761 480111/ 07825 306493. 
@@ -1026,7 +1119,9 @@ DISUSED AD). FOR INFO CONTACT 07761 480111/ 07825 306493.
             </Placemark>
             <Placemark id="125">
                 <name>DUNDEE</name>
-                <description>********** 
+                <description>*****TAF EGPN 081101Z 0812/0821 23015KT 9999 FEW040 PROB40 TEMPO 0812/0815 8000 -RA BKN014 BECMG 0817/0820 24005KT TEMPO 0819/0821 BKN009******
+*****No valid METAR******
+********** 
 EGGN/I2796/22
 DUNDEE OBSTACLE
 ADD A NEW CRANE TO AD OBSTACLES - IN CIRCLING AREA AND AT AD 
@@ -1046,7 +1141,9 @@ UK AIP EGPN AD 2.10 REFERS.
             </Placemark>
             <Placemark id="127">
                 <name>PRESTWICK</name>
-                <description>********** 
+                <description>*****TAF EGPK 081059Z 0812/0912 20012KT 9999 FEW040 TEMPO 0812/0815 21015G25KT TEMPO 0817/0820 5000 RA BKN008 BECMG 0818/0821 26012KT TEMPO 0820/0912 5000 SHRA PROB30 TEMPO 0900/0905 3000 +SHRA BKN010 TEMPO 0909/0912 26018G28KT******
+*****No valid METAR******
+********** 
 EGGN/A7860/22
 HIGH BIRD ACTIVITY ON AD AT DUSK AND DAWN, ESPECIALLY OVER RWY
 12/30 THRESHOLD AREAS.
@@ -1076,7 +1173,9 @@ TWR ALTERNATIVE FREQ 127.155MHZ U/S. ACFT TO USE 118.150MHZ
             </Placemark>
             <Placemark id="129">
                 <name>CULDROSE</name>
-                <description>********** 
+                <description>***** No Valid TAF *****
+*****No valid METAR******
+********** 
 EGGN/U6084/22
 WATCHMAN RADAR OBST LGT U/S
 &lt;a href=https://raw.githubusercontent.com/john0sweet/TAK_EFB/main/PIB.xml&gt; link &lt;/a&gt;********** 
@@ -1097,8 +1196,10 @@ RWY 29 APPROACH LIGHTING PARTIALLY U/S. CENTRELINE 2 BAR IS AVBL.
             </Placemark>
             <Placemark id="131">
                 <name>SHAWBURY</name>
-                <description>No Notams</description>
-                <styleUrl>#6</styleUrl>
+                <description>***** No Valid TAF *****
+*****No valid METAR******
+No Notams</description>
+                <styleUrl>#3</styleUrl>
                 <Point id="130">
                     <coordinates>-2.667939,52.793625,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -1106,8 +1207,10 @@ RWY 29 APPROACH LIGHTING PARTIALLY U/S. CENTRELINE 2 BAR IS AVBL.
             </Placemark>
             <Placemark id="133">
                 <name>NOTTINGHAM</name>
-                <description>No Notams</description>
-                <styleUrl>#6</styleUrl>
+                <description>***** No Valid TAF *****
+***** No Valid METAR *****
+No Notams</description>
+                <styleUrl>#3</styleUrl>
                 <Point id="132">
                     <coordinates>-1.079167,52.920000,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -1115,7 +1218,9 @@ RWY 29 APPROACH LIGHTING PARTIALLY U/S. CENTRELINE 2 BAR IS AVBL.
             </Placemark>
             <Placemark id="135">
                 <name>SOUTHEND</name>
-                <description>********** 
+                <description>*****TAF EGMC 081100Z 0812/0821 20012KT 9999 SCT030 TEMPO 0812/0818 21015G26KT 7000 SHRA PROB30 TEMPO 0812/0818 4000 +SHRA SHGS BKN014CB******
+*****No valid METAR******
+********** 
 EGGN/A8466/22
 ACFT DEICING REQUIRES 2 HR NOTICE. CTC LONDON SOUTHEND JET CENTRE 
 01702 538600
@@ -1142,8 +1247,10 @@ RFFS DOWNGRADED TO CATEGORY 5
             </Placemark>
             <Placemark id="137">
                 <name>MONA</name>
-                <description>No Notams</description>
-                <styleUrl>#6</styleUrl>
+                <description>***** No Valid TAF *****
+***** No Valid METAR *****
+No Notams</description>
+                <styleUrl>#3</styleUrl>
                 <Point id="136">
                     <coordinates>-4.374011,53.259300,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -1151,7 +1258,9 @@ RFFS DOWNGRADED TO CATEGORY 5
             </Placemark>
             <Placemark id="139">
                 <name>BARKSTON HEATH</name>
-                <description>********** 
+                <description>***** No Valid TAF *****
+*****No valid METAR******
+********** 
 EGGN/U81/23
 SRA APPROACHES NOT AVBL TO TUTORS FLYING INTO RAF BARKSTON HEATH
 &lt;a href=https://raw.githubusercontent.com/john0sweet/TAK_EFB/main/PIB.xml&gt; link &lt;/a&gt;</description>
@@ -1163,7 +1272,9 @@ SRA APPROACHES NOT AVBL TO TUTORS FLYING INTO RAF BARKSTON HEATH
             </Placemark>
             <Placemark id="141">
                 <name>BRIZE NORTON</name>
-                <description>********** 
+                <description>*****TAF EGVN 081016Z 0812/0912 20012KT 9999 SCT030 TEMPO 0812/0817 7000 -SHRA SCT022 PROB30 TEMPO 0812/0816 21015G25KT 3500 +SHRA BKN014CB PROB30 TEMPO 0821/0901 7000 -SHRA SCT022 PROB30 TEMPO 0901/0906 SCT020 PROB40 TEMPO 0906/0910 5000 SHRA SCT020******
+*****No valid METAR******
+********** 
 EGGN/U7180/22
 ILS 07 RESTRICTIONS. AUTO-COUPLED APPROACHES
 PERMITTED TO CAT 1 DH. ACFT MAY EXPERIENCE LARGE GP FLUCTUATIONS. 
@@ -1183,8 +1294,10 @@ MIDPOINT AND STOP END ABVL ON RWY 07.
             </Placemark>
             <Placemark id="143">
                 <name>DUNKESWELL</name>
-                <description>No Notams</description>
-                <styleUrl>#6</styleUrl>
+                <description>***** No Valid TAF *****
+***** No Valid METAR *****
+No Notams</description>
+                <styleUrl>#3</styleUrl>
                 <Point id="142">
                     <coordinates>-3.234722,50.860000,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -1192,7 +1305,9 @@ MIDPOINT AND STOP END ABVL ON RWY 07.
             </Placemark>
             <Placemark id="145">
                 <name>INVERNESS</name>
-                <description>********** 
+                <description>*****TAF EGPE 081103Z 0812/0821 19022G35KT 9999 FEW030 PROB30 TEMPO 0812/0815 20027G45KT BECMG 0815/0818 25008KT PROB30 TEMPO 0816/0821 7000 -RA******
+*****No valid METAR******
+********** 
 EGGN/A8565/22
 PYLON NUMBER 5 OBST LIGHT ON THE SOUTH APRON U/S (INTERMITTENT).
 &lt;a href=https://raw.githubusercontent.com/john0sweet/TAK_EFB/main/PIB.xml&gt; link &lt;/a&gt;</description>
@@ -1204,8 +1319,10 @@ PYLON NUMBER 5 OBST LIGHT ON THE SOUTH APRON U/S (INTERMITTENT).
             </Placemark>
             <Placemark id="147">
                 <name>CHALGROVE</name>
-                <description>No Notams</description>
-                <styleUrl>#6</styleUrl>
+                <description>***** No Valid TAF *****
+***** No Valid METAR *****
+No Notams</description>
+                <styleUrl>#3</styleUrl>
                 <Point id="146">
                     <coordinates>-1.085278,51.674444,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -1213,7 +1330,9 @@ PYLON NUMBER 5 OBST LIGHT ON THE SOUTH APRON U/S (INTERMITTENT).
             </Placemark>
             <Placemark id="149">
                 <name>WATTISHAM</name>
-                <description>********** 
+                <description>***** No Valid TAF *****
+*****No valid METAR******
+********** 
 EGGN/U7404/22
 AERODROME PRESSURE SETTING CHANGED FROM QFE TO QNH
 &lt;a href=https://raw.githubusercontent.com/john0sweet/TAK_EFB/main/PIB.xml&gt; link &lt;/a&gt;********** 
@@ -1234,7 +1353,9 @@ WATTISHAM SSR U/S
             </Placemark>
             <Placemark id="151">
                 <name>BENSON</name>
-                <description>********** 
+                <description>***** No Valid TAF *****
+*****No valid METAR******
+********** 
 EGGN/H9419/22
 FLYING OF MODEL ACFT WI 0.3NM RADIUS 513922N 0010616W
 (NEWINGTON, OXFORDSHIRE). FOR INFO CONTACT 01865 891236. 
@@ -1263,7 +1384,9 @@ AIR SERVICE
             </Placemark>
             <Placemark id="153">
                 <name>CAMBRIDGE</name>
-                <description>********** 
+                <description>***** No Valid TAF *****
+***** No Valid METAR *****
+********** 
 EGGN/A8428/22
 CAMBRIDGE OBSTACLE
 ADD A NEW CRANE TO AD OBSTACLES - IN APPROACH/TAKE-OFF AREAS 
@@ -1298,7 +1421,9 @@ CRANE OPR WITHIN A RADIUS OF 1.1NM CENTRED ON PSN 521253N 0001050E
             </Placemark>
             <Placemark id="155">
                 <name>BIGGIN HILL</name>
-                <description>********** 
+                <description>*****TAF EGKB 081100Z 0812/0821 21014KT 9999 SCT018 TEMPO 0812/0818 22017G29KT 7000 SHRA PROB30 TEMPO 0812/0818 3000 +SHRA SHGS BKN014CB******
+*****No valid METAR******
+********** 
 EGGN/C6574/22
 WIP BTN TWY ALPHA PSN 511939N 0000203E AND TWY FOXTROT PSN
 511922N 0000155E 40M EITHER SIDE OF COORDINATES OF ENTIRE LENGTH.
@@ -1312,7 +1437,9 @@ HELICOPTER TRAFFIC SHOULD AVOID FLYING OVER THE WIP.
             </Placemark>
             <Placemark id="157">
                 <name>MILDENHALL</name>
-                <description>********** 
+                <description>*****TAF EGUN 081200Z 0812/0918 19015G25KT 9999 SCT018 BKN025 620309 510003 QNH2918INS TEMPO 0812/0814 6000 -SHRA BECMG 0817/0818 22010G18KT 9999 FEW018 SCT100 BKN170 510003 QNH2919INS BECMG 0900/0902 24012KT 9999 BKN025 QNH2924INS BECMG 0903/0904 26012KT 9999 SCT025 QNH2930INS BECMG 0909/0910 25010G20KT 9999 FEW015 BKN020 620209 510003 QNH2940INS TEMPO 0911/0913 28015G25KT -RA BECMG 0917/0918 25010G20KT 9999 -DZ BKN030 620307 510003 QNH2960INS TX09/0812Z TN04/0904Z******
+*****No valid METAR******
+********** 
 EGGN/U6586/22
 HARDSTAND 74 RESTRICTED TO TOW ON/OFF ONLY. LOW POWER HORIZONTAL
 ENGINE RUNS AUTHORIZED ONLY.
@@ -1404,7 +1531,9 @@ RUNWAY 10/28 SURFACE CONDITION IS WET WITH NO STANDING WATER
             </Placemark>
             <Placemark id="159">
                 <name>TEESSIDE INTL</name>
-                <description>********** 
+                <description>*****TAF EGNV 081054Z 0812/0821 19012KT 9999 FEW020 TEMPO 0814/0816 6000 SHRA RA BKN012******
+*****No valid METAR******
+********** 
 EGGN/C7180/22
 OBSTRUCTION LIGHTS U/S PSN 543728N 0010804W (E OF RIVER 
 TEES-REDCAR
@@ -1429,7 +1558,9 @@ SUN 0800-2200
             </Placemark>
             <Placemark id="161">
                 <name>TERN HILL</name>
-                <description>********** 
+                <description>***** No Valid TAF *****
+***** No Valid METAR *****
+********** 
 EGGN/U6826/22
 TERN HILL ATZ OPERATING HOURS 
 MON-THU     0830-0230
@@ -1444,7 +1575,9 @@ SAT-SUN     SR-SS+15 MIN
             </Placemark>
             <Placemark id="163">
                 <name>WADDINGTON</name>
-                <description>********** 
+                <description>***** No Valid TAF *****
+*****No valid METAR******
+********** 
 EGGN/U6938/22
 SRA NOT AVBL TO CAT A AND CAT B ACFT (EXCEPTION TO PHENOM AND 
 SIMILAR TYPE)
@@ -1457,7 +1590,9 @@ SIMILAR TYPE)
             </Placemark>
             <Placemark id="165">
                 <name>WOLVERHAMPTON</name>
-                <description>********** 
+                <description>***** No Valid TAF *****
+***** No Valid METAR *****
+********** 
 EGGN/L6096/22
 DISUSED RWY 10/28, AND GRASS RWY 10/28, INCLUDING TWY C AND D 
 CLOSED DUE WIP.
@@ -1470,7 +1605,9 @@ CLOSED DUE WIP.
             </Placemark>
             <Placemark id="167">
                 <name>NORWICH</name>
-                <description>********** 
+                <description>*****TAF EGSH 081054Z 0812/0821 19010KT 9999 SCT040 TEMPO 0812/0819 6000 SHRA RA BKN014 PROB30 TEMPO 0812/0814 21015G28KT PROB30 TEMPO 0812/0816 4000 +SHRA******
+*****No valid METAR******
+********** 
 EGGN/A8469/22
 OPERATIONAL HOURS AMEND AS FOLLOWS -
 AD ADMINISTRATION: 0600-2130 (0500-2030). OUTSIDE OF THESE HOURS SEE 
@@ -1495,8 +1632,10 @@ UK AIP AD 2.20 REFERS
             </Placemark>
             <Placemark id="169">
                 <name>CONINGTON</name>
-                <description>No Notams</description>
-                <styleUrl>#6</styleUrl>
+                <description>***** No Valid TAF *****
+***** No Valid METAR *****
+No Notams</description>
+                <styleUrl>#3</styleUrl>
                 <Point id="168">
                     <coordinates>-0.250833,52.468056,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -1504,7 +1643,9 @@ UK AIP AD 2.20 REFERS
             </Placemark>
             <Placemark id="171">
                 <name>GLOUCESTERSHIRE</name>
-                <description>********** 
+                <description>*****TAF EGBJ 081104Z 0812/0819 18012KT 9999 SCT020 TEMPO 0812/0816 6000 SHRA PROB30 TEMPO 0812/0816 20018G28KT 3000 +SHRAGS BKN014 PROB30 TEMPO 0816/0819 20015G25KT 6000 SHRA BKN014******
+*****No valid METAR******
+********** 
 EGGN/L5905/22
 CRANE OPR 515152N 0021208W, (GLOUCESTER) MAX HGT 88FT AGL, 188FT
 AMSL.
@@ -1541,7 +1682,9 @@ RFFS DOWNGRADED TO CAT 2. CAT 3 AVBL BY PRIOR ARRANGEMENT.
             </Placemark>
             <Placemark id="173">
                 <name>TIREE</name>
-                <description>********** 
+                <description>*****TAF EGPU 081101Z 0812/0818 20032G42KT 9999 FEW025 BKN035 TEMPO 0812/0818 6000 SHRA BKN009 BKN015CB PROB40 TEMPO 0812/0815 3000 +SHRA +SHGS BECMG 0814/0817 27012KT******
+*****No valid METAR******
+********** 
 EGGN/I25/23
 CHANGE OF RWY 05/23 PORTABLE RWY EDGE LIGHTS TO LIGHT EMITTING
 DIODE
@@ -1561,8 +1704,10 @@ AMBULANCE AND SAR
             </Placemark>
             <Placemark id="175">
                 <name>ABERDEEN DYCE</name>
-                <description>No Notams</description>
-                <styleUrl>#6</styleUrl>
+                <description>*****TAF EGPD 081059Z 0812/0912 18018KT 9999 FEW035 PROB40 TEMPO 0812/0814 18022G35KT PROB30 TEMPO 0812/0816 8000 -RA BKN014 BECMG 0818/0821 19008KT PROB30 TEMPO 0820/0903 8000 -SHRA BECMG 0909/0912 25010KT******
+*****No valid METAR******
+No Notams</description>
+                <styleUrl>#3</styleUrl>
                 <Point id="174">
                     <coordinates>-2.198056,57.202500,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -1570,7 +1715,9 @@ AMBULANCE AND SAR
             </Placemark>
             <Placemark id="179">
                 <name>SUMBURGH</name>
-                <description>********** 
+                <description>*****TAF EGPB 081103Z 0812/0821 19023G33KT 9999 FEW030 PROB30 TEMPO 0812/0815 19028G43KT TEMPO 0815/0818 19030G45KT PROB40 TEMPO 0818/0821 7000 -SHRA******
+*****No valid METAR******
+********** 
 EGGN/A8507/22
 SUMBURGH PRIMARY RADAR OUT OF SERVICE
 &lt;a href=https://raw.githubusercontent.com/john0sweet/TAK_EFB/main/PIB.xml&gt; link &lt;/a&gt;</description>
@@ -1582,7 +1729,9 @@ SUMBURGH PRIMARY RADAR OUT OF SERVICE
             </Placemark>
             <Placemark id="181">
                 <name>YEOVILTON</name>
-                <description>********** 
+                <description>***** No Valid TAF *****
+*****No valid METAR******
+********** 
 EGGN/U6806/22
 WESTERN TAXIWAY BLUE EDGE LIGHTS U/S BETWEEN RWY04 THRESHOLD TO 
 PAR CROSSCUT
@@ -1612,7 +1761,9 @@ PSN 510149N 0023441W. MAX HGT 250FT AGL/300FT AMSL
             </Placemark>
             <Placemark id="183">
                 <name>LONDON STANSTED</name>
-                <description>********** 
+                <description>*****TAF EGSS 081058Z 0812/0918 19012KT 9999 FEW015 SCT025 TEMPO 0812/0819 6000 SHRA BKN012 PROB30 TEMPO 0812/0819 21018G32KT 3000 +SHRA BKN008CB TEMPO 0822/0904 BKN012 PROB30 TEMPO 0822/0904 BKN009 BECMG 0900/0903 26008KT PROB30 TEMPO 0908/0913 6000 SHRA BKN012 TEMPO 0909/0915 27015G25KT******
+*****No valid METAR******
+********** 
 EGGN/A7577/22
 INSTRUMENT APPROACH CHART RNP RWY 04 INCREASE INTERMEDIATE 
 SEGMENT MOCA VALUE FROM 900FT TO 1000FT IN THE CHART PROFILE VIEW.
@@ -1640,7 +1791,9 @@ RWY 04 TDZ LIGHTS U/S
             </Placemark>
             <Placemark id="185">
                 <name>BLACKPOOL</name>
-                <description>********** 
+                <description>*****TAF EGNH 081054Z 0812/0821 18013KT 9999 FEW020 TEMPO 0812/0814 6000 SHRA RA BKN014 PROB30 TEMPO 0812/0814 19015G28KT 2500 +SHRAGS BKN009 BKN016CB PROB40 TEMPO 0814/0818 6000 SHRA TEMPO 0818/0821 6000 SHRA BKN014 PROB30 TEMPO 0818/0821 20015G28KT 2500 +RA BKN009 BKN016CB******
+*****No valid METAR******
+********** 
 EGGN/C6245/22
 IAC ILS/DME RWY 28, LOC/DME RWY 28, NDB L/DME RWY 28. ALL DIRECT
 ARRIVAL APPROACHES RWY 28 FROM VOR/DME POL NOT AVBL. APPROACHES FROM
@@ -1667,7 +1820,9 @@ LASER AND SEARCHLIGHT DISPLAY WI 1NM RADIUS 534856N 0030322W
             </Placemark>
             <Placemark id="187">
                 <name>GLASGOW</name>
-                <description>********** 
+                <description>*****TAF EGPF 081059Z 0812/0912 19015G25KT 9999 FEW035 BECMG 0815/0818 24009KT TEMPO 0817/0821 6000 RA BKN007 TEMPO 0821/0912 5000 SHRA BKN008 BECMG 0905/0908 26015G25KT******
+*****No valid METAR******
+********** 
 EGGN/A7640/22
 MOBILE CRANE OPR PSN 555323N 0042330W (GLASGOW). 
 MAX HGT 154FT AGL, 155FT AMSL (APRX). JIB WILL BE LOWERED IN LVP. 
@@ -1705,7 +1860,9 @@ MICHAEL RICHARDS 07971 873912
             </Placemark>
             <Placemark id="189">
                 <name>BELFAST CITY</name>
-                <description>********** 
+                <description>*****TAF EGAC 081100Z 0812/0821 20013KT 9999 FEW025 TEMPO 0814/0817 21016G26KT 7000 SHRA BKN012CB PROB30 TEMPO 0814/0816 4000 +SHRA******
+*****No valid METAR******
+********** 
 EGGN/A45/23
 LUFFING CRANE OPR PSN 543620N 0055533W (BELFAST CITY). MAX HGT
 288FT AGL/308FT AMSL.
@@ -1726,7 +1883,9 @@ BEFORE 2245. FOR INFO CTC THE AIRPORT DUTY MANAGER.
             </Placemark>
             <Placemark id="191">
                 <name>BRISTOL</name>
-                <description>********** 
+                <description>*****TAF EGGD 081057Z 0812/0912 20012KT 9999 FEW015 SCT025 TEMPO 0812/0821 21017G27KT 6000 SHRA BKN010 PROB30 TEMPO 0812/0908 3000 +SHRAGS BKN008CB BECMG 0820/0823 26012KT TEMPO 0821/0908 26016G26KT 6000 SHRA BKN010 BECMG 0908/0911 28018G28KT******
+*****No valid METAR******
+********** 
 EGGN/C6560/22
 TRIGGER NOTAM - PERM AIRAC AIP AMDT 13/22 WEF 29 DEC 22
 AD 2.19 RADIO NAV AND LANDING AIDS - REMARKS. 
@@ -1744,7 +1903,9 @@ AD 2 EGGD 6-2 BCN VOR REFERENCES REMOVED. NOTES
             </Placemark>
             <Placemark id="193">
                 <name>MANCHESTER</name>
-                <description>********** 
+                <description>*****TAF EGCC 081053Z 0812/0918 18008KT 9999 SCT028 TEMPO 0812/0816 6000 SHRA RA BKN012 PROB30 TEMPO 0812/0816 19015G26KT 3500 +SHRA BKN009 PROB30 TEMPO 0816/0819 BKN012 TEMPO 0819/0901 6000 SHRA BKN012 PROB30 TEMPO 0901/0905 6000 SHRA BKN014 BECMG 0905/0908 27010KT TEMPO 0905/0918 6000 SHRA BKN014 PROB30 TEMPO 0906/0918 28015G28KT 4000 +SHRA BKN009******
+*****No valid METAR******
+********** 
 EGGN/A7801/22
 AIRCRAFT TO USE MINIMUM POWER WHEN MANOEUVRING ON TWY 
 NOVEMBER-ALPHA
@@ -1762,7 +1923,9 @@ UNTIL THE CRANE IS INCORPORATED IN THE AIP AS OF 23 MARCH 2023.
             </Placemark>
             <Placemark id="195">
                 <name>OXFORD</name>
-                <description>********** 
+                <description>*****TAF EGTK 081100Z 0812/0821 20012KT 9999 SCT020 TEMPO 0812/0818 7000 SHRA PROB30 TEMPO 0812/0817 21015G26KT 3000 +SHRA SHGS BKN014CB******
+*****No valid METAR******
+********** 
 EGGN/L5075/22
 OXFORD OBSTACLE -
 ADD TWO NEW CRANES TO AD OBSTACLES - IN CIRCLING AREA AND AT AD
@@ -1806,7 +1969,9 @@ TAXIWAY FOXTROT CLOSED DUE WATERLOGGING.
             </Placemark>
             <Placemark id="197">
                 <name>LEEMING</name>
-                <description>********** 
+                <description>***** No Valid TAF *****
+*****No valid METAR******
+********** 
 EGGN/U6543/22
 CAUTION, UNEVEN SURFACE BETWEEN GOLF TAXIWAY AND AIRCRAFT 
 SERVICING PLATFORM 1 (ASP1) WHERE THE CONCRETE MEETS THE ASPHALT.
@@ -1847,7 +2012,9 @@ TO    ILS AUTO-COUPLED APP NOT PERMITED.
             </Placemark>
             <Placemark id="199">
                 <name>ST ANGELO</name>
-                <description>********** 
+                <description>***** No Valid TAF *****
+***** No Valid METAR *****
+********** 
 EGGN/I3440/22
 RESCUE AND FIRE FIGHTING SERVICES - AMEND TO READ:
 RFF CAT A1.
@@ -1866,7 +2033,9 @@ TWY C AND TEY D CLOSED FOR WIP
             </Placemark>
             <Placemark id="201">
                 <name>EGLINTON</name>
-                <description>********** 
+                <description>*****TAF EGAE 081100Z 0812/0821 20020G32KT 9999 FEW020 TEMPO 0812/0816 7000 SHRA BKN012 PROB30 TEMPO 0812/0815 3000 +SHRA +TSRA BKN008 BECMG 0814/0817 22010KT PROB40 TEMPO 0818/0821 7000 SHRA BKN014******
+*****No valid METAR******
+********** 
 EGGN/I4026/22
 ACFT REFUELING HR
 MON-THU  0615-1715
@@ -1908,7 +2077,9 @@ FOR ALL ENQUIRIES INCLUDING BOOKING OUT AND PPR USE 028 7181 3314
             </Placemark>
             <Placemark id="203">
                 <name>WICK</name>
-                <description>********** 
+                <description>*****TAF EGPC 081103Z 0812/0821 17022G32KT 9999 FEW045 TEMPO 0812/0818 18027G42KT PROB30 TEMPO 0816/0821 7000 -SHRA BECMG 0818/0821 22012KT******
+*****No valid METAR******
+********** 
 EGGN/I3500/22
 WICK AD AND ATS OPERATIONAL HOURS REVISED AS FOLLOWS:
 MON-FRI 0800-2000 (0700-1900):
@@ -1926,7 +2097,9 @@ UK AIP AD 2.3, AD 2.18, AD 2.19 REFER.
             </Placemark>
             <Placemark id="205">
                 <name>KIRKWALL</name>
-                <description>********** 
+                <description>*****TAF EGPA 081103Z 0812/0821 17022G32KT 9999 FEW045 PROB30 TEMPO 0812/0818 18027G42KT PROB40 TEMPO 0816/0821 7000 -SHRA******
+*****No valid METAR******
+********** 
 EGGN/I41/23
 RWY 09/27 INSTR RVR U/S
 &lt;a href=https://raw.githubusercontent.com/john0sweet/TAK_EFB/main/PIB.xml&gt; link &lt;/a&gt;</description>
@@ -1938,8 +2111,10 @@ RWY 09/27 INSTR RVR U/S
             </Placemark>
             <Placemark id="207">
                 <name>LEUCHARS</name>
-                <description>No Notams</description>
-                <styleUrl>#6</styleUrl>
+                <description>*****TAF AMD EGQL 081143Z 0812/0821 22015G25KT 9999 SCT030 PROB30 TEMPO 0812/0814 22025G35KT 6000 SHRA SCT022 BECMG 0813/0816 20010KT******
+*****No valid METAR******
+No Notams</description>
+                <styleUrl>#3</styleUrl>
                 <Point id="206">
                     <coordinates>-2.868500,56.372667,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -1947,7 +2122,9 @@ RWY 09/27 INSTR RVR U/S
             </Placemark>
             <Placemark id="209">
                 <name>LAKENHEATH</name>
-                <description>********** 
+                <description>***** No Valid TAF *****
+*****No valid METAR******
+********** 
 EGGN/U6051/22
 PROTECTIVE ACFT SHELTER 50 TO 59 CLSD FOR CONSTRUCTION ON YANKEE 
 LOOP.
@@ -2011,8 +2188,10 @@ CHARLIE RAMP NORTH SPOTS 33 TO 42 CLOSED
             </Placemark>
             <Placemark id="211">
                 <name>WOODVALE</name>
-                <description>No Notams</description>
-                <styleUrl>#6</styleUrl>
+                <description>***** No Valid TAF *****
+***** No Valid METAR *****
+No Notams</description>
+                <styleUrl>#3</styleUrl>
                 <Point id="210">
                     <coordinates>-3.055528,53.581575,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -2020,7 +2199,9 @@ CHARLIE RAMP NORTH SPOTS 33 TO 42 CLOSED
             </Placemark>
             <Placemark id="213">
                 <name>HAVERFORDWEST</name>
-                <description>********** 
+                <description>***** No Valid TAF *****
+***** No Valid METAR *****
+********** 
 EGGN/L5863/22
 NDB HAV/HAVERFORDWEST 328KHZ U/S
 &lt;a href=https://raw.githubusercontent.com/john0sweet/TAK_EFB/main/PIB.xml&gt; link &lt;/a&gt;********** 
@@ -2035,7 +2216,9 @@ AERODROME BEACON U/S
             </Placemark>
             <Placemark id="215">
                 <name>WALNEY ISLAND</name>
-                <description>********** 
+                <description>***** No Valid TAF *****
+***** No Valid METAR *****
+********** 
 EGGN/L5960/22
 TWY CLSD BETWEEN HOLDING POINTS CHARLIE AND DELTA DUE WIP
 &lt;a href=https://raw.githubusercontent.com/john0sweet/TAK_EFB/main/PIB.xml&gt; link &lt;/a&gt;********** 
@@ -2060,7 +2243,9 @@ RWY APPROACH LIGHTS FOR RWY 17/35 U/S
             </Placemark>
             <Placemark id="217">
                 <name>GAMSTON</name>
-                <description>********** 
+                <description>***** No Valid TAF *****
+***** No Valid METAR *****
+********** 
 EGGN/L12/23
 PILOT-CONTROLLED LIGHTING U/S
 &lt;a href=https://raw.githubusercontent.com/john0sweet/TAK_EFB/main/PIB.xml&gt; link &lt;/a&gt;********** 
@@ -2075,7 +2260,9 @@ AD NOT AVBL TO ACFT REQUIRING THE USE OF A LICENSED AD DUE NO RFFS
             </Placemark>
             <Placemark id="219">
                 <name>FARNBOROUGH</name>
-                <description>********** 
+                <description>*****TAF EGLF 081100Z 0812/0820 21010KT 9999 SCT020 TEMPO 0812/0818 7000 SHRA PROB30 TEMPO 0812/0818 22015G26KT 3000 +SHRA SHGS BKN014CB******
+*****No valid METAR******
+********** 
 EGGN/C6077/22
 WORK IN PROGRESS FOR NEW HANGER CONSTRUCTION SITE BETWEEN TWY 
 BRAVO AND TWY DELTA
@@ -2097,7 +2284,9 @@ UK AIP AD 2.20 GROUND MOVEMENT REFERS
             </Placemark>
             <Placemark id="221">
                 <name>LONDON GATWICK</name>
-                <description>********** 
+                <description>*****TAF EGKK 081102Z 0812/0918 20011KT 9999 SCT020 TEMPO 0812/0818 21015G28KT 7000 SHRA PROB30 TEMPO 0812/0818 3000 +SHRA BKN014 BKN020CB TEMPO 0821/0903 7000 SHRA BKN012 PROB30 TEMPO 0821/0824 4000 +SHRA BECMG 0900/0903 26012KT PROB30 0906/0915 8000 SHRA PROB30 TEMPO 0912/0918 27015G25KT******
+*****No valid METAR******
+********** 
 EGGN/A53/23
 CRANE AT 510922N 0000911W (GATWICK). MAX HGT 77FT AGL/267 FT 
 AMSL. INFRINGES THE TYPE A 08L BY 51FT
@@ -2110,7 +2299,9 @@ AMSL. INFRINGES THE TYPE A 08L BY 51FT
             </Placemark>
             <Placemark id="223">
                 <name>CRANWELL</name>
-                <description>********** 
+                <description>***** No Valid TAF *****
+*****No valid METAR******
+********** 
 EGGN/U7169/22
 BARRIERS U/S ON RWY 08/26
 &lt;a href=https://raw.githubusercontent.com/john0sweet/TAK_EFB/main/PIB.xml&gt; link &lt;/a&gt;********** 
@@ -2135,7 +2326,9 @@ UNRESTRICTED.
             </Placemark>
             <Placemark id="225">
                 <name>LYDD</name>
-                <description>********** 
+                <description>*****TAF EGMD 081100Z 0812/0821 21021KT 9999 SCT020 TEMPO 0812/0818 22024G35KT 7000 SHRA PROB30 TEMPO 0812/0818 4000 +SHRA SHGS BKN014CB BECMG 0818/0821 24014KT PROB30 TEMPO 0818/0821 7000 SHRA******
+*****No valid METAR******
+********** 
 EGGN/C7145/22
 RWY 21 APCH LIGHTS U/S DUE WIP
 &lt;a href=https://raw.githubusercontent.com/john0sweet/TAK_EFB/main/PIB.xml&gt; link &lt;/a&gt;********** 
@@ -2153,7 +2346,9 @@ ILS LOCALIZER RWY 21 U/S.
             </Placemark>
             <Placemark id="227">
                 <name>LIVERPOOL</name>
-                <description>********** 
+                <description>*****TAF EGGP 081053Z 0812/0912 18010KT 9999 SCT028 TEMPO 0812/0816 6000 SHRA RA BKN012 PROB30 TEMPO 0812/0815 19015G28KT 2500 +SHRAGS BKN009 BKN016CB PROB40 TEMPO 0818/0824 4500 +SHRA RA BKN012 BECMG 0900/0903 27010KT PROB30 TEMPO 0900/0912 6000 SHRA BKN014 TEMPO 0906/0912 29018G28KT******
+*****No valid METAR******
+********** 
 EGGN/A85/23
 FUELING ONLY AVAILABLE WITH 12 HOURS PRIOR NOTICE ON THE 
 FOLLOWING DATES/TIMES
@@ -2176,7 +2371,9 @@ CLEARANCE 180 DEGREES, CLIMB TO ALTITUDE 4000FT
             </Placemark>
             <Placemark id="229">
                 <name>SOUTHAMPTON</name>
-                <description>********** 
+                <description>*****TAF EGHI 081104Z 0812/0821 19012KT 9999 SCT030 TEMPO 0812/0816 6000 SHRA PROB30 TEMPO 0812/0816 21015G25KT 3000 +SHRA BKN009 PROB30 TEMPO 0816/0819 21015G25KT 6000 SHRA BKN014 TEMPO 0819/0821 6000 SHRA PROB30 TEMPO 0819/0821 21015G25KT 3000 +SHRA BKN014******
+*****No valid METAR******
+********** 
 EGGN/C5837/22
 STAND 12 CLOSED DUE TO WINTER OPERATIONS
 &lt;a href=https://raw.githubusercontent.com/john0sweet/TAK_EFB/main/PIB.xml&gt; link &lt;/a&gt;********** 
@@ -2210,8 +2407,10 @@ MANAGED TO ACCOMODATE SCHEDULED MOVEMENTS.
             </Placemark>
             <Placemark id="231">
                 <name>COSFORD</name>
-                <description>No Notams</description>
-                <styleUrl>#6</styleUrl>
+                <description>***** No Valid TAF *****
+***** No Valid METAR *****
+No Notams</description>
+                <styleUrl>#3</styleUrl>
                 <Point id="230">
                     <coordinates>-2.305264,52.640533,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -2219,7 +2418,9 @@ MANAGED TO ACCOMODATE SCHEDULED MOVEMENTS.
             </Placemark>
             <Placemark id="233">
                 <name>NORTHOLT</name>
-                <description>********** 
+                <description>*****TAF EGWU 081046Z 0812/0906 21012KT 9999 FEW020 TEMPO 0812/0819 7000 SHRA BKN018 PROB30 TEMPO 0812/0818 21018G28KT 4000 +SHRA BKN012CB PROB30 TEMPO 0822/0902 BKN014******
+*****No valid METAR******
+********** 
 EGGN/U6531/22
 UP TO TWO CRANES OPERATING AT PSN: 513251N 0002032W (GREENFORD,
 WEST LONDON). UP TO 330FT AGL/450FT AMSL. FOR INFO CONTACT 
@@ -2239,7 +2440,9 @@ ALREADY PUBLISHED DVOR SID ARE TO BE USED.
             </Placemark>
             <Placemark id="235">
                 <name>EDINBURGH</name>
-                <description>********** 
+                <description>*****TAF EGPH 081059Z 0812/0912 24012KT 9999 FEW020 SCT040 PROB40 TEMPO 0812/0814 8000 -RA BKN014 PROB30 TEMPO 0812/0816 22015G25KT TEMPO 0818/0822 8000 -RA BKN010 PROB40 TEMPO 0822/0909 6000 SHRA BKN009 BECMG 0906/0909 24015G25KT******
+*****No valid METAR******
+********** 
 EGGN/A8326/22
 CRANE OPR 555804N 0031814W (BARNTON EDINBURGH) MAX HGT 308FT 
 AMSL, 164FT AGL. CRANE WILL BE LOWERED DURING LVP
@@ -2261,7 +2464,9 @@ BRAVO TAXIWAY LINK CLOSED
             </Placemark>
             <Placemark id="237">
                 <name>CARLISLE</name>
-                <description>********** 
+                <description>***** No Valid TAF *****
+***** No Valid METAR *****
+********** 
 EGGN/L6742/22
 AD CLOSED. NO INSTRUMENT APPROACH PROCEDURES AVBL. NO FUEL AVBL. 
 OUT OF HOURS FLYING PERMITTED BASED RESIDENTS ONLY
@@ -2276,7 +2481,9 @@ LICENSED AREODROME
             </Placemark>
             <Placemark id="239">
                 <name>CARDIFF</name>
-                <description>********** 
+                <description>*****TAF EGFF 081057Z 0812/0912 23016KT 9999 FEW015 SCT025 TEMPO 0812/0820 23018G32KT 6000 SHRA BKN010 PROB40 TEMPO 0812/0906 3000 +SHRAGS BKN008CB BECMG 0820/0823 29018G30KT TEMPO 0820/0906 6000 SHRA BKN010******
+*****No valid METAR******
+********** 
 EGGN/A54/23
 AVGAS NOT AVBL
 &lt;a href=https://raw.githubusercontent.com/john0sweet/TAK_EFB/main/PIB.xml&gt; link &lt;/a&gt;********** 
@@ -2298,7 +2505,9 @@ CONTROLLED AIRSPACE AND USE LISTENING OUT SQUAWK SSR CODE 3636
             </Placemark>
             <Placemark id="241">
                 <name>EAST MIDLANDS</name>
-                <description>********** 
+                <description>*****TAF EGNX 081101Z 0812/0912 19012KT 9999 SCT020 TEMPO 0812/0818 6000 SHRA BKN014 PROB30 TEMPO 0812/0817 21015G25KT 3000 +SHRA BKN008CB PROB30 TEMPO 0818/0905 6000 SHRA TEMPO 0823/0906 BKN014 PROB30 TEMPO 0823/0906 BKN008 BECMG 0906/0909 28012KT TEMPO 0906/0912 6000 SHRA BKN014 PROB30 TEMPO 0906/0910 3000 +SHRA BKN008 PROB30 TEMPO 0910/0912 29015G25KT******
+*****No valid METAR******
+********** 
 EGGN/C6206/22
 POTENTIAL ROUTING ERROR - PILOTS TAXIING WEST ON TWY A FOR RWY 09 
 DEPARTURE, BE AWARE OF THE POTENTIAL TO INADVERTENTLY TAXI PAST 
@@ -2317,7 +2526,9 @@ TWY CHARLIE CLOSED BEHIND STANDS 11-14
             </Placemark>
             <Placemark id="243">
                 <name>WITTERING</name>
-                <description>********** 
+                <description>***** No Valid TAF *****
+*****No valid METAR******
+********** 
 EGGN/U6111/22
 50 PERCENT APCH LIGHTING SYSTEM RWY 25 U/S
 &lt;a href=https://raw.githubusercontent.com/john0sweet/TAK_EFB/main/PIB.xml&gt; link &lt;/a&gt;********** 
@@ -2335,7 +2546,9 @@ AD CLOSED
             </Placemark>
             <Placemark id="245">
                 <name>BENBECULA</name>
-                <description>********** 
+                <description>*****TAF EGPL 081306Z 0813/0818 22022G35KT 9999 SCT015 BKN025 BECMG 0813/0815 27015G25KT TEMPO 0813/0818 6000 SHRA BKN009 BKN015CB PROB40 TEMPO 0813/0818 3000 +SHRA +SHGS BKN006******
+*****No valid METAR******
+********** 
 EGGN/I3254/22
 BENBECULA ATZ ACTIVE. AD MET ATIS CHANGES TO HR OF OPR
 MON 0800-1630
@@ -2359,7 +2572,9 @@ ABBREVIATED PAPI SYSTEM IN USE RWY 24.
             </Placemark>
             <Placemark id="247">
                 <name>WARTON</name>
-                <description>********** 
+                <description>***** No Valid TAF *****
+***** No Valid METAR *****
+********** 
 EGGN/L48/23
 ILS RWY 25. PILOTS MAY NOT RECEIVE FULL SCALE FLY UP WHEN RIGHT OF
 THE CENTRELINE BELOW PATH
@@ -2372,7 +2587,9 @@ THE CENTRELINE BELOW PATH
             </Placemark>
             <Placemark id="249">
                 <name>HUMBERSIDE</name>
-                <description>********** 
+                <description>*****TAF EGNJ 081054Z 0812/0821 19015KT 9999 SCT028 TEMPO 0812/0818 6000 SHRA RA BKN014 PROB30 TEMPO 0812/0815 20018G28KT 3500 +SHRA******
+*****No valid METAR******
+********** 
 EGGN/C15/23
 REVISED HUMBERSIDE ATZ AND AD OPERATING HOURS:
 TUE 0730-1815 PPR 0600-0630
@@ -2400,7 +2617,9 @@ ON 07718 524072.
             </Placemark>
             <Placemark id="251">
                 <name>NEWCASTLE</name>
-                <description>********** 
+                <description>*****TAF EGNT 081053Z 0812/0912 21010KT 9999 SCT030 PROB30 TEMPO 0812/0816 6000 SHRA RA BKN014 TEMPO 0821/0903 BKN012 PROB30 TEMPO 0822/0824 22015G28KT 5000 SHRA RA BKN009 BECMG 0900/0903 27007KT PROB30 TEMPO 0903/0906 6000 SHRA BKN014 PROB40 TEMPO 0909/0912 27015G25KT******
+*****No valid METAR******
+********** 
 EGGN/C5989/22
 AMEND METEOROLOGICAL INFORMATION PROVIDED. INSERT THE FOLLOWING:
 PARA 7. CHARTS AND OTHER INFORMATION AVAILABLE FOR BRIEFING OR 
@@ -2429,8 +2648,10 @@ STAND 32 CLOSED
             </Placemark>
             <Placemark id="253">
                 <name>YORK ELVINGTON</name>
-                <description>No Notams</description>
-                <styleUrl>#6</styleUrl>
+                <description>***** No Valid TAF *****
+***** No Valid METAR *****
+No Notams</description>
+                <styleUrl>#3</styleUrl>
                 <Point id="252">
                     <coordinates>-0.990644,53.923697,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -2438,8 +2659,10 @@ STAND 32 CLOSED
             </Placemark>
             <Placemark id="255">
                 <name>SYERSTON</name>
-                <description>No Notams</description>
-                <styleUrl>#6</styleUrl>
+                <description>***** No Valid TAF *****
+***** No Valid METAR *****
+No Notams</description>
+                <styleUrl>#3</styleUrl>
                 <Point id="254">
                     <coordinates>-0.911639,53.023319,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -2447,8 +2670,10 @@ STAND 32 CLOSED
             </Placemark>
             <Placemark id="257">
                 <name>WELLESBOURNE MOUNTFORD</name>
-                <description>No Notams</description>
-                <styleUrl>#6</styleUrl>
+                <description>***** No Valid TAF *****
+***** No Valid METAR *****
+No Notams</description>
+                <styleUrl>#3</styleUrl>
                 <Point id="256">
                     <coordinates>-1.614444,52.192222,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -2456,7 +2681,9 @@ STAND 32 CLOSED
             </Placemark>
             <Placemark id="259">
                 <name>DONCASTER SHEFFIELD</name>
-                <description>********** 
+                <description>***** No Valid TAF *****
+***** No Valid METAR *****
+********** 
 EGGN/C6850/22
 NO REFUELLING SERVICES AVAILABLE
 &lt;a href=https://raw.githubusercontent.com/john0sweet/TAK_EFB/main/PIB.xml&gt; link &lt;/a&gt;********** 
@@ -2473,8 +2700,10 @@ NOT AVBL. 2022-12-0086/AS4.
             </Placemark>
             <Placemark id="261">
                 <name>WELSHPOOL</name>
-                <description>No Notams</description>
-                <styleUrl>#6</styleUrl>
+                <description>***** No Valid TAF *****
+***** No Valid METAR *****
+No Notams</description>
+                <styleUrl>#3</styleUrl>
                 <Point id="260">
                     <coordinates>-3.153333,52.628611,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -2482,17 +2711,6 @@ NOT AVBL. 2022-12-0086/AS4.
             </Placemark>
         </Folder>
         <Folder id="9">
-            <Style id="13">
-                <IconStyle id="14">
-                    <color>ff008000</color>
-                    <colorMode>normal</colorMode>
-                    <scale>1</scale>
-                    <heading>0</heading>
-                    <Icon id="15">
-                        <href>https://raw.githubusercontent.com/john0sweet/TAK_EFB/main/icons/helipad.png</href>
-                    </Icon>
-                </IconStyle>
-            </Style>
             <Style id="10">
                 <IconStyle id="11">
                     <color>ff0000ff</color>
@@ -2507,8 +2725,10 @@ NOT AVBL. 2022-12-0086/AS4.
             <name>HLS and Minor Aerodromes</name>
             <Placemark id="53">
                 <name>PERRANPORTH</name>
-                <description>No Notams</description>
-                <styleUrl>#13</styleUrl>
+                <description>***** No Valid TAF *****
+***** No Valid METAR *****
+No Notams</description>
+                <styleUrl>#10</styleUrl>
                 <Point id="52">
                     <coordinates>-5.177500,50.331667,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -2516,8 +2736,10 @@ NOT AVBL. 2022-12-0086/AS4.
             </Placemark>
             <Placemark id="93">
                 <name>NORTH WEALD</name>
-                <description>No Notams</description>
-                <styleUrl>#13</styleUrl>
+                <description>***** No Valid TAF *****
+***** No Valid METAR *****
+No Notams</description>
+                <styleUrl>#10</styleUrl>
                 <Point id="92">
                     <coordinates>0.154167,51.721667,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -2525,8 +2747,10 @@ NOT AVBL. 2022-12-0086/AS4.
             </Placemark>
             <Placemark id="177">
                 <name>PORTON DOWN ALT</name>
-                <description>No Notams</description>
-                <styleUrl>#13</styleUrl>
+                <description>***** No Valid TAF *****
+***** No Valid METAR *****
+No Notams</description>
+                <styleUrl>#10</styleUrl>
                 <Point id="176">
                     <coordinates>-1.686883,51.139583,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -2534,8 +2758,10 @@ NOT AVBL. 2022-12-0086/AS4.
             </Placemark>
             <Placemark id="263">
                 <name>ST ATHAN HLS 2</name>
-                <description>No Notams</description>
-                <styleUrl>#13</styleUrl>
+                <description>***** No Valid TAF *****
+***** No Valid METAR *****
+No Notams</description>
+                <styleUrl>#10</styleUrl>
                 <Point id="262">
                     <coordinates>-3.442333,51.407667,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -2543,8 +2769,10 @@ NOT AVBL. 2022-12-0086/AS4.
             </Placemark>
             <Placemark id="265">
                 <name>LILSTOCK</name>
-                <description>No Notams</description>
-                <styleUrl>#13</styleUrl>
+                <description>***** No Valid TAF *****
+***** No Valid METAR *****
+No Notams</description>
+                <styleUrl>#10</styleUrl>
                 <Point id="264">
                     <coordinates>-3.201667,51.200667,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -2552,8 +2780,10 @@ NOT AVBL. 2022-12-0086/AS4.
             </Placemark>
             <Placemark id="267">
                 <name>KENLEY</name>
-                <description>No Notams</description>
-                <styleUrl>#13</styleUrl>
+                <description>***** No Valid TAF *****
+***** No Valid METAR *****
+No Notams</description>
+                <styleUrl>#10</styleUrl>
                 <Point id="266">
                     <coordinates>-0.093436,51.305961,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -2561,8 +2791,10 @@ NOT AVBL. 2022-12-0086/AS4.
             </Placemark>
             <Placemark id="269">
                 <name>COLL</name>
-                <description>No Notams</description>
-                <styleUrl>#13</styleUrl>
+                <description>***** No Valid TAF *****
+***** No Valid METAR *****
+No Notams</description>
+                <styleUrl>#10</styleUrl>
                 <Point id="268">
                     <coordinates>-6.617778,56.601944,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -2570,8 +2802,10 @@ NOT AVBL. 2022-12-0086/AS4.
             </Placemark>
             <Placemark id="271">
                 <name>COLONSAY</name>
-                <description>No Notams</description>
-                <styleUrl>#13</styleUrl>
+                <description>***** No Valid TAF *****
+***** No Valid METAR *****
+No Notams</description>
+                <styleUrl>#10</styleUrl>
                 <Point id="270">
                     <coordinates>-6.243056,56.057500,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -2579,8 +2813,10 @@ NOT AVBL. 2022-12-0086/AS4.
             </Placemark>
             <Placemark id="273">
                 <name>WYTON</name>
-                <description>No Notams</description>
-                <styleUrl>#13</styleUrl>
+                <description>***** No Valid TAF *****
+***** No Valid METAR *****
+No Notams</description>
+                <styleUrl>#10</styleUrl>
                 <Point id="272">
                     <coordinates>-0.118333,52.355500,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -2588,8 +2824,10 @@ NOT AVBL. 2022-12-0086/AS4.
             </Placemark>
             <Placemark id="275">
                 <name>SPADEADAM R7</name>
-                <description>No Notams</description>
-                <styleUrl>#13</styleUrl>
+                <description>***** No Valid TAF *****
+***** No Valid METAR *****
+No Notams</description>
+                <styleUrl>#10</styleUrl>
                 <Point id="274">
                     <coordinates>-2.565167,55.057000,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -2597,8 +2835,10 @@ NOT AVBL. 2022-12-0086/AS4.
             </Placemark>
             <Placemark id="277">
                 <name>ANDREWSFIELD</name>
-                <description>No Notams</description>
-                <styleUrl>#13</styleUrl>
+                <description>***** No Valid TAF *****
+***** No Valid METAR *****
+No Notams</description>
+                <styleUrl>#10</styleUrl>
                 <Point id="276">
                     <coordinates>0.449167,51.895000,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -2606,8 +2846,10 @@ NOT AVBL. 2022-12-0086/AS4.
             </Placemark>
             <Placemark id="279">
                 <name>ASHCROFT</name>
-                <description>No Notams</description>
-                <styleUrl>#13</styleUrl>
+                <description>***** No Valid TAF *****
+***** No Valid METAR *****
+No Notams</description>
+                <styleUrl>#10</styleUrl>
                 <Point id="278">
                     <coordinates>-2.571500,53.164167,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -2615,8 +2857,10 @@ NOT AVBL. 2022-12-0086/AS4.
             </Placemark>
             <Placemark id="281">
                 <name>BALLYKELLY</name>
-                <description>No Notams</description>
-                <styleUrl>#13</styleUrl>
+                <description>***** No Valid TAF *****
+***** No Valid METAR *****
+No Notams</description>
+                <styleUrl>#10</styleUrl>
                 <Point id="280">
                     <coordinates>-7.014833,55.061500,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -2624,7 +2868,9 @@ NOT AVBL. 2022-12-0086/AS4.
             </Placemark>
             <Placemark id="283">
                 <name>BARRA</name>
-                <description>********** 
+                <description>***** No Valid TAF *****
+***** No Valid METAR *****
+********** 
 EGGN/I3236/22
 AMEND AD OPERATIONAL HOURS TO READ:
 MON-SAT 1030-1530 (0930-1430): SUN 1100-1215 (1000-1115).
@@ -2641,8 +2887,10 @@ WIP BETWEEN TERMINAL AND RUNWAY 15 MARKER
             </Placemark>
             <Placemark id="285">
                 <name>BEMBRIDGE</name>
-                <description>No Notams</description>
-                <styleUrl>#13</styleUrl>
+                <description>***** No Valid TAF *****
+***** No Valid METAR *****
+No Notams</description>
+                <styleUrl>#10</styleUrl>
                 <Point id="284">
                     <coordinates>-1.109500,50.678000,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -2650,8 +2898,10 @@ WIP BETWEEN TERMINAL AND RUNWAY 15 MARKER
             </Placemark>
             <Placemark id="287">
                 <name>BEVERLEY/LINLEY HILL</name>
-                <description>No Notams</description>
-                <styleUrl>#13</styleUrl>
+                <description>***** No Valid TAF *****
+***** No Valid METAR *****
+No Notams</description>
+                <styleUrl>#10</styleUrl>
                 <Point id="286">
                     <coordinates>-0.362000,53.898667,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -2659,8 +2909,10 @@ WIP BETWEEN TERMINAL AND RUNWAY 15 MARKER
             </Placemark>
             <Placemark id="289">
                 <name>BODMIN</name>
-                <description>No Notams</description>
-                <styleUrl>#13</styleUrl>
+                <description>***** No Valid TAF *****
+***** No Valid METAR *****
+No Notams</description>
+                <styleUrl>#10</styleUrl>
                 <Point id="288">
                     <coordinates>-4.665833,50.499667,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -2668,8 +2920,10 @@ WIP BETWEEN TERMINAL AND RUNWAY 15 MARKER
             </Placemark>
             <Placemark id="291">
                 <name>BOURN</name>
-                <description>No Notams</description>
-                <styleUrl>#13</styleUrl>
+                <description>***** No Valid TAF *****
+***** No Valid METAR *****
+No Notams</description>
+                <styleUrl>#10</styleUrl>
                 <Point id="290">
                     <coordinates>-0.042500,52.210500,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -2677,8 +2931,10 @@ WIP BETWEEN TERMINAL AND RUNWAY 15 MARKER
             </Placemark>
             <Placemark id="293">
                 <name>CARDIFF CITY HELIPORT</name>
-                <description>No Notams</description>
-                <styleUrl>#13</styleUrl>
+                <description>***** No Valid TAF *****
+***** No Valid METAR *****
+No Notams</description>
+                <styleUrl>#10</styleUrl>
                 <Point id="292">
                     <coordinates>-3.135833,51.467167,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -2686,7 +2942,9 @@ WIP BETWEEN TERMINAL AND RUNWAY 15 MARKER
             </Placemark>
             <Placemark id="295">
                 <name>CHICHESTER/GOODWOOD</name>
-                <description>********** 
+                <description>***** No Valid TAF *****
+***** No Valid METAR *****
+********** 
 EGGN/L6828/22
 RWY 10/28 CLSD
 &lt;a href=https://raw.githubusercontent.com/john0sweet/TAK_EFB/main/PIB.xml&gt; link &lt;/a&gt;********** 
@@ -2705,8 +2963,10 @@ AD NOT AVBL TO FIXED WING DUE SFC CONDITIONS
             </Placemark>
             <Placemark id="297">
                 <name>CLACTON</name>
-                <description>No Notams</description>
-                <styleUrl>#13</styleUrl>
+                <description>***** No Valid TAF *****
+***** No Valid METAR *****
+No Notams</description>
+                <styleUrl>#10</styleUrl>
                 <Point id="296">
                     <coordinates>1.130000,51.785000,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -2714,7 +2974,9 @@ AD NOT AVBL TO FIXED WING DUE SFC CONDITIONS
             </Placemark>
             <Placemark id="299">
                 <name>COMPTON ABBAS</name>
-                <description>********** 
+                <description>***** No Valid TAF *****
+***** No Valid METAR *****
+********** 
 EGGN/L138/23
 AERODROME CLOSED DUE TO WEATHER CONDITIONS
 &lt;a href=https://raw.githubusercontent.com/john0sweet/TAK_EFB/main/PIB.xml&gt; link &lt;/a&gt;</description>
@@ -2726,8 +2988,10 @@ AERODROME CLOSED DUE TO WEATHER CONDITIONS
             </Placemark>
             <Placemark id="301">
                 <name>CROWFIELD</name>
-                <description>No Notams</description>
-                <styleUrl>#13</styleUrl>
+                <description>***** No Valid TAF *****
+***** No Valid METAR *****
+No Notams</description>
+                <styleUrl>#10</styleUrl>
                 <Point id="300">
                     <coordinates>1.111000,52.171167,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -2735,7 +2999,9 @@ AERODROME CLOSED DUE TO WEATHER CONDITIONS
             </Placemark>
             <Placemark id="303">
                 <name>CUMBERNAULD</name>
-                <description>********** 
+                <description>***** No Valid TAF *****
+***** No Valid METAR *****
+********** 
 EGGN/I77/23
 APAPI RWY 07 U/S
 &lt;a href=https://raw.githubusercontent.com/john0sweet/TAK_EFB/main/PIB.xml&gt; link &lt;/a&gt;</description>
@@ -2747,7 +3013,9 @@ APAPI RWY 07 U/S
             </Placemark>
             <Placemark id="305">
                 <name>DENHAM</name>
-                <description>********** 
+                <description>***** No Valid TAF *****
+***** No Valid METAR *****
+********** 
 EGGN/L6193/22
 MULTIPLE CRANES OPR IN THE VCY OF DENHAM AD ON HS2 WORKS AT PSN: 
 513455N 0002910W 195FT AGL/326FT AMSL
@@ -2781,8 +3049,10 @@ RUTS. CAUTION TO ROTARY LANDING NORTH SIDE GRASS RWY
             </Placemark>
             <Placemark id="307">
                 <name>DERBY</name>
-                <description>No Notams</description>
-                <styleUrl>#13</styleUrl>
+                <description>***** No Valid TAF *****
+***** No Valid METAR *****
+No Notams</description>
+                <styleUrl>#10</styleUrl>
                 <Point id="306">
                     <coordinates>-1.617500,52.859722,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -2790,8 +3060,10 @@ RUTS. CAUTION TO ROTARY LANDING NORTH SIDE GRASS RWY
             </Placemark>
             <Placemark id="309">
                 <name>DONNA NOOK/RAF</name>
-                <description>No Notams</description>
-                <styleUrl>#13</styleUrl>
+                <description>***** No Valid TAF *****
+*****No valid METAR******
+No Notams</description>
+                <styleUrl>#10</styleUrl>
                 <Point id="308">
                     <coordinates>0.152000,53.475000,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -2799,8 +3071,10 @@ RUTS. CAUTION TO ROTARY LANDING NORTH SIDE GRASS RWY
             </Placemark>
             <Placemark id="311">
                 <name>EAGLESCOTT</name>
-                <description>No Notams</description>
-                <styleUrl>#13</styleUrl>
+                <description>***** No Valid TAF *****
+***** No Valid METAR *****
+No Notams</description>
+                <styleUrl>#10</styleUrl>
                 <Point id="310">
                     <coordinates>-3.989500,50.928667,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -2808,8 +3082,10 @@ RUTS. CAUTION TO ROTARY LANDING NORTH SIDE GRASS RWY
             </Placemark>
             <Placemark id="313">
                 <name>EARLS COLNE</name>
-                <description>No Notams</description>
-                <styleUrl>#13</styleUrl>
+                <description>***** No Valid TAF *****
+***** No Valid METAR *****
+No Notams</description>
+                <styleUrl>#10</styleUrl>
                 <Point id="312">
                     <coordinates>0.682500,51.914444,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -2817,8 +3093,10 @@ RUTS. CAUTION TO ROTARY LANDING NORTH SIDE GRASS RWY
             </Placemark>
             <Placemark id="315">
                 <name>EDAY</name>
-                <description>No Notams</description>
-                <styleUrl>#13</styleUrl>
+                <description>***** No Valid TAF *****
+***** No Valid METAR *****
+No Notams</description>
+                <styleUrl>#10</styleUrl>
                 <Point id="314">
                     <coordinates>-2.772500,59.190278,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -2826,7 +3104,9 @@ RUTS. CAUTION TO ROTARY LANDING NORTH SIDE GRASS RWY
             </Placemark>
             <Placemark id="317">
                 <name>ELSTREE</name>
-                <description>********** 
+                <description>***** No Valid TAF *****
+***** No Valid METAR *****
+********** 
 EGGN/L5001/22
 AMEND
 AD 2.2 AERODROME GEOGRAPHICAL AND ADMINISTRATIVE DATA. REPLACE 
@@ -2864,8 +3144,10 @@ AD NOT AVBL TO ACFT REQUIRING THE USE OF A LICENCED AD
             </Placemark>
             <Placemark id="319">
                 <name>FAIR ISLE</name>
-                <description>No Notams</description>
-                <styleUrl>#13</styleUrl>
+                <description>***** No Valid TAF *****
+***** No Valid METAR *****
+No Notams</description>
+                <styleUrl>#10</styleUrl>
                 <Point id="318">
                     <coordinates>-1.628611,59.534722,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -2873,8 +3155,10 @@ AD NOT AVBL TO ACFT REQUIRING THE USE OF A LICENCED AD
             </Placemark>
             <Placemark id="321">
                 <name>FAIROAKS</name>
-                <description>No Notams</description>
-                <styleUrl>#13</styleUrl>
+                <description>***** No Valid TAF *****
+***** No Valid METAR *****
+No Notams</description>
+                <styleUrl>#10</styleUrl>
                 <Point id="320">
                     <coordinates>-0.558611,51.348056,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -2882,7 +3166,9 @@ AD NOT AVBL TO ACFT REQUIRING THE USE OF A LICENCED AD
             </Placemark>
             <Placemark id="323">
                 <name>FENLAND</name>
-                <description>********** 
+                <description>***** No Valid TAF *****
+***** No Valid METAR *****
+********** 
 EGGN/L129/23
 AD NOT AVBL TO ACFT REQUIRING THE USE OF A LICENSED AD DUE NO RFFS
 &lt;a href=https://raw.githubusercontent.com/john0sweet/TAK_EFB/main/PIB.xml&gt; link &lt;/a&gt;</description>
@@ -2894,8 +3180,10 @@ AD NOT AVBL TO ACFT REQUIRING THE USE OF A LICENSED AD DUE NO RFFS
             </Placemark>
             <Placemark id="325">
                 <name>FIFE</name>
-                <description>No Notams</description>
-                <styleUrl>#13</styleUrl>
+                <description>***** No Valid TAF *****
+***** No Valid METAR *****
+No Notams</description>
+                <styleUrl>#10</styleUrl>
                 <Point id="324">
                     <coordinates>-3.220333,56.183333,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -2903,8 +3191,10 @@ AD NOT AVBL TO ACFT REQUIRING THE USE OF A LICENSED AD DUE NO RFFS
             </Placemark>
             <Placemark id="327">
                 <name>FOWLMERE</name>
-                <description>No Notams</description>
-                <styleUrl>#13</styleUrl>
+                <description>***** No Valid TAF *****
+***** No Valid METAR *****
+No Notams</description>
+                <styleUrl>#10</styleUrl>
                 <Point id="326">
                     <coordinates>0.061667,52.077500,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -2912,8 +3202,10 @@ AD NOT AVBL TO ACFT REQUIRING THE USE OF A LICENSED AD DUE NO RFFS
             </Placemark>
             <Placemark id="329">
                 <name>FULL SUTTON</name>
-                <description>No Notams</description>
-                <styleUrl>#13</styleUrl>
+                <description>***** No Valid TAF *****
+***** No Valid METAR *****
+No Notams</description>
+                <styleUrl>#10</styleUrl>
                 <Point id="328">
                     <coordinates>-0.864667,53.980500,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -2921,8 +3213,10 @@ AD NOT AVBL TO ACFT REQUIRING THE USE OF A LICENSED AD DUE NO RFFS
             </Placemark>
             <Placemark id="331">
                 <name>RAF HALTON</name>
-                <description>No Notams</description>
-                <styleUrl>#13</styleUrl>
+                <description>***** No Valid TAF *****
+***** No Valid METAR *****
+No Notams</description>
+                <styleUrl>#10</styleUrl>
                 <Point id="330">
                     <coordinates>-0.737833,51.792500,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -2930,8 +3224,10 @@ AD NOT AVBL TO ACFT REQUIRING THE USE OF A LICENSED AD DUE NO RFFS
             </Placemark>
             <Placemark id="333">
                 <name>HENSTRIDGE</name>
-                <description>No Notams</description>
-                <styleUrl>#13</styleUrl>
+                <description>***** No Valid TAF *****
+***** No Valid METAR *****
+No Notams</description>
+                <styleUrl>#10</styleUrl>
                 <Point id="332">
                     <coordinates>-2.357167,50.985000,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -2939,8 +3235,10 @@ AD NOT AVBL TO ACFT REQUIRING THE USE OF A LICENSED AD DUE NO RFFS
             </Placemark>
             <Placemark id="335">
                 <name>HOLBEACH/AIR WEAPONS RANGE</name>
-                <description>No Notams</description>
-                <styleUrl>#13</styleUrl>
+                <description>***** No Valid TAF *****
+*****No valid METAR******
+No Notams</description>
+                <styleUrl>#10</styleUrl>
                 <Point id="334">
                     <coordinates>0.170000,52.855667,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -2948,8 +3246,10 @@ AD NOT AVBL TO ACFT REQUIRING THE USE OF A LICENSED AD DUE NO RFFS
             </Placemark>
             <Placemark id="337">
                 <name>KIRKNEWTON</name>
-                <description>No Notams</description>
-                <styleUrl>#13</styleUrl>
+                <description>***** No Valid TAF *****
+***** No Valid METAR *****
+No Notams</description>
+                <styleUrl>#10</styleUrl>
                 <Point id="336">
                     <coordinates>-3.398525,55.873206,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -2957,8 +3257,10 @@ AD NOT AVBL TO ACFT REQUIRING THE USE OF A LICENSED AD DUE NO RFFS
             </Placemark>
             <Placemark id="339">
                 <name>LANDS END</name>
-                <description>No Notams</description>
-                <styleUrl>#13</styleUrl>
+                <description>***** No Valid TAF *****
+***** No Valid METAR *****
+No Notams</description>
+                <styleUrl>#10</styleUrl>
                 <Point id="338">
                     <coordinates>-5.670556,50.102778,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -2966,8 +3268,10 @@ AD NOT AVBL TO ACFT REQUIRING THE USE OF A LICENSED AD DUE NO RFFS
             </Placemark>
             <Placemark id="341">
                 <name>LASHENDEN/HEADCORN</name>
-                <description>No Notams</description>
-                <styleUrl>#13</styleUrl>
+                <description>***** No Valid TAF *****
+***** No Valid METAR *****
+No Notams</description>
+                <styleUrl>#10</styleUrl>
                 <Point id="340">
                     <coordinates>0.644444,51.156389,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -2975,7 +3279,9 @@ AD NOT AVBL TO ACFT REQUIRING THE USE OF A LICENSED AD DUE NO RFFS
             </Placemark>
             <Placemark id="343">
                 <name>LERWICK/TINGWALL</name>
-                <description>********** 
+                <description>***** No Valid TAF *****
+***** No Valid METAR *****
+********** 
 EGGN/I47/23
 NO OUT OF HOURS ON CALL SERVICE.
 &lt;a href=https://raw.githubusercontent.com/john0sweet/TAK_EFB/main/PIB.xml&gt; link &lt;/a&gt;</description>
@@ -2987,8 +3293,10 @@ NO OUT OF HOURS ON CALL SERVICE.
             </Placemark>
             <Placemark id="345">
                 <name>LITTLE GRANSDEN</name>
-                <description>No Notams</description>
-                <styleUrl>#13</styleUrl>
+                <description>***** No Valid TAF *****
+***** No Valid METAR *****
+No Notams</description>
+                <styleUrl>#10</styleUrl>
                 <Point id="344">
                     <coordinates>-0.153833,52.166667,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -2996,8 +3304,10 @@ NO OUT OF HOURS ON CALL SERVICE.
             </Placemark>
             <Placemark id="347">
                 <name>GLASGOW CLYDE HELIPORT</name>
-                <description>No Notams</description>
-                <styleUrl>#13</styleUrl>
+                <description>***** No Valid TAF *****
+***** No Valid METAR *****
+No Notams</description>
+                <styleUrl>#10</styleUrl>
                 <Point id="346">
                     <coordinates>-4.333000,55.867833,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -3005,7 +3315,9 @@ NO OUT OF HOURS ON CALL SERVICE.
             </Placemark>
             <Placemark id="349">
                 <name>MANCHESTER/BARTON</name>
-                <description>********** 
+                <description>***** No Valid TAF *****
+***** No Valid METAR *****
+********** 
 EGGN/L5584/22
 FLIGHT PROCEDURES - COMMUNICATIONS AND SSR - ADD THE FOLLOWING 
 ITEMS.
@@ -3043,7 +3355,9 @@ AD NOT AVBL TO FIXED WING ACFT DUE SURFACE CONDITIONS
             </Placemark>
             <Placemark id="351">
                 <name>NETHERAVON</name>
-                <description>********** 
+                <description>***** No Valid TAF *****
+***** No Valid METAR *****
+********** 
 EGGN/U7333/22
 PARKING SPOT 1 ON ECHO DISPERSAL CLSD USE DUE DAMAGE
 &lt;a href=https://raw.githubusercontent.com/john0sweet/TAK_EFB/main/PIB.xml&gt; link &lt;/a&gt;********** 
@@ -3058,8 +3372,10 @@ NETHERAVON AFIS CLOSED IN LINE WITH SALISBURY OPS CLOSURE.
             </Placemark>
             <Placemark id="353">
                 <name>NETHERTHORPE</name>
-                <description>No Notams</description>
-                <styleUrl>#13</styleUrl>
+                <description>***** No Valid TAF *****
+***** No Valid METAR *****
+No Notams</description>
+                <styleUrl>#10</styleUrl>
                 <Point id="352">
                     <coordinates>-1.196203,53.316933,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -3067,8 +3383,10 @@ NETHERAVON AFIS CLOSED IN LINE WITH SALISBURY OPS CLOSURE.
             </Placemark>
             <Placemark id="355">
                 <name>NEWTOWNARDS</name>
-                <description>No Notams</description>
-                <styleUrl>#13</styleUrl>
+                <description>***** No Valid TAF *****
+***** No Valid METAR *****
+No Notams</description>
+                <styleUrl>#10</styleUrl>
                 <Point id="354">
                     <coordinates>-5.691944,54.581111,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -3076,8 +3394,10 @@ NETHERAVON AFIS CLOSED IN LINE WITH SALISBURY OPS CLOSURE.
             </Placemark>
             <Placemark id="357">
                 <name>NORTH RONALDSAY</name>
-                <description>No Notams</description>
-                <styleUrl>#13</styleUrl>
+                <description>***** No Valid TAF *****
+***** No Valid METAR *****
+No Notams</description>
+                <styleUrl>#10</styleUrl>
                 <Point id="356">
                     <coordinates>-2.434444,59.367500,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -3085,7 +3405,9 @@ NETHERAVON AFIS CLOSED IN LINE WITH SALISBURY OPS CLOSURE.
             </Placemark>
             <Placemark id="359">
                 <name>OLD BUCKENHAM</name>
-                <description>********** 
+                <description>***** No Valid TAF *****
+***** No Valid METAR *****
+********** 
 EGGN/L5582/22
 AMEND OPERATIONAL HOURS AS FOLLOWS:
 AD ADMINISTRATION - MON-FRI 0930-1600 (0830-1500).
@@ -3108,8 +3430,10 @@ PRIOR TO TAXI. AD NOT AVBL TO MOTORGLIDERS
             </Placemark>
             <Placemark id="361">
                 <name>PEMBREY</name>
-                <description>No Notams</description>
-                <styleUrl>#13</styleUrl>
+                <description>***** No Valid TAF *****
+***** No Valid METAR *****
+No Notams</description>
+                <styleUrl>#10</styleUrl>
                 <Point id="360">
                     <coordinates>-4.312222,51.713889,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -3117,8 +3441,10 @@ PRIOR TO TAXI. AD NOT AVBL TO MOTORGLIDERS
             </Placemark>
             <Placemark id="363">
                 <name>PAPA WESTRAY</name>
-                <description>No Notams</description>
-                <styleUrl>#13</styleUrl>
+                <description>***** No Valid TAF *****
+***** No Valid METAR *****
+No Notams</description>
+                <styleUrl>#10</styleUrl>
                 <Point id="362">
                     <coordinates>-2.900278,59.351111,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -3126,7 +3452,9 @@ PRIOR TO TAXI. AD NOT AVBL TO MOTORGLIDERS
             </Placemark>
             <Placemark id="365">
                 <name>PERTH/SCONE</name>
-                <description>********** 
+                <description>***** No Valid TAF *****
+***** No Valid METAR *****
+********** 
 EGGN/I4054/22
 RWY 15/33 CLSD
 &lt;a href=https://raw.githubusercontent.com/john0sweet/TAK_EFB/main/PIB.xml&gt; link &lt;/a&gt;</description>
@@ -3138,8 +3466,10 @@ RWY 15/33 CLSD
             </Placemark>
             <Placemark id="367">
                 <name>PETERBOROUGH/SIBSON</name>
-                <description>No Notams</description>
-                <styleUrl>#13</styleUrl>
+                <description>***** No Valid TAF *****
+***** No Valid METAR *****
+No Notams</description>
+                <styleUrl>#10</styleUrl>
                 <Point id="366">
                     <coordinates>-0.386333,52.555833,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -3147,8 +3477,10 @@ RWY 15/33 CLSD
             </Placemark>
             <Placemark id="369">
                 <name>POPHAM</name>
-                <description>No Notams</description>
-                <styleUrl>#13</styleUrl>
+                <description>***** No Valid TAF *****
+***** No Valid METAR *****
+No Notams</description>
+                <styleUrl>#10</styleUrl>
                 <Point id="368">
                     <coordinates>-1.236167,51.194333,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -3156,8 +3488,10 @@ RWY 15/33 CLSD
             </Placemark>
             <Placemark id="371">
                 <name>PORTSMOUTH/FLEETLANDS</name>
-                <description>No Notams</description>
-                <styleUrl>#13</styleUrl>
+                <description>***** No Valid TAF *****
+***** No Valid METAR *****
+No Notams</description>
+                <styleUrl>#10</styleUrl>
                 <Point id="370">
                     <coordinates>-1.166111,50.848333,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -3165,7 +3499,9 @@ RWY 15/33 CLSD
             </Placemark>
             <Placemark id="373">
                 <name>REDHILL</name>
-                <description>********** 
+                <description>***** No Valid TAF *****
+***** No Valid METAR *****
+********** 
 EGGN/L6050/22
 BASED PRIVATE FIXED-WING AND ALL VISITING FIXED-WING ACFT MUST
 OBTAIN PPR BY EMAIL TO ATC.
@@ -3195,7 +3531,9 @@ MOVEMENT RATES.
             </Placemark>
             <Placemark id="375">
                 <name>ROCHESTER</name>
-                <description>********** 
+                <description>***** No Valid TAF *****
+***** No Valid METAR *****
+********** 
 EGGN/L6832/22
 STANDARD DEPARTURE ROUTE CLACTON 3 (CLN 3) TO NORTHEAST NOT AVBL.
 &lt;a href=https://raw.githubusercontent.com/john0sweet/TAK_EFB/main/PIB.xml&gt; link &lt;/a&gt;</description>
@@ -3207,7 +3545,9 @@ STANDARD DEPARTURE ROUTE CLACTON 3 (CLN 3) TO NORTHEAST NOT AVBL.
             </Placemark>
             <Placemark id="377">
                 <name>SHERBURN IN ELMET</name>
-                <description>********** 
+                <description>***** No Valid TAF *****
+***** No Valid METAR *****
+********** 
 EGGN/L144/23
 AD NOT AVBL TO ACFT REQUIRING THE USE OF A LICENSED AD DUE NO RFFS
 &lt;a href=https://raw.githubusercontent.com/john0sweet/TAK_EFB/main/PIB.xml&gt; link &lt;/a&gt;</description>
@@ -3219,7 +3559,9 @@ AD NOT AVBL TO ACFT REQUIRING THE USE OF A LICENSED AD DUE NO RFFS
             </Placemark>
             <Placemark id="379">
                 <name>SCILLY ISLES/ST MARYS</name>
-                <description>********** 
+                <description>***** No Valid TAF *****
+***** No Valid METAR *****
+********** 
 EGGN/L5/23
 APCH STROBE AND THR INDICATOR LIGHTS RWY 27 U/S
 &lt;a href=https://raw.githubusercontent.com/john0sweet/TAK_EFB/main/PIB.xml&gt; link &lt;/a&gt;********** 
@@ -3234,8 +3576,10 @@ AD IDENT BEACON SC U/S
             </Placemark>
             <Placemark id="381">
                 <name>SEETHING</name>
-                <description>No Notams</description>
-                <styleUrl>#13</styleUrl>
+                <description>***** No Valid TAF *****
+***** No Valid METAR *****
+No Notams</description>
+                <styleUrl>#10</styleUrl>
                 <Point id="380">
                     <coordinates>1.417167,52.511167,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -3243,7 +3587,9 @@ AD IDENT BEACON SC U/S
             </Placemark>
             <Placemark id="383">
                 <name>SHOBDON</name>
-                <description>********** 
+                <description>***** No Valid TAF *****
+***** No Valid METAR *****
+********** 
 EGGN/L6316/22
 LOCATOR SH/SHOBDON 426KHZ U/S
 &lt;a href=https://raw.githubusercontent.com/john0sweet/TAK_EFB/main/PIB.xml&gt; link &lt;/a&gt;********** 
@@ -3259,8 +3605,10 @@ RFFS COVER
             </Placemark>
             <Placemark id="385">
                 <name>SANDAY</name>
-                <description>No Notams</description>
-                <styleUrl>#13</styleUrl>
+                <description>***** No Valid TAF *****
+***** No Valid METAR *****
+No Notams</description>
+                <styleUrl>#10</styleUrl>
                 <Point id="384">
                     <coordinates>-2.575000,59.250278,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -3268,8 +3616,10 @@ RFFS COVER
             </Placemark>
             <Placemark id="387">
                 <name>SLEAP</name>
-                <description>No Notams</description>
-                <styleUrl>#13</styleUrl>
+                <description>***** No Valid TAF *****
+***** No Valid METAR *****
+No Notams</description>
+                <styleUrl>#10</styleUrl>
                 <Point id="386">
                     <coordinates>-2.771667,52.833889,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -3277,8 +3627,10 @@ RFFS COVER
             </Placemark>
             <Placemark id="389">
                 <name>STAPLEFORD</name>
-                <description>No Notams</description>
-                <styleUrl>#13</styleUrl>
+                <description>***** No Valid TAF *****
+***** No Valid METAR *****
+No Notams</description>
+                <styleUrl>#10</styleUrl>
                 <Point id="388">
                     <coordinates>0.156111,51.652500,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -3286,7 +3638,9 @@ RFFS COVER
             </Placemark>
             <Placemark id="391">
                 <name>OLD WARDEN</name>
-                <description>********** 
+                <description>***** No Valid TAF *****
+***** No Valid METAR *****
+********** 
 EGGN/L5111/22
 AMEND OPERATIONAL HOURS - AD ADMINISTRATION - TO READ:
 0600(0500) OR SR-30, WHICHEVER IS LATER - SS+30.
@@ -3306,8 +3660,10 @@ UK AIP EGTH AD 2.2 REFERS.
             </Placemark>
             <Placemark id="393">
                 <name>STURGATE</name>
-                <description>No Notams</description>
-                <styleUrl>#13</styleUrl>
+                <description>***** No Valid TAF *****
+***** No Valid METAR *****
+No Notams</description>
+                <styleUrl>#10</styleUrl>
                 <Point id="392">
                     <coordinates>-0.685333,53.381167,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -3315,8 +3671,10 @@ UK AIP EGTH AD 2.2 REFERS.
             </Placemark>
             <Placemark id="395">
                 <name>STRONSAY</name>
-                <description>No Notams</description>
-                <styleUrl>#13</styleUrl>
+                <description>***** No Valid TAF *****
+***** No Valid METAR *****
+No Notams</description>
+                <styleUrl>#10</styleUrl>
                 <Point id="394">
                     <coordinates>-2.641389,59.155278,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -3324,8 +3682,10 @@ UK AIP EGTH AD 2.2 REFERS.
             </Placemark>
             <Placemark id="397">
                 <name>TAIN RANGE/RANGE CONTROL</name>
-                <description>No Notams</description>
-                <styleUrl>#13</styleUrl>
+                <description>***** No Valid TAF *****
+***** No Valid METAR *****
+No Notams</description>
+                <styleUrl>#10</styleUrl>
                 <Point id="396">
                     <coordinates>-3.959667,57.825833,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -3333,8 +3693,10 @@ UK AIP EGTH AD 2.2 REFERS.
             </Placemark>
             <Placemark id="399">
                 <name>TRURO</name>
-                <description>No Notams</description>
-                <styleUrl>#13</styleUrl>
+                <description>***** No Valid TAF *****
+***** No Valid METAR *****
+No Notams</description>
+                <styleUrl>#10</styleUrl>
                 <Point id="398">
                     <coordinates>-5.142500,50.278667,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -3342,8 +3704,10 @@ UK AIP EGTH AD 2.2 REFERS.
             </Placemark>
             <Placemark id="401">
                 <name>UNST</name>
-                <description>No Notams</description>
-                <styleUrl>#13</styleUrl>
+                <description>***** No Valid TAF *****
+***** No Valid METAR *****
+No Notams</description>
+                <styleUrl>#10</styleUrl>
                 <Point id="400">
                     <coordinates>-0.853833,60.747000,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -3351,8 +3715,10 @@ UK AIP EGTH AD 2.2 REFERS.
             </Placemark>
             <Placemark id="403">
                 <name>UPAVON</name>
-                <description>No Notams</description>
-                <styleUrl>#13</styleUrl>
+                <description>***** No Valid TAF *****
+***** No Valid METAR *****
+No Notams</description>
+                <styleUrl>#10</styleUrl>
                 <Point id="402">
                     <coordinates>-1.782000,51.286167,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -3360,8 +3726,10 @@ UK AIP EGTH AD 2.2 REFERS.
             </Placemark>
             <Placemark id="405">
                 <name>WESTDOWN CAMP/HQ SPTA</name>
-                <description>No Notams</description>
-                <styleUrl>#13</styleUrl>
+                <description>***** No Valid TAF *****
+***** No Valid METAR *****
+No Notams</description>
+                <styleUrl>#10</styleUrl>
                 <Point id="404">
                     <coordinates>-1.942333,51.227833,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -3369,8 +3737,10 @@ UK AIP EGTH AD 2.2 REFERS.
             </Placemark>
             <Placemark id="407">
                 <name>WESTRAY</name>
-                <description>No Notams</description>
-                <styleUrl>#13</styleUrl>
+                <description>***** No Valid TAF *****
+***** No Valid METAR *****
+No Notams</description>
+                <styleUrl>#10</styleUrl>
                 <Point id="406">
                     <coordinates>-2.950167,59.350000,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -3378,8 +3748,10 @@ UK AIP EGTH AD 2.2 REFERS.
             </Placemark>
             <Placemark id="409">
                 <name>WHALSAY</name>
-                <description>No Notams</description>
-                <styleUrl>#13</styleUrl>
+                <description>***** No Valid TAF *****
+***** No Valid METAR *****
+No Notams</description>
+                <styleUrl>#10</styleUrl>
                 <Point id="408">
                     <coordinates>-0.925500,60.377000,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -3387,8 +3759,10 @@ UK AIP EGTH AD 2.2 REFERS.
             </Placemark>
             <Placemark id="411">
                 <name>WHITE WALTHAM</name>
-                <description>No Notams</description>
-                <styleUrl>#13</styleUrl>
+                <description>***** No Valid TAF *****
+***** No Valid METAR *****
+No Notams</description>
+                <styleUrl>#10</styleUrl>
                 <Point id="410">
                     <coordinates>-0.774722,51.500556,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -3396,8 +3770,10 @@ UK AIP EGTH AD 2.2 REFERS.
             </Placemark>
             <Placemark id="413">
                 <name>WICKENBY</name>
-                <description>No Notams</description>
-                <styleUrl>#13</styleUrl>
+                <description>***** No Valid TAF *****
+***** No Valid METAR *****
+No Notams</description>
+                <styleUrl>#10</styleUrl>
                 <Point id="412">
                     <coordinates>-0.348889,53.316944,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -3405,8 +3781,10 @@ UK AIP EGTH AD 2.2 REFERS.
             </Placemark>
             <Placemark id="415">
                 <name>WYCOMBE AIR PARK/BOOKER</name>
-                <description>No Notams</description>
-                <styleUrl>#13</styleUrl>
+                <description>***** No Valid TAF *****
+***** No Valid METAR *****
+No Notams</description>
+                <styleUrl>#10</styleUrl>
                 <Point id="414">
                     <coordinates>-0.808333,51.611667,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -3414,8 +3792,10 @@ UK AIP EGTH AD 2.2 REFERS.
             </Placemark>
             <Placemark id="417">
                 <name>YEOVIL/HOSPITAL</name>
-                <description>No Notams</description>
-                <styleUrl>#13</styleUrl>
+                <description>***** No Valid TAF *****
+***** No Valid METAR *****
+No Notams</description>
+                <styleUrl>#10</styleUrl>
                 <Point id="416">
                     <coordinates>-2.654500,50.938500,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -3423,8 +3803,10 @@ UK AIP EGTH AD 2.2 REFERS.
             </Placemark>
             <Placemark id="419">
                 <name>LASHAM</name>
-                <description>No Notams</description>
-                <styleUrl>#13</styleUrl>
+                <description>***** No Valid TAF *****
+***** No Valid METAR *****
+No Notams</description>
+                <styleUrl>#10</styleUrl>
                 <Point id="418">
                     <coordinates>-1.033500,51.187167,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -3432,8 +3814,10 @@ UK AIP EGTH AD 2.2 REFERS.
             </Placemark>
             <Placemark id="421">
                 <name>TURWESTON</name>
-                <description>No Notams</description>
-                <styleUrl>#13</styleUrl>
+                <description>***** No Valid TAF *****
+***** No Valid METAR *****
+No Notams</description>
+                <styleUrl>#10</styleUrl>
                 <Point id="420">
                     <coordinates>-1.097500,52.040833,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -3441,8 +3825,10 @@ UK AIP EGTH AD 2.2 REFERS.
             </Placemark>
             <Placemark id="423">
                 <name>WROUGHTON</name>
-                <description>No Notams</description>
-                <styleUrl>#13</styleUrl>
+                <description>***** No Valid TAF *****
+***** No Valid METAR *****
+No Notams</description>
+                <styleUrl>#10</styleUrl>
                 <Point id="422">
                     <coordinates>-1.808333,51.514444,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -3450,8 +3836,10 @@ UK AIP EGTH AD 2.2 REFERS.
             </Placemark>
             <Placemark id="425">
                 <name>MAYPOLE</name>
-                <description>No Notams</description>
-                <styleUrl>#13</styleUrl>
+                <description>***** No Valid TAF *****
+***** No Valid METAR *****
+No Notams</description>
+                <styleUrl>#10</styleUrl>
                 <Point id="424">
                     <coordinates>-1.150000,51.350000,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -3459,8 +3847,10 @@ UK AIP EGTH AD 2.2 REFERS.
             </Placemark>
             <Placemark id="427">
                 <name>ALBOURNE</name>
-                <description>No Notams</description>
-                <styleUrl>#13</styleUrl>
+                <description>***** No Valid TAF *****
+***** No Valid METAR *****
+No Notams</description>
+                <styleUrl>#10</styleUrl>
                 <Point id="426">
                     <coordinates>-0.220278,50.936111,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -3468,8 +3858,10 @@ UK AIP EGTH AD 2.2 REFERS.
             </Placemark>
             <Placemark id="429">
                 <name>CHALLOCK</name>
-                <description>No Notams</description>
-                <styleUrl>#13</styleUrl>
+                <description>***** No Valid TAF *****
+***** No Valid METAR *****
+No Notams</description>
+                <styleUrl>#10</styleUrl>
                 <Point id="428">
                     <coordinates>0.829167,51.208333,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -3477,8 +3869,10 @@ UK AIP EGTH AD 2.2 REFERS.
             </Placemark>
             <Placemark id="431">
                 <name>DEANLAND</name>
-                <description>No Notams</description>
-                <styleUrl>#13</styleUrl>
+                <description>***** No Valid TAF *****
+***** No Valid METAR *****
+No Notams</description>
+                <styleUrl>#10</styleUrl>
                 <Point id="430">
                     <coordinates>0.155833,50.881667,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -3486,8 +3880,10 @@ UK AIP EGTH AD 2.2 REFERS.
             </Placemark>
             <Placemark id="433">
                 <name>WEST MALLING</name>
-                <description>No Notams</description>
-                <styleUrl>#13</styleUrl>
+                <description>***** No Valid TAF *****
+***** No Valid METAR *****
+No Notams</description>
+                <styleUrl>#10</styleUrl>
                 <Point id="432">
                     <coordinates>0.404722,51.268889,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -3495,8 +3891,10 @@ UK AIP EGTH AD 2.2 REFERS.
             </Placemark>
             <Placemark id="435">
                 <name>BROOKLANDS</name>
-                <description>No Notams</description>
-                <styleUrl>#13</styleUrl>
+                <description>***** No Valid TAF *****
+***** No Valid METAR *****
+No Notams</description>
+                <styleUrl>#10</styleUrl>
                 <Point id="434">
                     <coordinates>-0.470000,51.350278,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -3504,8 +3902,10 @@ UK AIP EGTH AD 2.2 REFERS.
             </Placemark>
             <Placemark id="437">
                 <name>BRIMPTON</name>
-                <description>No Notams</description>
-                <styleUrl>#13</styleUrl>
+                <description>***** No Valid TAF *****
+***** No Valid METAR *****
+No Notams</description>
+                <styleUrl>#10</styleUrl>
                 <Point id="436">
                     <coordinates>-1.171111,51.383611,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -3513,8 +3913,10 @@ UK AIP EGTH AD 2.2 REFERS.
             </Placemark>
             <Placemark id="439">
                 <name>DAMYNS HALL</name>
-                <description>No Notams</description>
-                <styleUrl>#13</styleUrl>
+                <description>***** No Valid TAF *****
+***** No Valid METAR *****
+No Notams</description>
+                <styleUrl>#10</styleUrl>
                 <Point id="438">
                     <coordinates>0.244444,51.528889,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -3522,8 +3924,10 @@ UK AIP EGTH AD 2.2 REFERS.
             </Placemark>
             <Placemark id="441">
                 <name>THURROCK</name>
-                <description>No Notams</description>
-                <styleUrl>#13</styleUrl>
+                <description>***** No Valid TAF *****
+***** No Valid METAR *****
+No Notams</description>
+                <styleUrl>#10</styleUrl>
                 <Point id="440">
                     <coordinates>0.366667,51.538056,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -3531,8 +3935,10 @@ UK AIP EGTH AD 2.2 REFERS.
             </Placemark>
             <Placemark id="443">
                 <name>BEDFORD CASTLE MILL</name>
-                <description>No Notams</description>
-                <styleUrl>#13</styleUrl>
+                <description>***** No Valid TAF *****
+***** No Valid METAR *****
+No Notams</description>
+                <styleUrl>#10</styleUrl>
                 <Point id="442">
                     <coordinates>-0.402778,52.146389,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -3540,8 +3946,10 @@ UK AIP EGTH AD 2.2 REFERS.
             </Placemark>
             <Placemark id="445">
                 <name>IPSWICH</name>
-                <description>No Notams</description>
-                <styleUrl>#13</styleUrl>
+                <description>***** No Valid TAF *****
+***** No Valid METAR *****
+No Notams</description>
+                <styleUrl>#10</styleUrl>
                 <Point id="444">
                     <coordinates>1.203333,52.032500,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -3549,8 +3957,10 @@ UK AIP EGTH AD 2.2 REFERS.
             </Placemark>
             <Placemark id="447">
                 <name>ELMSETT</name>
-                <description>No Notams</description>
-                <styleUrl>#13</styleUrl>
+                <description>***** No Valid TAF *****
+***** No Valid METAR *****
+No Notams</description>
+                <styleUrl>#10</styleUrl>
                 <Point id="446">
                     <coordinates>0.978000,52.075333,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -3558,8 +3968,10 @@ UK AIP EGTH AD 2.2 REFERS.
             </Placemark>
             <Placemark id="449">
                 <name>NEWMARKET RACECOURSE</name>
-                <description>No Notams</description>
-                <styleUrl>#13</styleUrl>
+                <description>***** No Valid TAF *****
+***** No Valid METAR *****
+No Notams</description>
+                <styleUrl>#10</styleUrl>
                 <Point id="448">
                     <coordinates>0.382222,52.230833,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -3567,8 +3979,10 @@ UK AIP EGTH AD 2.2 REFERS.
             </Placemark>
             <Placemark id="451">
                 <name>AYLESBURY THAME</name>
-                <description>No Notams</description>
-                <styleUrl>#13</styleUrl>
+                <description>***** No Valid TAF *****
+***** No Valid METAR *****
+No Notams</description>
+                <styleUrl>#10</styleUrl>
                 <Point id="450">
                     <coordinates>-0.935667,51.771833,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -3576,8 +3990,10 @@ UK AIP EGTH AD 2.2 REFERS.
             </Placemark>
             <Placemark id="453">
                 <name>DUNSFOLD</name>
-                <description>No Notams</description>
-                <styleUrl>#13</styleUrl>
+                <description>***** No Valid TAF *****
+***** No Valid METAR *****
+No Notams</description>
+                <styleUrl>#10</styleUrl>
                 <Point id="452">
                     <coordinates>-0.533333,51.116667,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -3585,8 +4001,10 @@ UK AIP EGTH AD 2.2 REFERS.
             </Placemark>
             <Placemark id="455">
                 <name>ENSTONE</name>
-                <description>No Notams</description>
-                <styleUrl>#13</styleUrl>
+                <description>***** No Valid TAF *****
+***** No Valid METAR *****
+No Notams</description>
+                <styleUrl>#10</styleUrl>
                 <Point id="454">
                     <coordinates>-1.431944,51.929444,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -3594,8 +4012,10 @@ UK AIP EGTH AD 2.2 REFERS.
             </Placemark>
             <Placemark id="457">
                 <name>OAKSEY PARK</name>
-                <description>No Notams</description>
-                <styleUrl>#13</styleUrl>
+                <description>***** No Valid TAF *****
+***** No Valid METAR *****
+No Notams</description>
+                <styleUrl>#10</styleUrl>
                 <Point id="456">
                     <coordinates>-2.022222,51.641667,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -3603,8 +4023,10 @@ UK AIP EGTH AD 2.2 REFERS.
             </Placemark>
             <Placemark id="459">
                 <name>UPPER HEYFORD</name>
-                <description>No Notams</description>
-                <styleUrl>#13</styleUrl>
+                <description>***** No Valid TAF *****
+***** No Valid METAR *****
+No Notams</description>
+                <styleUrl>#10</styleUrl>
                 <Point id="458">
                     <coordinates>-1.249722,51.934167,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -3612,8 +4034,10 @@ UK AIP EGTH AD 2.2 REFERS.
             </Placemark>
             <Placemark id="461">
                 <name>ABINGDON</name>
-                <description>No Notams</description>
-                <styleUrl>#13</styleUrl>
+                <description>***** No Valid TAF *****
+***** No Valid METAR *****
+No Notams</description>
+                <styleUrl>#10</styleUrl>
                 <Point id="460">
                     <coordinates>-1.316111,51.687500,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -3621,8 +4045,10 @@ UK AIP EGTH AD 2.2 REFERS.
             </Placemark>
             <Placemark id="463">
                 <name>GREENHAM COMMON</name>
-                <description>No Notams</description>
-                <styleUrl>#13</styleUrl>
+                <description>***** No Valid TAF *****
+***** No Valid METAR *****
+No Notams</description>
+                <styleUrl>#10</styleUrl>
                 <Point id="462">
                     <coordinates>-1.284722,51.383889,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -3630,8 +4056,10 @@ UK AIP EGTH AD 2.2 REFERS.
             </Placemark>
             <Placemark id="465">
                 <name>RAF CROUGHTON</name>
-                <description>No Notams</description>
-                <styleUrl>#13</styleUrl>
+                <description>***** No Valid TAF *****
+***** No Valid METAR *****
+No Notams</description>
+                <styleUrl>#10</styleUrl>
                 <Point id="464">
                     <coordinates>-1.200000,51.983333,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -3639,7 +4067,9 @@ UK AIP EGTH AD 2.2 REFERS.
             </Placemark>
             <Placemark id="467">
                 <name>LONDON HELIPORT</name>
-                <description>********** 
+                <description>***** No Valid TAF *****
+***** No Valid METAR *****
+********** 
 EGGN/L6092/22
 CRANE OPR AT PSN 512847N 0000826W (WANDSWORTH, CENTRAL LONDON). 
 UP TO 352FT AGL/361FT AMSL. FOR INFO CONTACT 07594 794038. ON EXPIRY 
@@ -3658,8 +4088,10 @@ HELIPORT ARP). MAX HGT 316FT AGL / 333FT AMSL
             </Placemark>
             <Placemark id="469">
                 <name>CHELTENHAM HELIPORT</name>
-                <description>No Notams</description>
-                <styleUrl>#13</styleUrl>
+                <description>***** No Valid TAF *****
+***** No Valid METAR *****
+No Notams</description>
+                <styleUrl>#10</styleUrl>
                 <Point id="468">
                     <coordinates>-2.054444,51.925833,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -3667,8 +4099,10 @@ HELIPORT ARP). MAX HGT 316FT AGL / 333FT AMSL
             </Placemark>
             <Placemark id="471">
                 <name>HEREFORD</name>
-                <description>No Notams</description>
-                <styleUrl>#13</styleUrl>
+                <description>***** No Valid TAF *****
+***** No Valid METAR *****
+No Notams</description>
+                <styleUrl>#10</styleUrl>
                 <Point id="470">
                     <coordinates>-2.798997,52.080856,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -3676,8 +4110,10 @@ HELIPORT ARP). MAX HGT 316FT AGL / 333FT AMSL
             </Placemark>
             <Placemark id="473">
                 <name>PENZANCE HELIPORT</name>
-                <description>No Notams</description>
-                <styleUrl>#13</styleUrl>
+                <description>***** No Valid TAF *****
+***** No Valid METAR *****
+No Notams</description>
+                <styleUrl>#10</styleUrl>
                 <Point id="472">
                     <coordinates>-5.512222,50.130556,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -3685,8 +4121,10 @@ HELIPORT ARP). MAX HGT 316FT AGL / 333FT AMSL
             </Placemark>
             <Placemark id="475">
                 <name>TRESCO HELIPORT</name>
-                <description>No Notams</description>
-                <styleUrl>#13</styleUrl>
+                <description>***** No Valid TAF *****
+***** No Valid METAR *****
+No Notams</description>
+                <styleUrl>#10</styleUrl>
                 <Point id="474">
                     <coordinates>-6.331389,49.945556,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>

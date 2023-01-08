@@ -18,7 +18,7 @@
             <Placemark id="17">
                 <name>MOUNT PLEASANT</name>
                 <description>*****TAF EGYP 081644Z 0818/0912 36015G25KT CAVOK 520003 PROB40 TEMPO 0818/0912 36022G35KT 530003 PROB30 TEMPO 0818/0912 VRB07KT 560003 PROB40 TEMPO 0900/0912 SCT006 PROB30 TEMPO 0903/0909 3000 BR SCT002******
-*****EGYP 081720Z 04023KT CAVOK 20/09 Q1014 NOSIG******
+*****EGYP 081750Z 04021KT CAVOK 19/09 Q1014 NOSIG******
 No Notams</description>
                 <styleUrl>#3</styleUrl>
                 <Point id="16">
@@ -233,7 +233,7 @@ No Notams</description>
             </Placemark>
             <Placemark id="45">
                 <name>CRANFIELD</name>
-                <description>*****TAF AMD EGTC 081731Z 0817/0818 22012KT 9999 SCT020 TEMPO 0817/0818 24020G30KT 7000 SHRA PROB30 TEMPO 0817/0818 4000 +SHRA BKN014CB******
+                <description>***** No Valid TAF *****
 *****EGTC 081750Z 25011KT 9999 FEW011 04/02 Q0988******
 
 ********** 
@@ -316,7 +316,7 @@ No Notams</description>
             <Placemark id="57">
                 <name>MIDDLE WALLOP</name>
                 <description>***** No Valid TAF *****
-*****EGVP 081720Z AUTO 24010KT 9999 NCD 05/03 Q0990******
+*****EGVP 081750Z AUTO 21005KT 9999 NCD 04/03 Q0989******
 
 ********** 
 EGGN/U106/23
@@ -639,7 +639,7 @@ No Notams</description>
             <Placemark id="73">
                 <name>VALLEY</name>
                 <description>***** No Valid TAF *****
-*****EGOV 081720Z AUTO 22021KT 9999 // BKN021/// 08/05 Q0982******
+*****EGOV 081750Z AUTO 22019KT 9999 SCT019/// 09/05 Q0983******
 
 ********** 
 EGGN/U6116/22
@@ -705,7 +705,7 @@ UK AIP EGBB AD 2.10 REFERS.)
             </Placemark>
             <Placemark id="79">
                 <name>HAWARDEN</name>
-                <description>*****TAF EGNR 081404Z 0815/0818 17010KT 9999 SCT020 TEMPO 0815/0816 6000 SHRA RA BKN014******
+                <description>***** No Valid TAF *****
 *****EGNR 081750Z 18009KT 9999 VCSH FEW021 SCT030 05/03 Q0985******
 No Notams</description>
                 <styleUrl>#3</styleUrl>
@@ -799,7 +799,7 @@ No Notams</description>
             <Placemark id="89">
                 <name>MARHAM</name>
                 <description>***** No Valid TAF *****
-*****EGYM 081720Z AUTO 20011KT 9999 OVC022/// 07/05 Q0987******
+*****EGYM 081750Z AUTO 20012KT 9999 OVC032/// 07/05 Q0987******
 
 ********** 
 EGGN/U6132/22
@@ -865,7 +865,7 @@ WITHDRAWN FROM SERVICE.
             <Placemark id="99">
                 <name>ODIHAM</name>
                 <description>***** No Valid TAF *****
-*****EGVO 081720Z AUTO 23014KT 9999 // FEW028/// 06/04 Q0990******
+*****EGVO 081750Z AUTO 21009KT 9999 FEW028/// 05/03 Q0990******
 No Notams</description>
                 <styleUrl>#3</styleUrl>
                 <Point id="98">
@@ -876,7 +876,7 @@ No Notams</description>
             <Placemark id="101">
                 <name>FAIRFORD</name>
                 <description>***** No Valid TAF *****
-*****EGVA 081755Z AUTO 21008KT 9999 FEW032 04/04 A2917 RMK AO2 RAE01 SLP883 P0000 60002 T00390038 10081 20037 51013 FZRANO $******
+*****EGVA 081758Z AUTO 22008KT 9999 -DZ FEW032 04/04 A2917 RMK AO2 DZB58 SLP883 FZRANO $******
 
 ********** 
 EGGN/U6178/22
@@ -939,7 +939,7 @@ No Notams</description>
             <Placemark id="105">
                 <name>CONINGSBY</name>
                 <description>*****TAF EGXC 081634Z 0818/0912 22009KT 9999 FEW020 PROB30 TEMPO 0900/0903 SCT020 PROB40 TEMPO 0908/0912 SCT016******
-*****EGXC 081650Z 19011KT 9999 BKN040 07/04 Q0986 RMK BLU******
+*****EGXC 081750Z 21011KT 9999 FEW040 BKN120 06/05 Q0986 RMK BLU******
 
 ********** 
 EGGN/U7384/22
@@ -1075,7 +1075,7 @@ RUNWAY 08 ANEMOMETER U/S
             <Placemark id="113">
                 <name>LOSSIEMOUTH</name>
                 <description>*****TAF EGQS 081645Z 0818/0912 20013KT 9999 FEW040******
-*****EGQS 081650Z 18010KT 9999 FEW030 BKN120 BKN250 05/M01 Q0976 RMK BLU******
+*****EGQS 081750Z 18010KT CAVOK 06/M01 Q0976 RMK BLU******
 
 ********** 
 EGGN/U6962/22
@@ -1121,7 +1121,7 @@ No Notams</description>
             <Placemark id="119">
                 <name>BOSCOMBE DOWN</name>
                 <description>***** No Valid TAF *****
-*****EGDM 081720Z AUTO 24013KT 9999 NCD 05/03 Q0989******
+*****EGDM 081750Z AUTO 21007KT 9999 NCD 04/02 Q0989******
 
 ********** 
 EGGN/U5783/22
@@ -1153,7 +1153,7 @@ CONTINUOUS FRICTION MEASURING DEVICE (MU METER) U/S
             </Placemark>
             <Placemark id="121">
                 <name>ISLAY</name>
-                <description>*****TAF EGPI 081401Z 0815/0818 20020G32KT 9999 FEW025 BECMG 0815/0818 27015G25KT TEMPO 0815/0818 6000 SHRA BKN014 PROB40 TEMPO 0815/0818 3000 +SHRA SHGS BKN007 BKN015CB******
+                <description>***** No Valid TAF *****
 ***** No Valid METAR *****
 No Notams</description>
                 <styleUrl>#3</styleUrl>
@@ -1165,7 +1165,7 @@ No Notams</description>
             <Placemark id="123">
                 <name>TOPCLIFFE</name>
                 <description>***** No Valid TAF *****
-*****EGXZ 081720Z AUTO 16008KT 9999 BKN020/// SCT170/// 04/02 Q0984******
+*****EGXZ 081750Z AUTO 16006KT 9999 FEW021/// OVC170/// 03/02 Q0983******
 No Notams</description>
                 <styleUrl>#3</styleUrl>
                 <Point id="122">
@@ -1230,7 +1230,7 @@ TWR ALTERNATIVE FREQ 127.155MHZ U/S. ACFT TO USE 118.150MHZ
             <Placemark id="129">
                 <name>CULDROSE</name>
                 <description>***** No Valid TAF *****
-*****EGDR 081720Z AUTO 23020KT 9999 // OVC014/// 09/07 Q0988******
+*****EGDR 081750Z AUTO 25024G37KT 9999 // OVC016/// 09/06 Q0989******
 
 ********** 
 EGGN/U6084/22
@@ -1257,7 +1257,7 @@ RWY 29 APPROACH LIGHTING PARTIALLY U/S. CENTRELINE 2 BAR IS AVBL.
             <Placemark id="131">
                 <name>SHAWBURY</name>
                 <description>***** No Valid TAF *****
-*****EGOS 081720Z AUTO 20007KT 9999 FEW170/// 05/01 Q0985******
+*****EGOS 081750Z AUTO 16007KT 9999 FEW038/// 05/01 Q0985******
 No Notams</description>
                 <styleUrl>#3</styleUrl>
                 <Point id="130">
@@ -1324,7 +1324,7 @@ No Notams</description>
             <Placemark id="139">
                 <name>BARKSTON HEATH</name>
                 <description>***** No Valid TAF *****
-*****EGYE 081720Z AUTO 22008KT //// VV/// ///// Q////******
+*****EGYE 081750Z AUTO 23009KT //// VV/// ///// Q////******
 
 ********** 
 EGGN/U81/23
@@ -1339,7 +1339,7 @@ SRA APPROACHES NOT AVBL TO TUTORS FLYING INTO RAF BARKSTON HEATH
             <Placemark id="141">
                 <name>BRIZE NORTON</name>
                 <description>*****TAF EGVN 081633Z 0818/0918 20012KT 9999 SCT030 PROB30 TEMPO 0821/0901 7000 -SHRA SCT020 PROB30 TEMPO 0901/0906 SCT020 PROB40 TEMPO 0906/0911 5000 SHRA SCT020 PROB40 TEMPO 0911/0918 27015G25KT******
-*****EGVN 081750Z 20005KT 9999 FEW030 04/02 Q0988 NOSIG******
+*****EGVN 081750Z 20005KT 9999 FEW030 04/02 Q0988 NOSIG RMK BLU BLU******
 
 ********** 
 EGGN/U7180/22
@@ -1400,7 +1400,7 @@ No Notams</description>
             <Placemark id="149">
                 <name>WATTISHAM</name>
                 <description>***** No Valid TAF *****
-*****EGUW 081720Z AUTO 19009KT 9999 // FEW045/// BKN055/// 06/05 Q0988******
+*****EGUW 081750Z AUTO 20011KT 9999 // SCT073/// 06/05 Q0988******
 
 ********** 
 EGGN/U7404/22
@@ -1427,7 +1427,7 @@ WATTISHAM SSR U/S
             <Placemark id="151">
                 <name>BENSON</name>
                 <description>***** No Valid TAF *****
-*****EGUB 081720Z AUTO 24008KT 9999 // FEW015/// SCT029/// 05/03 Q0989******
+*****EGUB 081750Z AUTO 20006KT 9999 // FEW047/// 04/02 Q0989******
 
 ********** 
 EGGN/H9419/22
@@ -1514,7 +1514,7 @@ HELICOPTER TRAFFIC SHOULD AVOID FLYING OVER THE WIP.
             <Placemark id="157">
                 <name>MILDENHALL</name>
                 <description>*****TAF AMD EGUN 081749Z 0817/0918 19015G25KT 6000 RA BR FEW018 BKN025 BKN050 620309 510003 QNH2918INS BECMG 0819/0820 22010G18KT 9999 NSW FEW018 SCT100 BKN170 510003 QNH2919INS BECMG 0900/0902 24012KT 9999 BKN025 QNH2924INS BECMG 0903/0904 26012KT 9999 SCT025 QNH2930INS BECMG 0909/0910 25010G20KT 9999 FEW015 BKN020 620209 510003 QNH2940INS TEMPO 0911/0913 28015G25KT -RA BECMG 0917/0918 25010G20KT 9999 -DZ BKN030 620307 510003 QNH2960INS TX07/0818Z TN04/0904Z******
-*****EGUN 081655Z 20013KT 9999 BKN030 BKN100 07/07 A2916 RMK AO2A SLP878 T00700070 $******
+*****EGUN 081755Z 22015KT 9999 -RA SCT028 BKN055 BKN100 07/07 A2916 RMK AO2A RAB55 SLP878 P0000 60017 T00680068 10083 20068 55004 $******
 
 ********** 
 EGGN/U6586/22
@@ -1662,7 +1662,7 @@ SAT-SUN     SR-SS+15 MIN
             <Placemark id="163">
                 <name>WADDINGTON</name>
                 <description>***** No Valid TAF *****
-*****EGXW 081720Z AUTO 21012KT 9999 // FEW069/// OVC090/// 06/04 Q0986******
+*****EGXW 081750Z AUTO 21009KT 9999 // FEW035/// OVC098/// 06/04 Q0985******
 
 ********** 
 EGGN/U6938/22
@@ -1779,8 +1779,8 @@ RFFS DOWNGRADED TO CAT 2. CAT 3 AVBL BY PRIOR ARRANGEMENT.
             </Placemark>
             <Placemark id="173">
                 <name>TIREE</name>
-                <description>*****TAF EGPU 081401Z 0815/0818 20032G42KT 9999 FEW025 BKN035 BECMG 0815/0818 27015KT TEMPO 0815/0818 6000 SHRA BKN012 BKN015CB PROB30 TEMPO 0815/0818 3000 +SHRA +SHGS BKN009******
-*****EGPU 081720Z AUTO 28011KT 9999 FEW024/// 07/05 Q0975******
+                <description>***** No Valid TAF *****
+*****EGPU 081750Z AUTO 28010KT 9999 FEW023/// 06/04 Q0975******
 
 ********** 
 EGGN/I25/23
@@ -1826,7 +1826,7 @@ SUMBURGH PRIMARY RADAR OUT OF SERVICE
             <Placemark id="181">
                 <name>YEOVILTON</name>
                 <description>***** No Valid TAF *****
-*****EGDY 081720Z AUTO 19009KT 9999 NCD 06/03 Q0989******
+*****EGDY 081750Z AUTO 20009KT 9999 NCD 06/03 Q0989******
 
 ********** 
 EGGN/U6806/22
@@ -2096,7 +2096,7 @@ TAXIWAY FOXTROT CLOSED DUE WATERLOGGING.
             <Placemark id="197">
                 <name>LEEMING</name>
                 <description>***** No Valid TAF *****
-*****EGXE 081720Z AUTO 18007KT 9999 FEW020/// BKN150/// 05/03 Q0983******
+*****EGXE 081750Z AUTO 16006KT 9999 OVC140/// 05/03 Q0983******
 
 ********** 
 EGGN/U6543/22
@@ -2262,7 +2262,7 @@ No Notams</description>
             <Placemark id="209">
                 <name>LAKENHEATH</name>
                 <description>***** No Valid TAF *****
-*****EGUL 081755Z AUTO 21013KT 9999 -RA FEW036 FEW055 07/06 A2916 RMK AO2 RAB51 SLP878 P0000 60012 T00700058 10084 20068 55009 $******
+*****EGUL 081802Z AUTO 21015KT 9999 -RA FEW019 FEW038 SCT060 07/06 A2916 RMK AO2 RAE01RAB02 SLP878 $******
 
 ********** 
 EGGN/U6051/22
@@ -2465,7 +2465,7 @@ AMSL. INFRINGES THE TYPE A 08L BY 51FT
             <Placemark id="223">
                 <name>CRANWELL</name>
                 <description>***** No Valid TAF *****
-*****EGYD 081720Z AUTO 21010KT //// FEW032/// 06/04 Q0986******
+*****EGYD 081750Z AUTO 22009KT //// OVC100/// 06/04 Q0986******
 
 ********** 
 EGGN/U7169/22
@@ -2598,7 +2598,7 @@ No Notams</description>
             <Placemark id="233">
                 <name>NORTHOLT</name>
                 <description>*****TAF EGWU 081616Z 0818/0912 21010KT 9999 FEW025 PROB30 TEMPO 0822/0903 4000 +SHRA BKN014 PROB30 TEMPO 0903/0912 6000 SHRA BKN018******
-*****EGWU 081750Z 24010KT 9999 FEW018 BKN042 05/04 Q0990 NOSIG******
+*****EGWU 081750Z 24010KT 9999 FEW018 BKN042 05/04 Q0990 NOSIG RMK BLU BLU******
 
 ********** 
 EGGN/U6531/22
@@ -2702,7 +2702,7 @@ UK AIP EGNX AD 2.EGNX-2-1, AD 2.EGNX-2-2 REFERS.
             <Placemark id="243">
                 <name>WITTERING</name>
                 <description>***** No Valid TAF *****
-*****EGXT 081720Z AUTO 21015KT 9999 -RA OVC029/// 07/04 Q0986******
+*****EGXT 081750Z AUTO 22013KT 9999 // FEW036/// SCT043/// 06/03 Q0986******
 
 ********** 
 EGGN/U6111/22
@@ -2724,7 +2724,7 @@ AD CLOSED
             </Placemark>
             <Placemark id="245">
                 <name>BENBECULA</name>
-                <description>*****TAF AMD EGPL 081503Z 0815/0818 22012KT 9999 SCT015 BKN025 TEMPO 0815/0818 6000 SHRA BKN014CB PROB40 TEMPO 0815/0818 25018G28KT 3000 +SHRA +SHGS BKN009******
+                <description>***** No Valid TAF *****
 *****EGPL 081750Z AUTO 25013KT 9999 FEW012/// SCT017/// 07/05 Q0973******
 
 ********** 
@@ -3253,7 +3253,7 @@ No Notams</description>
             <Placemark id="309">
                 <name>DONNA NOOK/RAF</name>
                 <description>***** No Valid TAF *****
-*****EGXS 081720Z AUTO 21013KT 9999 // OVC017/// 07/05 Q0985******
+*****EGXS 081750Z AUTO 20014KT 9999 // FEW017/// OVC180/// 07/05 Q0985******
 No Notams</description>
                 <styleUrl>#10</styleUrl>
                 <Point id="308">
@@ -3431,7 +3431,7 @@ No Notams</description>
             <Placemark id="335">
                 <name>HOLBEACH/AIR WEAPONS RANGE</name>
                 <description>***** No Valid TAF *****
-*****EGYH 081720Z AUTO 20011KT 9999 FEW037/// 07/05 Q0986******
+*****EGYH 081750Z AUTO 20013KT 9999 OVC024/// 07/05 Q0986******
 No Notams</description>
                 <styleUrl>#10</styleUrl>
                 <Point id="334">

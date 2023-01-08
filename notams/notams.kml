@@ -32,7 +32,7 @@
                     <scale>1</scale>
                     <heading>0</heading>
                     <Icon id="487">
-                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                        <href>https://raw.githubusercontent.com/john0sweet/TAK_EFB/main/icons/triangle-down.png</href>
                     </Icon>
                 </IconStyle>
                 <LineStyle id="489">

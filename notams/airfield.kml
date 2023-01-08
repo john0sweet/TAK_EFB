@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
     <Document id="1">
-        <name>UK Airfields and HLS Expires 08/01/2023, 13:11</name>
+        <name>UK Airfields and HLS Expires 08/01/2023, 14:11</name>
         <Folder id="2">
             <Style id="6">
                 <IconStyle id="7">
@@ -241,6 +241,10 @@ UK AIP AD 2.19 REFERS.
 EGGN/L5046/22
 UNVERIFIED AUTOMATIC MET OBSERVATIONS ARE AVAILABLE ON ATIS 
 130.560 OR BY TELEPHONE 01446 243943 OUTSIDE OF AERODROME/ATC HOURS
+&lt;a href=https://raw.githubusercontent.com/john0sweet/TAK_EFB/main/PIB.xml&gt; link &lt;/a&gt;********** 
+EGGN/L58/23
+ATC CLSD IN THE EVENT OF AN EMERGENCY CTC AD SECURITY ON 01446 
+243900
 &lt;a href=https://raw.githubusercontent.com/john0sweet/TAK_EFB/main/PIB.xml&gt; link &lt;/a&gt;</description>
                 <styleUrl>#3</styleUrl>
                 <Point id="48">
@@ -695,6 +699,14 @@ AD HR
 04-05  0800-1700
 09-13  0800-1700
 17-20  0800-1700
+&lt;a href=https://raw.githubusercontent.com/john0sweet/TAK_EFB/main/PIB.xml&gt; link &lt;/a&gt;********** 
+EGGN/B3225/22
+TEMPO CTR CLASS D ESTABLISHED WI 5NM RADIUS OF 523854N 0003302E 
+(MARHAM AD). SFC/FL060. CONTROLLING AUTHORITY: MARHAM ATC. 
+2023-01-0081/AS3.
+&lt;a href=https://raw.githubusercontent.com/john0sweet/TAK_EFB/main/PIB.xml&gt; link &lt;/a&gt;********** 
+EGGN/U53/23
+NOISE AND MOVEMENT EMBARGO
 &lt;a href=https://raw.githubusercontent.com/john0sweet/TAK_EFB/main/PIB.xml&gt; link &lt;/a&gt;</description>
                 <styleUrl>#3</styleUrl>
                 <Point id="88">

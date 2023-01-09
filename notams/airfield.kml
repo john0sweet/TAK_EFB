@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
     <Document id="1">
-        <name>UK Airfields and HLS Expires 08/01/2023, 19:11</name>
+        <name>UK Airfields and HLS Expires 09/01/2023, 09:11</name>
         <Folder id="2">
+            <Style id="6">
+                <IconStyle id="7">
+                    <color>ff008000</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="8">
+                        <href>https://raw.githubusercontent.com/john0sweet/TAK_EFB/main/icons/airport.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
             <Style id="3">
                 <IconStyle id="4">
                     <color>ff0000ff</color>
@@ -17,10 +28,10 @@
             <name>Airfields</name>
             <Placemark id="17">
                 <name>MOUNT PLEASANT</name>
-                <description>*****TAF EGYP 081644Z 0818/0912 36015G25KT CAVOK 520003 PROB40 TEMPO 0818/0912 36022G35KT 530003 PROB30 TEMPO 0818/0912 VRB07KT 560003 PROB40 TEMPO 0900/0912 SCT006 PROB30 TEMPO 0903/0909 3000 BR SCT002******
-*****EGYP 081820Z 02021KT CAVOK 21/10 Q1013 NOSIG******
+                <description>*****TAF EGYP 090732Z 0909/1003 36015G25KT 9999 FEW007 520003 PROB40 TEMPO 0909/0913 36022G35KT SCT006 530003 PROB30 TEMPO 0909/0920 VRB07KT 560003 BECMG 0913/0915 33025G35KT PROB40 TEMPO 0913/0920 SCT016 BECMG 0918/0921 24020KT******
+*****EGYP 090750Z 35031KT 9999 SCT004 BKN180 15/13 Q1003******
 No Notams</description>
-                <styleUrl>#3</styleUrl>
+                <styleUrl>#6</styleUrl>
                 <Point id="16">
                     <coordinates>-58.456111,-51.821789,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -28,10 +39,10 @@ No Notams</description>
             </Placemark>
             <Placemark id="19">
                 <name>GUERNSEY</name>
-                <description>*****TAF EGJB 081702Z 0818/0903 23018KT 9999 FEW009 SCT022 TEMPO 0818/0819 23022G35KT PROB40 TEMPO 0818/0903 6000 SHRA BKN015CB PROB30 TEMPO 0818/0903 2000 +SHRAGS BKN010 BECMG 0819/0821 27022G36KT******
-*****EGJB 081820Z 24021G31KT 9999 FEW028 BKN046 08/04 Q0993******
+                <description>*****TAF EGJB 090800Z 0909/0918 29020G31KT 9999 FEW020 PROB40 TEMPO 0909/0913 29025G43KT 4000 SHRAGS BKN014CB BECMG 0915/0917 28018KT******
+*****EGJB 090850Z 28023G34KT 9999 VCSH FEW018CB SCT025 08/04 Q1004******
 No Notams</description>
-                <styleUrl>#3</styleUrl>
+                <styleUrl>#6</styleUrl>
                 <Point id="18">
                     <coordinates>-2.602778,49.435000,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -39,10 +50,10 @@ No Notams</description>
             </Placemark>
             <Placemark id="21">
                 <name>ALDERNEY</name>
-                <description>*****TAF EGJA 081402Z 0815/0900 22022KT 9999 FEW006 FEW014CB TEMPO 0815/0819 22025G38KT PROB40 TEMPO 0815/0900 6000 SHRA BKN014CB PROB30 TEMPO 0815/0900 2000 +SHRAGS BECMG 0819/0821 26024G37KT******
-*****EGJA 081820Z 24023KT 9999 FEW017CB SCT035 09/04 Q0993******
+                <description>*****TAF EGJA 090800Z 0909/0918 29022G34KT 9999 FEW020 PROB40 TEMPO 0909/0913 29027G44KT 4000 SHRAGS BKN014CB BECMG 0915/0917 28020KT******
+*****EGJA 090850Z 29026G36KT 9999 -SHRA FEW016CB SCT024 08/05 Q1003 RESHRA******
 No Notams</description>
-                <styleUrl>#3</styleUrl>
+                <styleUrl>#6</styleUrl>
                 <Point id="20">
                     <coordinates>-2.214444,49.706667,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -50,8 +61,8 @@ No Notams</description>
             </Placemark>
             <Placemark id="23">
                 <name>ISLE OF MAN</name>
-                <description>*****TAF EGNS 081700Z 0818/0822 25018KT 9999 FEW020 BKN030 PROB30 TEMPO 0818/0822 25020G30KT 7000 SHRA******
-*****EGNS 081820Z 25016KT 9999 SCT022 BKN030 08/04 Q0981 NOSIG******
+                <description>*****TAF EGNS 090800Z 0909/0918 27022G33KT 9999 FEW025 PROB40 TEMPO 0911/0918 26028G45KT 6000 SHRA******
+*****EGNS 090850Z 27018KT 9999 FEW022 07/02 Q0995 NOSIG******
 
 ********** 
 EGGN/C6231/22
@@ -73,10 +84,10 @@ GRF REPORTS WILL BE PASSED ON THE RTF BY ATC.
             </Placemark>
             <Placemark id="25">
                 <name>JERSEY</name>
-                <description>*****TAF EGJJ 081702Z 0818/0903 23018KT 9999 FEW010 SCT022 TEMPO 0818/0820 23022G34KT PROB40 TEMPO 0818/0903 6000 SHRA BKN015CB PROB30 TEMPO 0818/0901 2000 +SHRAGS BKN010 BECMG 0820/0822 27022G36KT******
-*****EGJJ 081820Z 24021KT 200V260 9999 SCT023 09/05 Q0995******
+                <description>*****TAF EGJJ 090800Z 0909/0918 29019G30KT 9999 FEW020 PROB40 TEMPO 0909/0913 29025G42KT 4000 SHRAGS BKN014CB BECMG 0915/0917 28017KT******
+*****EGJJ 090850Z 28023G34KT 9999 VCSH FEW020CB SCT030 09/06 Q1004 RESHRA******
 No Notams</description>
-                <styleUrl>#3</styleUrl>
+                <styleUrl>#6</styleUrl>
                 <Point id="24">
                     <coordinates>-2.195556,49.208056,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -109,7 +120,7 @@ UK AIP EGCM AD 2.18, AD 2.EGCM-2-1 REFER.
                 <description>***** No Valid TAF *****
 ***** No Valid METAR *****
 No Notams</description>
-                <styleUrl>#3</styleUrl>
+                <styleUrl>#6</styleUrl>
                 <Point id="28">
                     <coordinates>-0.858333,53.559722,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -141,8 +152,8 @@ FIRE COVER.
             </Placemark>
             <Placemark id="33">
                 <name>NEWQUAY</name>
-                <description>*****TAF EGHQ 081659Z 0818/0903 24018KT 9999 SCT025 TEMPO 0818/0903 6000 SHRA BKN014 PROB40 TEMPO 0818/0903 26025G37KT 3000 +SHRAGS BKN009******
-*****EGHQ 081820Z 27030G40KT 9999 VCSH BKN019 09/06 Q0988******
+                <description>*****TAF EGHQ 090800Z 0909/0918 29020KT 9999 SCT028 TEMPO 0909/0912 30025G35KT 6000 SHRA BKN014 PROB30 TEMPO 0909/0912 30030G45KT 3000 +SHRAGS BKN009 BKN020CB PROB30 TEMPO 0912/0918 30025G35KT 6000 SHRA BKN014******
+*****EGHQ 090850Z 30025KT 9999 SCT031 08/03 Q1005******
 
 ********** 
 EGGN/C5635/22
@@ -171,7 +182,7 @@ PLACE.
                 <description>***** No Valid TAF *****
 ***** No Valid METAR *****
 No Notams</description>
-                <styleUrl>#3</styleUrl>
+                <styleUrl>#6</styleUrl>
                 <Point id="34">
                     <coordinates>-1.600000,51.210556,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -209,7 +220,7 @@ MOGAS FUEL NOT AVAILABLE
                 <description>***** No Valid TAF *****
 ***** No Valid METAR *****
 No Notams</description>
-                <styleUrl>#3</styleUrl>
+                <styleUrl>#6</styleUrl>
                 <Point id="38">
                     <coordinates>-0.445556,52.232500,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -220,7 +231,7 @@ No Notams</description>
                 <description>***** No Valid TAF *****
 ***** No Valid METAR *****
 No Notams</description>
-                <styleUrl>#3</styleUrl>
+                <styleUrl>#6</styleUrl>
                 <Point id="40">
                     <coordinates>-1.206667,50.815556,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -230,7 +241,14 @@ No Notams</description>
                 <name>MERRYFIELD</name>
                 <description>***** No Valid TAF *****
 ***** No Valid METAR *****
-No Notams</description>
+
+********** 
+EGGN/U102/23
+CHANGE TO AD OPERATIONAL HOURS:
+MON TO WED    1100-2130
+THU           1100-1645
+FRI TO SUN    CLOSED
+</description>
                 <styleUrl>#3</styleUrl>
                 <Point id="42">
                     <coordinates>-2.935667,50.962500,0.0</coordinates>
@@ -239,8 +257,8 @@ No Notams</description>
             </Placemark>
             <Placemark id="45">
                 <name>CRANFIELD</name>
-                <description>***** No Valid TAF *****
-*****EGTC 081750Z 25011KT 9999 FEW011 04/02 Q0988******
+                <description>*****TAF EGTC 090802Z 0909/0918 24012KT 9999 FEW020 PROB30 TEMPO 0909/0916 7000 SHRA PROB30 TEMPO 0909/0912 BKN012 PROB30 TEMPO 0911/0918 26015G25KT******
+*****EGTC 090850Z 24016KT 9999 BKN026 05/03 Q0996******
 
 ********** 
 EGGN/L5768/22
@@ -262,7 +280,7 @@ AIRPORT AUTHORITY DUE EXTENSIVE WIP
                 <description>***** No Valid TAF *****
 ***** No Valid METAR *****
 No Notams</description>
-                <styleUrl>#3</styleUrl>
+                <styleUrl>#6</styleUrl>
                 <Point id="46">
                     <coordinates>-2.056944,51.668056,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -270,8 +288,8 @@ No Notams</description>
             </Placemark>
             <Placemark id="49">
                 <name>ST ATHAN</name>
-                <description>*****TAF EGSY 081701Z 0818/0903 23015KT 9999 SCT025 TEMPO 0818/0903 6000 SHRA BKN014 PROB40 TEMPO 0818/0821 25018G30KT 3000 +SHRAGS BKN009 BECMG 0821/0824 29015KT PROB40 TEMPO 0821/0903 30018G30KT 3000 +SHRAGS BKN009******
-*****EGSY 081820Z AUTO 20015KT 9999 BKN026/// 07/04 Q0986 RERA******
+                <description>*****TAF EGSY 090756Z 0909/0918 28015KT 9999 SCT025 TEMPO 0909/0912 30018G28KT 6000 SHRA BKN014 PROB40 TEMPO 0909/0912 30028G38KT 3000 +SHRAGS BKN009 BKN020CB PROB30 TEMPO 0912/0918 30015G25KT 6000 SHRA BKN014******
+*****EGSY 090850Z 29017G29KT 9999 FEW020CB SCT024 07/04 Q1001******
 
 ********** 
 EGGN/L4534/22
@@ -313,7 +331,7 @@ MOVEMENT AREAS.
                 <description>***** No Valid TAF *****
 ***** No Valid METAR *****
 No Notams</description>
-                <styleUrl>#3</styleUrl>
+                <styleUrl>#6</styleUrl>
                 <Point id="54">
                     <coordinates>-5.231769,50.002033,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -321,16 +339,12 @@ No Notams</description>
             </Placemark>
             <Placemark id="57">
                 <name>MIDDLE WALLOP</name>
-                <description>***** No Valid TAF *****
-*****EGVP 081820Z AUTO 21004KT 9999 NCD 04/03 Q0990******
+                <description>*****TAF EGVP 090726Z 0909/0918 26012KT 9999 FEW020 SCT045 TEMPO 0909/0912 SCT016 PROB40 TEMPO 0909/0912 28016G28KT 6000 SHRA PROB30 TEMPO 0912/0916 29016G28KT SCT018******
+*****EGVP 090820Z 27010KT 9999 FEW018 SCT028 06/04 Q0998 TEMPO SCT018 RMK BLU TEMPO WHT******
 
 ********** 
 EGGN/U106/23
 ATIS UNSERVICABLE
-
-********** 
-EGGN/U119/23
-AD CLOSED
 </description>
                 <styleUrl>#3</styleUrl>
                 <Point id="56">
@@ -340,8 +354,8 @@ AD CLOSED
             </Placemark>
             <Placemark id="59">
                 <name>SHOREHAM</name>
-                <description>*****TAF EGKA 081403Z 0815/0819 22017KT 9999 SCT018 TEMPO 0815/0818 23022G34KT 7000 SHRA PROB30 TEMPO 0815/0818 4000 +SHRA SHGS BKN014CB PROB30 TEMPO 0818/0819 7000 SHRA******
-*****EGKA 081750Z 25013KT 9999 SCT017 08/04 Q0991******
+                <description>*****TAF EGKA 090832Z 0909/0918 27009KT 9999 FEW025 PROB30 TEMPO 0909/0912 BKN010 PROB30 TEMPO 0909/0915 7000 SHRA PROB30 TEMPO 0909/0918 27016G26KT******
+*****EGKA 090850Z 28005KT 230V310 9999 FEW032 06/04 Q0999******
 
 ********** 
 EGGN/C5885/22
@@ -366,10 +380,6 @@ CRANE OPR PSN 505334N 0001612W (SHOREHAM) 91FT AGL/98FT AMSL
 EGGN/C7362/22
 GRASS RWY 02G/20G, RWY 06/24 AND RWY 13/31 CLSD TO FIXED-WING 
 ACFT DUE TO WATERLOGGING
-
-********** 
-EGGN/C131/23
-AD CLSD
 </description>
                 <styleUrl>#3</styleUrl>
                 <Point id="58">
@@ -379,8 +389,8 @@ AD CLSD
             </Placemark>
             <Placemark id="61">
                 <name>LONDON HEATHROW</name>
-                <description>*****TAF EGLL 081657Z 0818/0924 22009KT 9999 SCT045 PROB40 TEMPO 0821/0903 8000 SHRA BKN013 PROB30 TEMPO 0908/0915 8000 SHRA BKN013 BECMG 0909/0912 28013KT PROB40 TEMPO 0910/0920 28016G26KT******
-*****EGLL 081820Z AUTO 25010KT 9999 FEW025 06/04 Q0990******
+                <description>*****TAF EGLL 090454Z 0906/1012 25012KT 9999 SCT045 PROB30 TEMPO 0908/0914 8000 SHRA TEMPO 0909/0911 BKN014 PROB40 TEMPO 0911/0919 28016G26KT PROB30 TEMPO 1004/1007 7000 RA BECMG 1007/1010 18016G26KT 7000 -RADZ BKN012 PROB30 TEMPO 1008/1012 3000 DZ BKN005******
+*****EGLL 090850Z AUTO 25012KT 9999 BKN031 06/04 Q0998******
 
 ********** 
 EGGN/A7064/22
@@ -392,11 +402,6 @@ POSITION: 512656.00N 0002438.00W
 ELEVATION/HEIGHT: 374FT AMSL/305FT AGL
 LIGHTING: YES - STEADY RED
 UK AIP EGLL AD 2.10 REFERS.
-
-********** 
-EGGN/H8614/22
-LASER DISPLAY WI 1NM RADIUS: 512845N 0001734W (KEW, LONDON).
-FOR INFO 07961 488480. 2022-11-0308/AS4.
 
 ********** 
 EGGN/A7549/22
@@ -461,11 +466,30 @@ LONDON). UP TO 427FT AGL/507FT AMSL. FOR INFO CONTACT
 THE UK AIP ENR 5.4. 2022-12-0194/AS8.
 
 ********** 
+EGGN/A8162/22
+LIT CRANE OPR PSN 512750N 0002345W (CLEMENTS COURT HOUNSLOW)
+MAX HEIGHT 158FT AGL / 234FT AMSL. CRANE REFERENCE 2022111712
+NO OPERATIONS IN LOW VISIBILITY SAFEGUARDING OR PROCEDURES.
+
+********** 
 EGGN/A8017/22
 TWO CRANES OPR AT PSN: 513157N 0001609W (PARK ROYAL, LONDON). UP 
 TO 358FT AGL/468FT AMSL. FOR INFO CONTACT 01362 821048. ON EXPIRY OF 
 THIS NOTAM DETAILS WILL BE INCLUDED IN THE UK AIP ENR 5.4. 
 2022-12-0050/AS8.
+
+********** 
+EGGN/A8412/22
+LIT CRANE OPERATING WITHIN 513028N 0002321W - 513026N 0002321W -
+513027N 0002329W - 513029N 0002328W - 513028N 0002321W  (HAYES).
+UPTO 279FT AGL / 384FT AMSL. NO OPERATIONS DURING LVP. REFERENCE
+2022121930 REFERS
+
+********** 
+EGGN/A8415/22
+LIT CRANE OPR PSN 513040N 0002653W (UXBRIDGE) MAX HGT 243FT AGL /
+362FT AMSL. NO CRANE OPS IN AIRFIELD LOW VIS CONDITIONS. CRANE REF
+2022121961
 
 ********** 
 EGGN/A100/23
@@ -497,8 +521,8 @@ STAND 235 CLOSED DUE TO WIP.
             </Placemark>
             <Placemark id="63">
                 <name>EXETER</name>
-                <description>*****TAF EGTE 081403Z 0815/0819 23010KT 9999 SCT020 PROB30 TEMPO 0815/0817 25015G25KT 6000 SHRA BKN014 TEMPO 0817/0819 6000 SHRA PROB40 TEMPO 0817/0819 25018G28KT 3000 +SHRAGS******
-*****EGTE 081750Z 18009KT 9999 FEW026 07/04 Q0989******
+                <description>*****TAF EGTE 090800Z 0909/0918 29010KT 9999 SCT025 TEMPO 0909/0912 29018G28KT 6000 SHRA BKN014 PROB30 TEMPO 0909/0912 3000 +SHRAGS BKN009 BKN020CB PROB30 TEMPO 0912/0918 29018G28KT 6000 SHRA BKN014******
+*****EGTE 090850Z 31012KT 270V340 9999 VCSH FEW020CB 08/04 Q1002******
 
 ********** 
 EGGN/C6289/22
@@ -535,8 +559,8 @@ WHEN RITT OPERATIONS ARE ACTIVE)
             </Placemark>
             <Placemark id="65">
                 <name>LONDON LUTON</name>
-                <description>*****TAF EGGW 081703Z 0818/0918 20010KT 9999 FEW015 SCT025 PROB30 TEMPO 0818/0819 22015G25KT 6000 SHRA BKN010 TEMPO 0821/0903 6000 SHRA BKN010 PROB30 TEMPO 0821/0903 BKN008 BECMG 0900/0903 26008KT PROB40 TEMPO 0907/0914 6000 SHRA BKN012 TEMPO 0910/0918 27015G25KT******
-*****EGGW 081820Z 23009KT CAVOK 04/03 Q0989******
+                <description>*****TAF EGGW 090457Z 0906/1006 26010KT 9999 SCT030 TEMPO 0906/0921 27015G25KT PROB40 TEMPO 0909/0916 6000 SHRA BKN010 BECMG 1003/1006 20012KT******
+*****EGGW 090850Z AUTO 25014KT 9999 BKN026 05/03 Q0996******
 
 ********** 
 EGGN/A7674/22
@@ -554,8 +578,8 @@ STAND 42 AND STAND 42L CLOSED DUE TO WIP.
             </Placemark>
             <Placemark id="67">
                 <name>STORNOWAY</name>
-                <description>*****TAF EGPO 081706Z 0818/0903 20015KT 9999 SCT018 BKN030 TEMPO 0818/0903 6000 SHRA BKN014CB PROB40 TEMPO 0818/0903 22020G30KT 2000 +SHRA SHGS BKN009******
-*****EGPO 081820Z 22005KT 9999 VCSH FEW014CB SCT023 06/04 Q0972******
+                <description>*****TAF EGPO 090758Z 0909/0918 23011KT 9999 FEW020 TEMPO 0909/0915 6000 SHRA BKN014CB PROB40 TEMPO 0910/0915 25018G28KT 3000 +SHRA SHGS BKN009 PROB30 TEMPO 0915/0918 7000 -SHRA******
+*****EGPO 090850Z 24009KT 9999 VCSH FEW018CB 05/03 Q0983******
 
 ********** 
 EGGN/I3214/22
@@ -571,6 +595,12 @@ USE BY AIRCRAFT.
 UK AIP EGPO AD 2.12 REFERS.
 
 ********** 
+EGGN/H7275/22
+QUARRY BLASTING WI 0.5NM RADIUS 581140N 0062333W (STORNOWAY, ISLE 
+OF LEWIS). FOR UP TO DATE BLASTING TIMES CONTACT 07825 859243. 
+2022-09-0327/AS4.
+
+********** 
 EGGN/I16/23
 TEMPORARY RAISED TAXIWAY EDGE LIGHTS ON PARTS OF B AND C 
 TAXIWAYS REPLACING UNSERVICEABLE FLUSH LIGHTS.
@@ -582,11 +612,6 @@ OBST LIGHT U/S ON VDF MAST
 ********** 
 EGGN/I48/23
 OBST LIGHT U/S ON NDB MAST
-
-********** 
-EGGN/I98/23
-STORNOWAY ATZ ACTIVE. AD/MET/FIS SERVICE ACTIVE. FIRE AND
-RESCUE CAT3 AVBL.
 </description>
                 <styleUrl>#3</styleUrl>
                 <Point id="66">
@@ -622,7 +647,7 @@ VISITOR GRASS PARKING AREA CLSD DUE WATERLOGGING
                 <description>***** No Valid TAF *****
 ***** No Valid METAR *****
 No Notams</description>
-                <styleUrl>#3</styleUrl>
+                <styleUrl>#6</styleUrl>
                 <Point id="70">
                     <coordinates>0.131389,52.090556,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -630,8 +655,8 @@ No Notams</description>
             </Placemark>
             <Placemark id="73">
                 <name>VALLEY</name>
-                <description>***** No Valid TAF *****
-*****EGOV 081820Z AUTO 23016KT 9999 OVC022/// 08/05 Q0983******
+                <description>*****TAF EGOV 090740Z 0909/0918 29021G31KT 9999 FEW021CB TEMPO 0909/0913 SCT022 PROB30 TEMPO 0914/0918 7000 SHRA SCT022******
+*****EGOV 090820Z 28022KT 9999 FEW021 SCT250 07/03 Q0996 TEMPO SCT021 RMK BLU TEMPO WHT******
 
 ********** 
 EGGN/U6116/22
@@ -650,14 +675,19 @@ PARKING SLOTS 60, 61 CLSD. 41, 45 GND UNSERVICEABLE.
             </Placemark>
             <Placemark id="75">
                 <name>BELFAST ALDERGROVE</name>
-                <description>*****TAF EGAA 081655Z 0818/0918 21010KT 9999 FEW020 BECMG 0900/0903 27012KT TEMPO 0900/0906 7000 SHRA BKN010 PROB40 TEMPO 0904/0909 26015G25KT TEMPO 0909/0918 26020G30KT 7000 SHRA BKN010CB PROB40 TEMPO 0909/0915 4000 +SHRA******
-*****EGAA 081820Z AUTO 24013KT 9999 FEW043 05/03 Q0980******
+                <description>*****TAF EGAA 090453Z 0906/1006 25011KT 9999 FEW030 BECMG 0906/0909 25015G25KT PROB30 TEMPO 0906/0910 7000 SHRA BKN014 TEMPO 0910/0918 7000 SHRA PROB30 TEMPO 0910/0916 27018G35KT 4000 +SHRA BKN014 BKN022CB BECMG 0915/0918 24012KT BECMG 1003/1006 4500 RA BKN014******
+*****EGAA 090850Z AUTO 24012KT 9999 FEW036 04/02 Q0994******
 
 ********** 
 EGGN/A8246/22
 BELFAST ALDERGROVE - ATC SURVEILLANCE MINIMUM ALTITUDE CHART.
 MINIMUM INITIAL ALTITUDE INCREASED. A - TO WEST OF BEL VOR TO 2200FT.
 B - TO NORTH OF BEL VOR TO 2500FT.
+
+********** 
+EGGN/A175/23
+TWY ECHO CLSD. ACCESS/ EGRESS FOR FIXED WING ACFT TO/FROM THE 
+MILITARY DISPERSAL SOUTH OF ECHO, PERMITTED VIA F1 HOLD ONLY
 </description>
                 <styleUrl>#3</styleUrl>
                 <Point id="74">
@@ -667,8 +697,8 @@ B - TO NORTH OF BEL VOR TO 2500FT.
             </Placemark>
             <Placemark id="77">
                 <name>BIRMINGHAM</name>
-                <description>*****TAF EGBB 081700Z 0818/0918 20008KT 9999 SCT025 PROB30 TEMPO 0818/0906 6000 SHRA BECMG 0822/0901 26010KT TEMPO 0822/0906 BKN014 PROB30 TEMPO 0822/0906 BKN008 TEMPO 0906/0911 6000 SHRA BKN014 PROB30 TEMPO 0906/0911 28015G25KT 3000 +SHRA BKN008 PROB30 TEMPO 0911/0918 28017G27KT 6000 SHRA******
-*****EGBB 081820Z 21007KT 170V250 CAVOK 05/02 Q0987******
+                <description>*****TAF EGBB 090453Z 0906/1006 23010KT 9999 SCT030 TEMPO 0906/0911 24015G25KT 6000 SHRA BKN014 PROB30 TEMPO 0906/0911 3000 +SHRA BKN008 BKN020CB TEMPO 0911/0922 24015G25KT PROB30 TEMPO 0911/0919 6000 SHRA BKN014 BECMG 1001/1004 17010KT TEMPO 1004/1006 6000 RA BKN012 PROB30 TEMPO 1005/1006 19015G25KT 3000 +RA RADZ BKN008******
+*****EGBB 090850Z 28007KT 9999 VCSH SCT018CB BKN030 06/04 Q0996******
 
 ********** 
 EGGN/C6161/22
@@ -688,6 +718,11 @@ LIGHTING: YES
 REMARKS: NORTH WEST OF BIRMINGHAM AIRPORT. END ESTIMATED JANUARY 
 2025.
 UK AIP EGBB AD 2.10 REFERS.)
+
+********** 
+EGGN/C7123/22
+LIT MOBILE CRANE OPR PSN 522525.62N 0014314.65W (149DEG MAG 3824M 
+FM BIRMINGHAM ARP). MAX HGT 145FT AGL, 485FT AMSL
 </description>
                 <styleUrl>#3</styleUrl>
                 <Point id="76">
@@ -697,10 +732,10 @@ UK AIP EGBB AD 2.10 REFERS.)
             </Placemark>
             <Placemark id="79">
                 <name>HAWARDEN</name>
-                <description>***** No Valid TAF *****
-*****EGNR 081750Z 18009KT 9999 VCSH FEW021 SCT030 05/03 Q0985******
+                <description>*****TAF EGNR 090803Z 0909/0918 26010KT 9999 SCT020 TEMPO 0909/0918 27018G30KT PROB30 TEMPO 0912/0915 6000 SHRA BKN014******
+*****EGNR 090850Z 28010KT 250V320 9999 FEW015 SCT023 07/03 Q0997******
 No Notams</description>
-                <styleUrl>#3</styleUrl>
+                <styleUrl>#6</styleUrl>
                 <Point id="78">
                     <coordinates>-2.977778,53.178056,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -711,7 +746,7 @@ No Notams</description>
                 <description>***** No Valid TAF *****
 ***** No Valid METAR *****
 No Notams</description>
-                <styleUrl>#3</styleUrl>
+                <styleUrl>#6</styleUrl>
                 <Point id="80">
                     <coordinates>-5.400000,56.463611,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -719,8 +754,13 @@ No Notams</description>
             </Placemark>
             <Placemark id="83">
                 <name>LEEDS BRADFORD</name>
-                <description>*****TAF EGNM 081703Z 0818/0918 19009KT 9999 SCT020 TEMPO 0818/0903 BKN012 PROB30 TEMPO 0821/0901 5000 SHRA RA BKN009 BECMG 0900/0903 27012KT TEMPO 0904/0912 6000 SHRA BKN012 TEMPO 0912/0918 28018G32KT TEMPO 0914/0918 6000 SHRA BKN012******
-*****EGNM 081820Z 22011KT 9999 FEW015 04/02 Q0983******
+                <description>*****TAF EGNM 090546Z 0906/1006 25015KT 9999 SCT020 TEMPO 0906/0912 6000 SHRA BKN008 TEMPO 0909/0921 28018G32KT TEMPO 0914/0919 6000 SHRA RA BKN008 PROB30 TEMPO 0919/0921 7000 -SHRA BKN009 BECMG 1003/1006 19008KT******
+*****EGNM 090850Z 26013KT 9999 -SHRA FEW010 SCT022 05/03 Q0993******
+
+********** 
+EGGN/H8722/22
+UNMANNED CAPTIVE BALLOON WI 0.5NM RADIUS: 534821N 0013807W
+(LEEDS). MAX HGT 197FT AGL. FOR INFO 07971 523253. 2022-11-0110/AS3.
 
 ********** 
 EGGN/C7329/22
@@ -739,19 +779,16 @@ LANDING RWY 32 SHOULD EXPECT TO VACATE VIA TAXIWAY N FOR PARKING
 NORTHSIDE.
 
 ********** 
-EGGN/C60/23
-REVISED LEEDS BRADFORD CTR/CTA/ATZ AND AD OPR HRS
-04 JAN - 0000-0100 0600-2359
-05 JAN - 0000-0015 0600-2359
-06 JAN - 0600-2359
-07 JAN - 0000-0100 0600-2359
-08 JAN - 0000-0100 0600-2359
-OUTSIDE OF THESE HOURS: AD CLSD. NO ATC SER AVBL. LEEDS
-BRADFORD CONTROLLED AIRSPACE REVERTS TO CLASS G DURING THESE
-PERIODS OF CLOSURE. SUITABLY EQUIPPED ACFT WI LEEDS BRADFORD
-AIRSPACE DURING THESE PERIODS SHOULD MONITOR LEEDS RADAR ON
-134.580MHZ AND SQUAWK EITHER 2677, ANY DISCRETE TASK SPECIFIC
-CODE, OR ANY DISCRETE CODE ALLOCATED BY ANOTHER UNIT.
+EGGN/C111/23
+REVISED LEEDS BRADFORD CTA/CTR/ATZ AND AD OPR HR.
+MON-FRI 0600-2300
+SAT-SUN 0600-2359
+OUTSIDE OF THESE HOURS: AD CLSD. NO ATC SER AVBL. LEEDS BRADFORD 
+CONTROLLED AIRSPACE REVERTS TO CLASS G DURING THESE PERIODS OF 
+CLOSURE. SUITABLY EQUIPPED ACFT WI LEEDS BRADFORD AIRSPACE DURING 
+THESE PERIODS SHOULD MONITOR LEEDS RADAR ON 134.580MHZ AND SQUAWK 
+EITHER 2677, ANY DISCRETE TASK SPECIFIC CODE, OR ANY DISCRETE CODE 
+ALLOCATED BY ANOTHER UNIT
 </description>
                 <styleUrl>#3</styleUrl>
                 <Point id="82">
@@ -761,8 +798,8 @@ CODE, OR ANY DISCRETE CODE ALLOCATED BY ANOTHER UNIT.
             </Placemark>
             <Placemark id="85">
                 <name>CAERNARFON</name>
-                <description>*****TAF EGCK 081656Z 0818/0903 20013KT 9999 FEW025 TEMPO 0818/0820 5000 SHRA RA PROB30 TEMPO 0818/0819 22018G28KT 2000 +SHRA TSGS BKN014 BKN020CB BECMG 0820/0823 27012KT TEMPO 0820/0903 28015G25KT******
-*****EGCK 081820Z AUTO 18011KT 9999 SCT035/// 06/04 Q0983******
+                <description>*****TAF EGCK 090803Z 0909/0918 28020KT 9999 SCT020 TEMPO 0909/0918 29025G35KT PROB30 TEMPO 0909/0918 6000 SHRA BKN014******
+*****EGCK 090850Z AUTO 28026KT 9999 BKN023/// 08/03 Q0998******
 
 ********** 
 EGGN/L5528/22
@@ -782,7 +819,7 @@ UK AIP AD 2.6 REFERS.
                 <description>***** No Valid TAF *****
 ***** No Valid METAR *****
 No Notams</description>
-                <styleUrl>#3</styleUrl>
+                <styleUrl>#6</styleUrl>
                 <Point id="86">
                     <coordinates>-2.279081,51.441078,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -790,8 +827,8 @@ No Notams</description>
             </Placemark>
             <Placemark id="89">
                 <name>MARHAM</name>
-                <description>***** No Valid TAF *****
-*****EGYM 081750Z AUTO 20012KT 9999 OVC032/// 07/05 Q0987******
+                <description>*****TAF EGYM 090730Z 0909/0918 24010KT 9999 SCT035 TEMPO 0910/0916 BKN018 BECMG 0911/0913 27015G25KT PROB30 TEMPO 0911/0915 6000 SHRA SCT012TCU******
+*****EGYM 090820Z 23009KT CAVOK 03/02 Q0994 NOSIG RMK BLU BLU******
 
 ********** 
 EGGN/U6132/22
@@ -832,7 +869,7 @@ EST.
                 <description>***** No Valid TAF *****
 ***** No Valid METAR *****
 No Notams</description>
-                <styleUrl>#3</styleUrl>
+                <styleUrl>#6</styleUrl>
                 <Point id="94">
                     <coordinates>-1.031944,52.607778,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -840,8 +877,8 @@ No Notams</description>
             </Placemark>
             <Placemark id="97">
                 <name>CAMPBELTOWN</name>
-                <description>***** No Valid TAF *****
-***** No Valid METAR *****
+                <description>*****TAF EGEC 090831Z 0909/0918 27020G31KT 9999 FEW020 SCT030 TEMPO 0909/0918 5000 SHRA PROB40 TEMPO 0909/0917 27025G41KT 3000 +SHRA SHGS BKN009 BKN015CB******
+*****EGEC 090850Z 27024KT 9999 SHRA SCT021 SCT038 07/04 Q0991******
 
 ********** 
 EGGN/I4033/22
@@ -856,10 +893,10 @@ WITHDRAWN FROM SERVICE.
             </Placemark>
             <Placemark id="99">
                 <name>ODIHAM</name>
-                <description>***** No Valid TAF *****
-*****EGVO 081820Z AUTO 20010KT 9999 NCD 05/03 Q0990******
+                <description>*****TAF EGVO 090736Z 0909/0921 27015KT 9999 FEW020 TEMPO 0909/0913 BKN018 PROB40 TEMPO 0909/0915 7000 SHRA PROB40 TEMPO 0910/0916 28016G28KT PROB30 TEMPO 0916/0921 27016G26KT******
+*****EGVO 090820Z AUTO 23014KT 9999 OVC021/// 05/04 Q0997******
 No Notams</description>
-                <styleUrl>#3</styleUrl>
+                <styleUrl>#6</styleUrl>
                 <Point id="98">
                     <coordinates>-0.942808,51.234192,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -867,8 +904,8 @@ No Notams</description>
             </Placemark>
             <Placemark id="101">
                 <name>FAIRFORD</name>
-                <description>***** No Valid TAF *****
-*****EGVA 081823Z AUTO 21009KT 9999 FEW042 04/04 A2916 RMK AO2 DZB1758E04DZB05E06DZB19E23 SLP879 FZRANO $******
+                <description>*****TAF EGVA 090500Z 0905/1011 25010G15KT 9999 FEW015 BKN050 520063 QNH2932INS BECMG 0911/0912 28012G18KT 9999 VCSH FEW012 BKN025 520093 QNH2956INS BECMG 0916/0917 27012KT 9999 NSW FEW025 SCT050 WS018/28040KT QNH2975INS TX13/0916Z TN05/0905Z******
+*****EGVA 090800Z AUTO 26012KT 9999 BKN028 06/06 A2940 RMK AO2 SLP961 FZRANO $******
 
 ********** 
 EGGN/U6178/22
@@ -910,6 +947,11 @@ FAIRFORD METRO FREQUENCY 284.425MHZ UNSERVICEABLE.
 ********** 
 EGGN/U15/23
 TACAN FFA/FAIRFORD 113.4MHZ/CH 81X INTERMITTENT.
+
+********** 
+EGGN/U133/23
+RWY 27/09 SURFACE CONDITION IS CONCRETE WET ASPHALT WET WITH
+NO STANDING WATER
 </description>
                 <styleUrl>#3</styleUrl>
                 <Point id="100">
@@ -922,7 +964,7 @@ TACAN FFA/FAIRFORD 113.4MHZ/CH 81X INTERMITTENT.
                 <description>***** No Valid TAF *****
 ***** No Valid METAR *****
 No Notams</description>
-                <styleUrl>#3</styleUrl>
+                <styleUrl>#6</styleUrl>
                 <Point id="102">
                     <coordinates>-1.186486,53.947331,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -930,13 +972,19 @@ No Notams</description>
             </Placemark>
             <Placemark id="105">
                 <name>CONINGSBY</name>
-                <description>*****TAF EGXC 081634Z 0818/0912 22009KT 9999 FEW020 PROB30 TEMPO 0900/0903 SCT020 PROB40 TEMPO 0908/0912 SCT016******
-*****EGXC 081750Z 21011KT 9999 FEW040 BKN120 06/05 Q0986 RMK BLU******
+                <description>*****TAF EGXC 090733Z 0909/1003 25010KT 9999 FEW030 PROB40 TEMPO 0909/0913 SCT016 TEMPO 0911/0917 28015G25KT PROB30 TEMPO 0917/0921 25015G25KT SCT018******
+*****EGXC 090750Z 21006KT CAVOK 00/M00 Q0993 RMK BLU******
 
 ********** 
 EGGN/U7384/22
 LIT CRANE OPR AT PSN 530551N 0000956W (RAF CONINGSBY). HGT 126FT 
 AGL/150FT AMSL
+
+********** 
+EGGN/U84/23
+AD OPENING HOURS
+09-12 0930-1800
+13    0945-1430
 </description>
                 <styleUrl>#3</styleUrl>
                 <Point id="104">
@@ -949,7 +997,7 @@ AGL/150FT AMSL
                 <description>***** No Valid TAF *****
 ***** No Valid METAR *****
 No Notams</description>
-                <styleUrl>#3</styleUrl>
+                <styleUrl>#6</styleUrl>
                 <Point id="106">
                     <coordinates>-0.550819,53.307944,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -957,8 +1005,8 @@ No Notams</description>
             </Placemark>
             <Placemark id="109">
                 <name>LONDON CITY</name>
-                <description>*****TAF EGLC 081702Z 0818/0822 22010KT 9999 SCT020 PROB30 TEMPO 0821/0822 6000 SHRA BKN014******
-*****EGLC 081820Z AUTO 25013KT 9999 SCT017 07/04 Q0990******
+                <description>*****TAF EGLC 090803Z 0909/0918 24012KT 9999 FEW020 PROB30 TEMPO 0909/0916 27015G25KT 7000 SHRA PROB30 TEMPO 0909/0912 BKN012******
+*****EGLC 090850Z AUTO 24010KT 9999 NCD 06/04 Q0998******
 
 ********** 
 EGGN/C5979/22
@@ -1026,8 +1074,8 @@ EGGN/C7408/22
             </Placemark>
             <Placemark id="111">
                 <name>BOURNEMOUTH</name>
-                <description>*****TAF EGHH 081701Z 0818/0822 23012KT 9999 SCT025 PROB30 TEMPO 0818/0819 25015G25KT 6000 SHRA BKN014 TEMPO 0819/0822 6000 SHRA PROB30 TEMPO 0819/0822 25018G28KT 3000 +SHRA BKN014******
-*****EGHH 081820Z 22010KT 9999 FEW035 07/04 Q0990******
+                <description>*****TAF EGHH 090756Z 0909/0918 25012KT 9999 SCT025 TEMPO 0909/0910 6000 SHRA PROB30 TEMPO 0909/0910 26015G25KT 3000 +SHRA BKN014 PROB30 TEMPO 0910/0916 26015G25KT 6000 SHRA BKN014******
+*****EGHH 090850Z 27012KT 9999 FEW017 SCT025 07/05 Q1000******
 
 ********** 
 EGGN/C6217/22
@@ -1050,6 +1098,12 @@ HOLDING POINT NOVEMBER ENGINE RUN UPS TO BE CARRIED OUT INLINE
 WITH TWY AND KEPT TO A MINIMUM
 
 ********** 
+EGGN/C6968/22
+CRANE OPR PSN 504608N 0015059W (202T 1400M FM BOURNEMOUTH AD ARP) 
+TO
+JIB HGT OF 92FT AGL/ 122FT AMSL
+
+********** 
 EGGN/C7397/22
 AD MAY OPERATE OUTSIDE PUBLISHED OPERATING HOURS FOR PRE ARRANGED
 FLIGHTS ONLY
@@ -1057,6 +1111,11 @@ FLIGHTS ONLY
 ********** 
 EGGN/C7415/22
 RUNWAY 08 ANEMOMETER U/S
+
+********** 
+EGGN/C46/23
+CRANE OPR PSN 504441N 0014954W (169T 3996M FM BOURNEMOUTH ARP).MAX
+JIB HGT 59FT AGL/118FT AMSL
 </description>
                 <styleUrl>#3</styleUrl>
                 <Point id="110">
@@ -1066,8 +1125,8 @@ RUNWAY 08 ANEMOMETER U/S
             </Placemark>
             <Placemark id="113">
                 <name>LOSSIEMOUTH</name>
-                <description>*****TAF EGQS 081645Z 0818/0912 20013KT 9999 FEW040******
-*****EGQS 081750Z 18010KT CAVOK 06/M01 Q0976 RMK BLU******
+                <description>*****TAF EGQS 090709Z 0909/1003 24014KT 9999 FEW040 PROB30 TEMPO 0916/0919 28015G25KT 5000 SHRA SCT018CB******
+*****EGQS 090820Z 20003KT 9999 FEW025 04/01 Q0984 NOSIG RMK BLU BLU******
 
 ********** 
 EGGN/U6962/22
@@ -1081,6 +1140,11 @@ EGGN/U7650/22
 TWY ALPHA CLOSED TO ACFT FM TWY FOXTROT TO ALPHA SOUTH APRON. TWY 
 FOXTROT AND REMAINING AREAS OF TWY ALPHA ARE AVBL. ALTN TAXI 
 PATTERNS PROVIDED BY ATC.
+
+********** 
+EGGN/U7545/22
+LIT CRANE OPR AT PSN 574234N 0031839W (LOSSIEMOUTH AD).
+CRANE LOWERED WHEN NOT IN USE. 102FT AGL/ 125FT ASML
 </description>
                 <styleUrl>#3</styleUrl>
                 <Point id="112">
@@ -1093,7 +1157,7 @@ PATTERNS PROVIDED BY ATC.
                 <description>***** No Valid TAF *****
 ***** No Valid METAR *****
 No Notams</description>
-                <styleUrl>#3</styleUrl>
+                <styleUrl>#6</styleUrl>
                 <Point id="114">
                     <coordinates>-4.559444,52.114722,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -1104,7 +1168,7 @@ No Notams</description>
                 <description>***** No Valid TAF *****
 ***** No Valid METAR *****
 No Notams</description>
-                <styleUrl>#3</styleUrl>
+                <styleUrl>#6</styleUrl>
                 <Point id="116">
                     <coordinates>-4.068056,51.605000,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -1113,7 +1177,7 @@ No Notams</description>
             <Placemark id="119">
                 <name>BOSCOMBE DOWN</name>
                 <description>***** No Valid TAF *****
-*****EGDM 081820Z AUTO 20006KT 9999 NCD 04/02 Q0989******
+*****EGDM 090820Z AUTO 27014KT 9999 // BKN016/// BKN060/// 06/04 Q0998******
 
 ********** 
 EGGN/U5783/22
@@ -1136,6 +1200,30 @@ POINTS
 ********** 
 EGGN/U110/23
 CONTINUOUS FRICTION MEASURING DEVICE (MU METER) U/S
+
+********** 
+EGGN/H74/23
+STATIONARY TRANSPONDER TESTING WI 1NM RADIUS: 510846N 0014531W
+(BOSCOMBE DOWN AD, WILTSHIRE). VIRTUAL STATIONARY ACFT INDICATIONS 
+MAY OCCUR WI 3NM RADIUS AND MAY INDICATE FL990 OR FOR SHORT 
+PERIODS FL030. FOR INFO 01980 662112. 2023-01-0124/AS3.
+
+********** 
+EGGN/U43/23
+UAS OPR WI 750M RADIUS 511128N 0014402W (BULFORD BARRACKS)
+MAX HGT 400FT AGL/728FT AMSL
+
+********** 
+EGGN/U59/23
+HIGH INTENSITY RADIO TRANSMISSION AREA (HIRTA) B2011 ACTIVE AT
+PSN 510939N 0014522W BOSCOMBE DOWN WI 5NM RADIUS
+MIL ACFT SUSCEPTIBILITY
+VERY LOW  0.040NM        201FT AGL/576FT AMSL
+LOW       0.070NM        404FT AGL/779FT AMSL
+MEDIUM    0.120NM       691FT AGL/1066FT AMSL
+HIGH      0.320NM      1929FT AGL/2304FT AMSL
+PULSE LOW/MEDIUM/HIGH   0.00NM          0FT AGL/375FT AMSL
+THIS ACTIVITY IS WHOLLY CONTAINED WITHIN THE ATZ/MATZ
 </description>
                 <styleUrl>#3</styleUrl>
                 <Point id="118">
@@ -1145,10 +1233,10 @@ CONTINUOUS FRICTION MEASURING DEVICE (MU METER) U/S
             </Placemark>
             <Placemark id="121">
                 <name>ISLAY</name>
-                <description>***** No Valid TAF *****
-***** No Valid METAR *****
+                <description>*****TAF EGPI 090831Z 0909/0918 29018G30KT 9999 SCT025 TEMPO 0909/0918 5000 SHRA PROB40 TEMPO 0909/0917 27025G41KT 3000 +SHRA SHGS BKN009 BKN015CB******
+*****EGPI 090850Z 30022G32KT 9999 -RA BKN024 07/04 Q0990******
 No Notams</description>
-                <styleUrl>#3</styleUrl>
+                <styleUrl>#6</styleUrl>
                 <Point id="120">
                     <coordinates>-6.259722,55.683333,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -1157,9 +1245,9 @@ No Notams</description>
             <Placemark id="123">
                 <name>TOPCLIFFE</name>
                 <description>***** No Valid TAF *****
-*****EGXZ 081820Z AUTO 15008KT 9999 OVC160/// 03/02 Q0983******
+*****EGXZ 090820Z AUTO 23006KT 9999 OVC099/// 06/03 Q0991******
 No Notams</description>
-                <styleUrl>#3</styleUrl>
+                <styleUrl>#6</styleUrl>
                 <Point id="122">
                     <coordinates>-1.381628,54.205628,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -1167,8 +1255,8 @@ No Notams</description>
             </Placemark>
             <Placemark id="125">
                 <name>DUNDEE</name>
-                <description>*****TAF EGPN 081705Z 0818/0822 21003KT 9999 FEW040 TEMPO 0819/0822 BKN009******
-*****EGPN 081820Z 27003KT 230V320 9999 SCT035 05/01 Q0979******
+                <description>*****TAF EGPN 090759Z 0909/0918 24009KT 9999 FEW035 PROB40 TEMPO 0912/0915 27015G25KT 6000 SHRA BKN010******
+*****EGPN 090850Z VRB01KT 9999 FEW040 03/02 Q0987******
 
 ********** 
 EGGN/I2796/22
@@ -1190,8 +1278,8 @@ UK AIP EGPN AD 2.10 REFERS.
             </Placemark>
             <Placemark id="127">
                 <name>PRESTWICK</name>
-                <description>*****TAF EGPK 081704Z 0818/0918 19012KT 9999 SCT035 BECMG 0818/0821 26012KT TEMPO 0818/0820 4500 RA BKN008 TEMPO 0820/0918 4500 SHRA PROB30 TEMPO 0900/0905 +SHRA BKN010 TEMPO 0909/0918 26018G28KT******
-*****EGPK 081820Z 17010KT 8000 -RA SCT012 BKN018 04/03 Q0979******
+                <description>*****TAF EGPK 090455Z 0906/1006 26013KT 9999 FEW010 SCT025 BECMG 0906/0909 26016G28KT TEMPO 0906/0918 5000 SHRA PROB30 TEMPO 0912/0917 2500 +SHRA SHGS BKN009 BKN015CB BECMG 1001/1004 15009KT BKN012******
+*****EGPK 090850Z 25015KT 9999 BKN017 BKN028 07/04 Q0991******
 
 ********** 
 EGGN/A7860/22
@@ -1221,8 +1309,8 @@ TWR ALTERNATIVE FREQ 127.155MHZ U/S. ACFT TO USE 118.150MHZ
             </Placemark>
             <Placemark id="129">
                 <name>CULDROSE</name>
-                <description>***** No Valid TAF *****
-*****EGDR 081820Z AUTO 25021KT 9999 // OVC017/// 09/06 Q0989******
+                <description>*****TAF EGDR 090825Z 0909/0918 30020G40KT 9999 SCT030 TEMPO 0909/0918 4000 SHRA BKN020TCU PROB40 TEMPO 0909/0912 30025G45KT 2500 +SHRAGS TSRA SCT006 BKN015CB******
+*****EGDR 090820Z 27013KT 6000 VCSH SCT018 07/04 Q1005 TEMPO 2500 TSRAGS SCT006 BKN015CB RMK WHT TEMPO YLO1******
 
 ********** 
 EGGN/U6084/22
@@ -1248,10 +1336,10 @@ RWY 29 APPROACH LIGHTING PARTIALLY U/S. CENTRELINE 2 BAR IS AVBL.
             </Placemark>
             <Placemark id="131">
                 <name>SHAWBURY</name>
-                <description>***** No Valid TAF *****
-*****EGOS 081820Z AUTO 18008KT 9999 FEW130/// OVC190/// 05/02 Q0985******
+                <description>*****TAF EGOS 090744Z 0909/0918 26010KT 9999 SCT030 TEMPO 0909/0911 6000 SHRA BKN018 PROB30 TEMPO 0909/0910 28015G25KT 4000 +SHRA BKN014CB PROB30 TEMPO 0910/0918 27015G25KT PROB30 TEMPO 0911/0913 6000 SHRA SCT020 PROB30 TEMPO 0913/0915 SCT022******
+*****EGOS 090850Z 27008KT 9999 FEW012 FEW016TCU 05/03 Q0996 TEMPO 6000 SHRA SCT018 RMK BLACKBLU TEMPO WHT******
 No Notams</description>
-                <styleUrl>#3</styleUrl>
+                <styleUrl>#6</styleUrl>
                 <Point id="130">
                     <coordinates>-2.667939,52.793625,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -1262,7 +1350,7 @@ No Notams</description>
                 <description>***** No Valid TAF *****
 ***** No Valid METAR *****
 No Notams</description>
-                <styleUrl>#3</styleUrl>
+                <styleUrl>#6</styleUrl>
                 <Point id="132">
                     <coordinates>-1.079167,52.920000,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -1270,8 +1358,8 @@ No Notams</description>
             </Placemark>
             <Placemark id="135">
                 <name>SOUTHEND</name>
-                <description>*****TAF EGMC 081702Z 0818/0903 22012KT 9999 SCT030 TEMPO 0818/0819 7000 SHRA PROB30 TEMPO 0818/0819 23015G25KT 4000 +SHRA BKN014CB TEMPO 0822/0903 BKN014 PROB30 TEMPO 0822/0903 7000 SHRA******
-*****EGMC 081820Z 23016KT 9999 FEW011 BKN020 07/05 Q0990******
+                <description>*****TAF EGMC 090803Z 0909/0918 25010KT 9999 FEW020 PROB30 TEMPO 0910/0918 20015G26KT PROB30 TEMPO 0910/0916 7000 SHRA PROB30 TEMPO 0910/0912 BKN012******
+*****EGMC 090850Z 25009KT CAVOK 06/03 Q0997******
 
 ********** 
 EGGN/A8466/22
@@ -1291,18 +1379,6 @@ GENERAL AVIATION CAN STILL BE ACCEPTED ON A TACTICAL BASIS
 ********** 
 EGGN/A8567/22
 RUNWAY 23 WIND DIRECTION INDICATOR U/S.
-
-********** 
-EGGN/A8541/22
-SOUTHEND RADAR SERVICES NOT AVBL
-
-********** 
-EGGN/A166/23
-RFFS DOWNGRADED TO CATEGORY 5
-
-********** 
-EGGN/A168/23
-SOUTHEND CTA,CTR ATZ DEACTIVATED.AD CLOSED.NO ATS AVBL
 </description>
                 <styleUrl>#3</styleUrl>
                 <Point id="134">
@@ -1315,7 +1391,7 @@ SOUTHEND CTA,CTR ATZ DEACTIVATED.AD CLOSED.NO ATS AVBL
                 <description>***** No Valid TAF *****
 ***** No Valid METAR *****
 No Notams</description>
-                <styleUrl>#3</styleUrl>
+                <styleUrl>#6</styleUrl>
                 <Point id="136">
                     <coordinates>-4.374011,53.259300,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -1323,8 +1399,8 @@ No Notams</description>
             </Placemark>
             <Placemark id="139">
                 <name>BARKSTON HEATH</name>
-                <description>***** No Valid TAF *****
-*****EGYE 081820Z AUTO 22008KT //// VV/// ///// Q////******
+                <description>*****TAF EGYE 090805Z 0909/0918 27014KT 9999 FEW030 PROB40 TEMPO 0909/0912 SCT012 TEMPO 0911/0918 27015G28KT PROB40 TEMPO 0912/0914 SCT016 PROB30 TEMPO 0917/0918 SCT016******
+*****EGYE 090750Z 23009KT CAVOK ///// Q0993 RMK BLU******
 
 ********** 
 EGGN/U81/23
@@ -1338,8 +1414,8 @@ SRA APPROACHES NOT AVBL TO TUTORS FLYING INTO RAF BARKSTON HEATH
             </Placemark>
             <Placemark id="141">
                 <name>BRIZE NORTON</name>
-                <description>*****TAF EGVN 081633Z 0818/0918 20012KT 9999 SCT030 PROB30 TEMPO 0821/0901 7000 -SHRA SCT020 PROB30 TEMPO 0901/0906 SCT020 PROB40 TEMPO 0906/0911 5000 SHRA SCT020 PROB40 TEMPO 0911/0918 27015G25KT******
-*****EGVN 081820Z 20003KT 9999 FEW030 04/02 Q0988 NOSIG RMK BLU BLU******
+                <description>*****TAF EGVN 090746Z 0909/1009 25010KT 9999 SCT030 PROB40 TEMPO 0909/0911 5000 SHRA SCT020 PROB30 TEMPO 0911/0918 27015G25KT BECMG 1004/1007 BKN012 TEMPO 1005/1009 6000 RA PROB30 TEMPO 1006/1009 4000 RADZ SCT006******
+*****EGVN 090850Z 26009KT 9999 FEW022 SCT030 06/04 Q0997 TEMPO SCT022******
 
 ********** 
 EGGN/U7180/22
@@ -1364,7 +1440,11 @@ MIDPOINT AND STOP END ABVL ON RWY 07.
                 <name>DUNKESWELL</name>
                 <description>***** No Valid TAF *****
 ***** No Valid METAR *****
-No Notams</description>
+
+********** 
+EGGN/L5491/22
+AD CLSD MONDAYS
+</description>
                 <styleUrl>#3</styleUrl>
                 <Point id="142">
                     <coordinates>-3.234722,50.860000,0.0</coordinates>
@@ -1373,8 +1453,8 @@ No Notams</description>
             </Placemark>
             <Placemark id="145">
                 <name>INVERNESS</name>
-                <description>*****TAF EGPE 081706Z 0818/0903 23009KT 9999 FEW022 PROB30 TEMPO 0818/0820 7000 RA BKN010******
-*****EGPE 081820Z 22015KT 9999 NSC 06/01 Q0975******
+                <description>*****TAF EGPE 090758Z 0909/0918 22009KT 9999 FEW035 PROB30 TEMPO 0909/0918 23015G25KT PROB40 TEMPO 0915/0918 6000 SHRA BKN010******
+*****EGPE 090850Z 22012KT 9999 FEW040 04/02 Q0985******
 
 ********** 
 EGGN/A8565/22
@@ -1391,7 +1471,7 @@ PYLON NUMBER 5 OBST LIGHT ON THE SOUTH APRON U/S (INTERMITTENT).
                 <description>***** No Valid TAF *****
 ***** No Valid METAR *****
 No Notams</description>
-                <styleUrl>#3</styleUrl>
+                <styleUrl>#6</styleUrl>
                 <Point id="146">
                     <coordinates>-1.085278,51.674444,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -1399,8 +1479,8 @@ No Notams</description>
             </Placemark>
             <Placemark id="149">
                 <name>WATTISHAM</name>
-                <description>***** No Valid TAF *****
-*****EGUW 081820Z AUTO 20011KT 9999 FEW023/// OVC035/// 06/04 Q0988******
+                <description>*****TAF EGUW 090730Z 0909/0918 27014KT 9999 SCT040 PROB30 TEMPO 0911/0915 28018G28KT 7000 SHRA BKN016 PROB30 TEMPO 0915/0918 28015G25KT******
+*****EGUW 090820Z 24009KT 9999 FEW045 03/02 Q0995 NOSIG RMK BLU BLU******
 
 ********** 
 EGGN/U7404/22
@@ -1426,8 +1506,14 @@ WATTISHAM SSR U/S
             </Placemark>
             <Placemark id="151">
                 <name>BENSON</name>
-                <description>***** No Valid TAF *****
-*****EGUB 081820Z AUTO 17008KT 9999 // NCD 03/02 Q0989******
+                <description>*****TAF EGUB 090751Z 0909/0918 24012KT 9999 SCT030 PROB40 TEMPO 0909/0914 7000 SHRA SCT018 PROB40 TEMPO 0910/0918 28015G25KT******
+*****EGUB 090820Z 22008KT 9999 BKN030 06/03 Q0997 RMK BLU******
+
+********** 
+EGGN/H9419/22
+FLYING OF MODEL ACFT WI 0.3NM RADIUS 513922N 0010616W
+(NEWINGTON, OXFORDSHIRE). FOR INFO CONTACT 01865 891236. 
+2022-12-0223/AS2.
 
 ********** 
 EGGN/U7570/22
@@ -1440,6 +1526,11 @@ RAF BENSON AIR TRAFFIC CONTROL AND AIRFIELD SERVICES CLOSED.
 NATIONAL POLICE AIR SERVICE, THAMES VALLEY AIR AMBULANCE, BENSON 
 FLYING CLUB AND OPERATIONAL ACTIVITIES WILL CONTINUE AUTONOMOUSLY.
 RAF BENSON ATZ WILL REMAIN ACTIVE.
+
+********** 
+EGGN/U7291/22
+AD CLSD DUE FOREIGN OBJECT DEBRIS CLEARANCE. ATZ REMAINS ACTIVE 
+FOR NATIONAL POLICE AIR SERVICE AND THAMES VALLEY AIR AMBULANCE
 </description>
                 <styleUrl>#3</styleUrl>
                 <Point id="150">
@@ -1449,8 +1540,8 @@ RAF BENSON ATZ WILL REMAIN ACTIVE.
             </Placemark>
             <Placemark id="153">
                 <name>CAMBRIDGE</name>
-                <description>***** No Valid TAF *****
-***** No Valid METAR *****
+                <description>*****TAF EGSC 090832Z 0909/0918 24009KT 9999 FEW020 PROB30 TEMPO 0909/0916 7000 SHRA PROB30 TEMPO 0909/0912 BKN012 PROB30 TEMPO 0911/0918 26015G25KT******
+*****EGSC 090850Z 23010KT 9999 SCT032 04/03 Q0996******
 
 ********** 
 EGGN/A8428/22
@@ -1476,6 +1567,31 @@ AMENDED AD OPENING HOURS:
 MON, WED 0800-1800 (0700-1700) 
 TUE, THU 1000-1500 (0900-1400) 
 FRI-0800-1700 (0700-1600)
+
+********** 
+EGGN/A8441/22
+CRANE OPR WITHIN A RADIUS OF 1.1NM CENTRED ON PSN 521253N 0001050E
+(WITHIN CAMBRIDGE ATZ) MAX JIB HGT 146FT AGL / 199FT AMSL
+
+********** 
+EGGN/A180/23
+GRASS RWY 05/23 CLOSED
+
+********** 
+EGGN/A181/23
+GRASS TAXIWAYS UNIFORM AND VICTOR CLOSED
+
+********** 
+EGGN/A182/23
+CAMBRIDGE OBSTACLE
+ADD A NEW CRANE TO AD OBSTACLES - IN CIRCLING AREA AND AT AD 
+OBSTACLE ID: C025.22
+TYPE: CRANE
+POSITION: 521258N 0001046E
+ELEVATION/HEIGHT: 199FT AMSL/146FT AGL
+LIGHTING: YES - STEADY RED
+REMARKS: MOBILE CRANE OPERATING WITHIN 0.12NM RADIUS OF CENTRE POINT.
+UK AIP EGSC AD 2.10 REFERS.
 </description>
                 <styleUrl>#3</styleUrl>
                 <Point id="152">
@@ -1485,8 +1601,8 @@ FRI-0800-1700 (0700-1600)
             </Placemark>
             <Placemark id="155">
                 <name>BIGGIN HILL</name>
-                <description>*****TAF EGKB 081702Z 0818/0822 22012KT 9999 SCT018 TEMPO 0821/0822 7000 SHRA BKN012 PROB30 TEMPO 0821/0822 21015G25KT 4000 +SHRA BKN009******
-*****EGKB 081820Z 23009KT 9999 FEW018 05/03 Q0990******
+                <description>*****TAF EGKB 090803Z 0909/0918 26012KT 9999 FEW020 PROB40 TEMPO 0909/0912 BKN010 PROB30 TEMPO 0909/0915 26015G25KT 7000 SHRA******
+*****EGKB 090850Z 24011KT 210V270 CAVOK 04/03 Q0997******
 
 ********** 
 EGGN/C6574/22
@@ -1502,8 +1618,8 @@ HELICOPTER TRAFFIC SHOULD AVOID FLYING OVER THE WIP.
             </Placemark>
             <Placemark id="157">
                 <name>MILDENHALL</name>
-                <description>*****TAF AMD EGUN 081749Z 0817/0918 19015G25KT 6000 RA BR FEW018 BKN025 BKN050 620309 510003 QNH2918INS BECMG 0819/0820 22010G18KT 9999 NSW FEW018 SCT100 BKN170 510003 QNH2919INS BECMG 0900/0902 24012KT 9999 BKN025 QNH2924INS BECMG 0903/0904 26012KT 9999 SCT025 QNH2930INS BECMG 0909/0910 25010G20KT 9999 FEW015 BKN020 620209 510003 QNH2940INS TEMPO 0911/0913 28015G25KT -RA BECMG 0917/0918 25010G20KT 9999 -DZ BKN030 620307 510003 QNH2960INS TX07/0818Z TN04/0904Z******
-*****EGUN 081755Z 22015KT 9999 -RA SCT028 BKN055 BKN100 07/07 A2916 RMK AO2A RAB55 SLP878 P0000 60017 T00680068 10083 20068 55004 $******
+                <description>*****TAF EGUN 090400Z 0904/1010 27009KT 9999 FEW025 BKN035 QNH2925INS BECMG 0908/0910 26012G20KT 9999 SCT015 BKN020 620302 510003 QNH2942INS TEMPO 0912/0917 27015G25KT BECMG 0917/0918 26015G25KT 9999 SCT025 510003 QNH2966INS BECMG 0921/0923 26012G18KT 9999 SCT020 BKN030 620302 510003 QNH2981INS BECMG 1000/1001 25010G15KT 9999 FEW020 QNH2975INS TX07/0914Z TN04/0905Z******
+*****EGUN 090755Z 23009KT 9999 SCT080 04/04 A2936 RMK AO2A SLP946 T00350035 $******
 
 ********** 
 EGGN/U6586/22
@@ -1609,8 +1725,8 @@ RUNWAY 10/28 SURFACE CONDITION IS WET WITH NO STANDING WATER
             </Placemark>
             <Placemark id="159">
                 <name>TEESSIDE INTL</name>
-                <description>*****TAF EGNV 081656Z 0818/0822 19012KT 9999 FEW040 TEMPO 0820/0822 6000 RA BKN012 PROB30 TEMPO 0820/0822 4000 +RA BKN008******
-*****EGNV 081820Z 17009KT 9999 FEW025 04/02 Q0983******
+                <description>*****TAF EGNV 090803Z 0909/0918 23010KT 9999 FEW025 PROB40 TEMPO 0909/0918 25018G30KT PROB30 TEMPO 0909/0918 BKN014******
+*****EGNV 090850Z 25009KT CAVOK 05/02 Q0991******
 
 ********** 
 EGGN/C7180/22
@@ -1650,8 +1766,8 @@ SAT-SUN     SR-SS+15 MIN
             </Placemark>
             <Placemark id="163">
                 <name>WADDINGTON</name>
-                <description>***** No Valid TAF *****
-*****EGXW 081820Z AUTO 22010KT 9999 OVC130/// 06/04 Q0986******
+                <description>*****TAF EGXW 090730Z 0909/1003 24012KT 9999 FEW030 PROB40 TEMPO 0909/0913 -SHRA SCT015 TEMPO 0911/0922 28017G27KT PROB30 TEMPO 0917/0921 SCT018******
+*****EGXW 090820Z 23011KT 9999 FEW040 SCT100 04/03 Q0993 NOSIG RMK BLU BLU******
 
 ********** 
 EGGN/U6938/22
@@ -1682,8 +1798,8 @@ CLOSED DUE WIP.
             </Placemark>
             <Placemark id="167">
                 <name>NORWICH</name>
-                <description>*****TAF EGSH 081653Z 0818/0903 21009KT 9999 SCT030 TEMPO 0818/0820 6000 SHRA RA BKN014 PROB30 TEMPO 0900/0903 BKN010******
-*****EGSH 081820Z 20008KT 160V240 9999 BKN032 07/05 Q0988 TEMPO RA******
+                <description>*****TAF EGSH 090758Z 0909/0918 25010KT 9999 FEW025 PROB30 TEMPO 0911/0918 27018G28KT PROB30 TEMPO 0911/0914 7000 -SHRA******
+*****EGSH 090850Z 24010KT CAVOK 05/04 Q0995******
 
 ********** 
 EGGN/A8469/22
@@ -1714,7 +1830,7 @@ UK AIP AD 2.20 REFERS
                 <description>***** No Valid TAF *****
 ***** No Valid METAR *****
 No Notams</description>
-                <styleUrl>#3</styleUrl>
+                <styleUrl>#6</styleUrl>
                 <Point id="168">
                     <coordinates>-0.250833,52.468056,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -1722,8 +1838,8 @@ No Notams</description>
             </Placemark>
             <Placemark id="171">
                 <name>GLOUCESTERSHIRE</name>
-                <description>*****TAF EGBJ 081405Z 0815/0819 18012KT 9999 SCT020 TEMPO 0815/0816 6000 SHRA PROB30 TEMPO 0815/0816 20018G28KT 3000 +SHRAGS BKN014 PROB30 TEMPO 0816/0819 20015G25KT 6000 SHRA******
-*****EGBJ 081750Z 17005KT 9999 FEW028 06/04 Q0987******
+                <description>*****TAF EGBJ 090827Z 0908/0915 24012KT 9999 SCT026 TEMPO 0908/0912 26018G28KT 6000 SHRA BKN014 PROB30 TEMPO 0908/0912 3000 +SHRAGS BKN009 BKN020CB PROB30 TEMPO 0912/0915 26018G28KT 6000 SHRA BKN014******
+*****EGBJ 090850Z 24007KT 9999 FEW020 BKN028 07/05 Q0998******
 
 ********** 
 EGGN/L5905/22
@@ -1741,6 +1857,11 @@ CRANE OPR PSN 515325N 0021224W (GLOUCESTER) MAX HGT 158FT AGL,
 209FT AMSL.
 
 ********** 
+EGGN/L6263/22
+CRANE OPR 515330N 0021224W (CHELTENHAM) MAX HGT 98FT AGL, 
+151FT AMSL.
+
+********** 
 EGGN/L20/23
 RWY 09 THRESHOLD WINDSOCK UNLIT
 </description>
@@ -1752,8 +1873,8 @@ RWY 09 THRESHOLD WINDSOCK UNLIT
             </Placemark>
             <Placemark id="173">
                 <name>TIREE</name>
-                <description>***** No Valid TAF *****
-*****EGPU 081820Z 29012KT 5000 -RA SCT035 07/05 Q0976******
+                <description>*****TAF EGPU 090759Z 0909/0918 27016G26KT 9999 FEW015 TEMPO 0909/0918 6000 SHRA BKN014CB PROB30 TEMPO 0909/0915 28022G36KT 3000 +SHRA SHGS BKN009******
+*****EGPU 090850Z 26013KT 9999 VCSH SCT030 06/04 Q0987******
 
 ********** 
 EGGN/I25/23
@@ -1772,10 +1893,10 @@ OBST LIGHTS U/S ON RWY 23 WINDSOCK AND ANEMOMETER MASTS
             </Placemark>
             <Placemark id="175">
                 <name>ABERDEEN DYCE</name>
-                <description>*****TAF EGPD 081704Z 0818/0918 16010KT 9999 FEW035 PROB40 TEMPO 0820/0903 8000 -SHRA BECMG 0821/0824 22007KT******
-*****EGPD 081820Z AUTO 16008KT 9999 NCD 04/02 Q0978******
+                <description>*****TAF EGPD 090455Z 0906/1006 22006KT CAVOK PROB30 TEMPO 0917/0920 24015G25KT 8000 -SHRA******
+*****EGPD 090850Z AUTO 22006KT 9999 NCD 03/00 Q0986******
 No Notams</description>
-                <styleUrl>#3</styleUrl>
+                <styleUrl>#6</styleUrl>
                 <Point id="174">
                     <coordinates>-2.198056,57.202500,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -1783,8 +1904,8 @@ No Notams</description>
             </Placemark>
             <Placemark id="179">
                 <name>SUMBURGH</name>
-                <description>*****TAF EGPB 081706Z 0818/0903 18025G38KT 9999 FEW030 PROB30 TEMPO 0818/0903 7000 SHRA BECMG 0821/0824 18018G28KT BECMG 0900/0903 20016KT******
-*****EGPB 081820Z 19024G37KT 9999 SCT023 08/04 Q0976******
+                <description>*****TAF EGPB 090758Z 0909/0918 23016KT 9999 FEW015 SCT025 TEMPO 0909/0915 5000 SHRA BKN010 PROB30 TEMPO 0909/0915 24018G28KT 3000 +SHRA SHGS BKN008 BKN015CB******
+*****EGPB 090850Z 23018KT 9999 VCSH FEW015CB SCT025 07/05 Q0980 TEMPO SHRA******
 
 ********** 
 EGGN/A8507/22
@@ -1799,12 +1920,17 @@ SUMBURGH PRIMARY RADAR OUT OF SERVICE
             <Placemark id="181">
                 <name>YEOVILTON</name>
                 <description>***** No Valid TAF *****
-*****EGDY 081820Z AUTO 18009KT 9999 FEW048/// 07/04 Q0988******
+*****EGDY 090820Z 26011KT 9999 FEW010 SCT020 07/04 Q1000 NOSIG RMK WHT WHT******
 
 ********** 
 EGGN/U6806/22
 WESTERN TAXIWAY BLUE EDGE LIGHTS U/S BETWEEN RWY04 THRESHOLD TO 
 PAR CROSSCUT
+
+********** 
+EGGN/U7245/22
+CRANE OPR AT PSN 510042N 0024047W (ILCHESTER) MAX JIB HGT 115FT 
+AGL/ 200FT AMSL
 
 ********** 
 EGGN/U7317/22
@@ -1816,6 +1942,19 @@ SYNCHRONISED
 ********** 
 EGGN/U21/23
 RUNWAY CARAVAN U/S
+
+********** 
+EGGN/U101/23
+UP TO 3 MOBILE CRANE OPR 2NM NORTH EAST OF YEOVILTON AD,
+PSN 510149N 0023441W. MAX HGT 250FT AGL/300FT AMSL
+
+********** 
+EGGN/U103/23
+CHANGE TO AD OPERATIONAL HOURS:
+MON TO WED   0900-2145
+THU          0900-1700
+FRI          0900-1400
+SAD AND SUN  CLOSED
 </description>
                 <styleUrl>#3</styleUrl>
                 <Point id="180">
@@ -1825,8 +1964,8 @@ RUNWAY CARAVAN U/S
             </Placemark>
             <Placemark id="183">
                 <name>LONDON STANSTED</name>
-                <description>*****TAF EGSS 081703Z 0818/0924 20012KT 9999 FEW015 SCT025 TEMPO 0818/0819 6000 SHRA BKN012 PROB30 TEMPO 0818/0819 22015G25KT 3000 +SHRA BKN008CB TEMPO 0822/0904 6000 SHRA BKN012 PROB30 TEMPO 0822/0904 BKN009 BECMG 0900/0903 26010KT PROB40 TEMPO 0908/0915 6000 SHRA BKN012 TEMPO 0910/0918 27015G25KT PROB30 TEMPO 0919/0923 BKN012******
-*****EGSS 081820Z AUTO 23010KT 9999 SCT013/// BKN018/// BKN028/// //////TCU 05/03 Q0989******
+                <description>*****TAF EGSS 090457Z 0906/1012 26009KT 9999 SCT030 TEMPO 0910/0921 27015G25KT PROB40 TEMPO 0910/0917 6000 SHRA BKN012 BECMG 1003/1006 20012KT BECMG 1006/1009 18017G27KT 7000 RA BKN008 PROB30 1008/1012 3000 RADZ BKN004******
+*****EGSS 090850Z AUTO 24009KT 9999 NCD 04/03 Q0996******
 
 ********** 
 EGGN/A7577/22
@@ -1844,13 +1983,21 @@ TRIGGER NOTAM - AIP SUP 072/22 WEF 08 JAN 2023 UNTIL 08 JUN 2023
 LONDON STANSTED AIRPORT - REHABILITATION OF RUNWAY 04/22 FULL CLOSURE
 
 ********** 
-EGGN/A164/23
-RAPID EXIT TWY LR LEAD OFF LIGHTS NOT AVBL. AD GROUND LIGHTING 
-SERVICEABLE WI TWY
-
-********** 
 EGGN/A165/23
 RWY 04 TDZ LIGHTS U/S
+
+********** 
+EGGN/A177/23
+RAPID EXIT TWY LR, TWY V, R AND S LEAD OFF LIGHTS NOT AVBL.
+
+********** 
+EGGN/A178/23
+HOLDING POINT SIERRA CLOSED
+
+********** 
+EGGN/A8557/22
+DME ASSOCIATED WITH ILS RWY 04/22 RADIATING FOR TEST PURPOSES 
+ONLY, SUBJECT TO INTERRUPTION DUE MAINT.
 </description>
                 <styleUrl>#3</styleUrl>
                 <Point id="182">
@@ -1860,8 +2007,8 @@ RWY 04 TDZ LIGHTS U/S
             </Placemark>
             <Placemark id="185">
                 <name>BLACKPOOL</name>
-                <description>*****TAF EGNH 081656Z 0818/0821 18012KT 9999 FEW030 TEMPO 0818/0821 6000 SHRA BKN014 PROB30 TEMPO 0820/0821 20015G28KT 2500 +RA BKN009 BKN016CB******
-***** No Valid METAR *****
+                <description>*****TAF EGNH 090803Z 0908/0915 28015KT 9999 SCT030 TEMPO 0908/0915 30023G38KT******
+*****EGNH 090850Z 30017KT 9999 FEW020 SCT042CB 08/05 Q0995******
 
 ********** 
 EGGN/C6245/22
@@ -1881,13 +2028,13 @@ EGGN/C30/23
 RWY 13/31 CLOSED
 
 ********** 
-EGGN/H46/23
-LASER AND SEARCHLIGHT DISPLAY WI 1NM RADIUS 534856N 0030322W
-(BLACKPOOL, LANCASHIRE). FOR INFO 07796 994836. 2022-10-0470/AS2.
-
-********** 
-EGGN/C125/23
-BLACKPOOL ATZ DEACTIVATED. AD CLOSED.
+EGGN/C128/23
+REVISED AERODROME OPERATING HOURS
+09 0800-2000
+10 0800-0945 1030-1215 1300-1445 1530-1730
+11 0800-2000
+12 0800-2000
+13 0800-2000
 </description>
                 <styleUrl>#3</styleUrl>
                 <Point id="184">
@@ -1897,8 +2044,8 @@ BLACKPOOL ATZ DEACTIVATED. AD CLOSED.
             </Placemark>
             <Placemark id="187">
                 <name>GLASGOW</name>
-                <description>*****TAF AMD EGPF 081756Z 0818/0918 18019KT 9999 FEW035 BECMG 0818/0820 24009KT TEMPO 0818/0821 6000 RA BKN007 TEMPO 0821/0918 4500 SHRA BKN008 BECMG 0905/0908 26015G25KT******
-*****EGPF 081820Z AUTO 21011KT 9999 -RA BKN012/// OVC025/// //////TCU 05/03 Q0979******
+                <description>*****TAF EGPF 090455Z 0906/1006 25007KT 9999 FEW015 SCT025 TEMPO 0906/0918 4500 SHRA BKN008 TEMPO 0909/0919 26015G27KT BECMG 1002/1005 18010KT BKN014******
+*****EGPF 090850Z AUTO 13005KT 100V170 9999 FEW035/// SCT043/// //////TCU 05/03 Q0990******
 
 ********** 
 EGGN/A7640/22
@@ -1919,15 +2066,22 @@ AGL / 118FT AMSL (APRX). JIB WILL BE LOWERED IN LVP. SITE CTC
 DOUGLAS HILL 07904 406828
 
 ********** 
-EGGN/H9064/22
-SEARCHLIGHT DISPLAY WI 1NM RADIUS: 555202N 0041728W (GLASGOW).
-FOR INFO 07842 001808. 2022-11-0694/AS2.
+EGGN/A7910/22
+MOBILE CRANE OPR PSN 555119N 0042619W (GLASGOW). MAX HGT 118FT 
+AGL / 121FT AMSL (APRX). JIB WILL BE LOWERED IN LVP. SITE CONTACT 
+ADAM BALLIE 07834 126167
 
 ********** 
 EGGN/A8059/22
 RFFS DOWNGRADED TO CAT 8. RFFS CAN BE INCREASED IF REQUIRED ON A 
 PPR BASIS VIA AIRPORT COORDINATION LIMITED OR VIA GLASGOW AIRPORT 
 DUTY MANAGER ON 0141 8484510
+
+********** 
+EGGN/A8202/22
+MOBILE CRANE OPR PSN 555049N 0042829W (GLASGOW). MAX HGT 85FT 
+AGL/ 101FT AMSL (APRX). JIB WILL BE LOWERED IN LVP. SITE CONTACT 
+MICHAEL RICHARDS 07971 873912
 </description>
                 <styleUrl>#3</styleUrl>
                 <Point id="186">
@@ -1937,8 +2091,8 @@ DUTY MANAGER ON 0141 8484510
             </Placemark>
             <Placemark id="189">
                 <name>BELFAST CITY</name>
-                <description>*****TAF EGAC 081656Z 0818/0822 23011KT 9999 FEW020 SCT030 PROB30 TEMPO 0818/0820 8000 SHRA******
-*****EGAC 081820Z AUTO 22012KT 9999 FEW014 SCT033 BKN043 06/03 Q0980******
+                <description>*****TAF EGAC 090801Z 0909/0918 26015G25KT 9999 FEW030 BECMG 0909/0912 27020G35KT TEMPO 0910/0918 7000 SHRA******
+*****EGAC 090850Z AUTO 25010KT 210V270 9999 FEW034 05/02 Q0994******
 
 ********** 
 EGGN/A45/23
@@ -1963,8 +2117,8 @@ BEFORE 2245. FOR INFO CTC THE AIRPORT DUTY MANAGER.
             </Placemark>
             <Placemark id="191">
                 <name>BRISTOL</name>
-                <description>*****TAF EGGD 081701Z 0818/0918 21012KT 9999 FEW015 SCT025 TEMPO 0818/0821 22017G27KT 6000 SHRA BKN010 PROB30 TEMPO 0818/0824 3000 +SHRAGS BKN008CB BECMG 0820/0823 28012KT TEMPO 0821/0908 28016G26KT 6000 SHRA BKN010 BECMG 0908/0911 28018G28KT******
-*****EGGD 081820Z AUTO 19010KT 170V240 9999 NCD 05/02 Q0987******
+                <description>*****TAF EGGD 090457Z 0906/1006 26012KT 9999 SCT020 TEMPO 0906/0912 6000 SHRA BKN006 BECMG 0908/0911 28018G28KT BECMG 0918/0921 24012KT BECMG 1003/1006 7000 RA BKN008 PROB30 TEMPO 1004/1006 21015G25KT 3000 +RA BKN004******
+*****EGGD 090850Z AUTO 27018KT 9999 SCT015 SCT020 BKN028 06/04 Q0999******
 
 ********** 
 EGGN/C6560/22
@@ -1984,8 +2138,8 @@ AD 2 EGGD 6-2 BCN VOR REFERENCES REMOVED. NOTES
             </Placemark>
             <Placemark id="193">
                 <name>MANCHESTER</name>
-                <description>*****TAF EGCC 081704Z 0818/0924 18008KT 9999 SCT028 TEMPO 0820/0901 6000 SHRA BKN012 PROB30 TEMPO 0901/0906 6000 SHRA BKN014 BECMG 0905/0908 27010KT TEMPO 0906/0912 6000 SHRA BKN014 PROB30 TEMPO 0907/0919 28015G28KT PROB30 TEMPO 0907/0912 4000 +SHRA BKN009 TEMPO 0914/0920 6000 SHRA BKN014 PROB30 TEMPO 0914/0919 4000 +SHRA BKN009******
-*****EGCC 081820Z AUTO 18005KT 150V220 9999 NCD 05/02 Q0984******
+                <description>*****TAF AMD EGCC 090817Z 0908/1012 24009KT 9999 SCT025 TEMPO 0908/0909 3000 +TSRAGS BKN014CB PROB40 TEMPO 0908/0921 27018G30KT PROB30 TEMPO 0909/0915 4000 +SHRA BKN014 TEMPO 0915/0920 6000 SHRA BKN014 PROB30 TEMPO 0915/0919 4000 +SHRA BECMG 1003/1006 16010KT TEMPO 1005/1012 4000 RA BKN014 TEMPO 1006/1012 16018G28KT PROB30 TEMPO 1006/1012 +RA BKN008******
+*****EGCC 090850Z 27010KT 9999 SHRA SCT015CB BKN022 06/04 Q0995 BECMG NSW******
 
 ********** 
 EGGN/A7801/22
@@ -1997,11 +2151,6 @@ EGGN/A8298/22
 LIT CRANE OPR PSN 532136.3387N 0021704.8546W (VCY MANCHESTER 
 AIRPORT), MAX HGT 174FT AGL/396FT AMSL. AIP SUP 025/2022 EXTENDED 
 UNTIL THE CRANE IS INCORPORATED IN THE AIP AS OF 23 MARCH 2023.
-
-********** 
-EGGN/H9216/22
-SEARCHLIGHT DISPLAY WI 1NM RADIUS: 532841N 0021531W (ECCLES,
-MANCHESTER). FOR INFO 07973 239939. 2022-01-0026/AS4.
 </description>
                 <styleUrl>#3</styleUrl>
                 <Point id="192">
@@ -2011,8 +2160,8 @@ MANCHESTER). FOR INFO 07973 239939. 2022-01-0026/AS4.
             </Placemark>
             <Placemark id="195">
                 <name>OXFORD</name>
-                <description>*****TAF EGTK 081702Z 0818/0823 22012KT 9999 SCT020 TEMPO 0820/0823 BKN014 PROB30 TEMPO 0821/0823 7000 SHRA BKN009******
-*****EGTK 081820Z 21007KT 9999 FEW035 04/02 Q0988******
+                <description>*****TAF EGTK 090802Z 0909/0918 24010KT 9999 FEW025 PROB40 TEMPO 0909/0911 7000 SHRA BKN012 PROB40 TEMPO 0910/0915 26015G26KT PROB30 TEMPO 0911/0915 7000 SHRA******
+*****EGTK 090850Z 24007KT 9999 SCT021 SCT024 06/04 Q0997******
 
 ********** 
 EGGN/L5075/22
@@ -2062,8 +2211,8 @@ TAXIWAY FOXTROT CLOSED DUE WATERLOGGING.
             </Placemark>
             <Placemark id="197">
                 <name>LEEMING</name>
-                <description>***** No Valid TAF *****
-*****EGXE 081820Z AUTO 17005KT 9999 SCT140/// 03/01 Q0983******
+                <description>*****TAF EGXE 090718Z 0909/0918 26010KT 9999 FEW022 PROB30 TEMPO 0911/0915 27017G27KT PROB30 TEMPO 0915/0918 26015G25KT 7000 SHRA SCT018******
+*****EGXE 090820Z 29010KT 9999 FEW022 BKN090 06/03 Q0991 RMK BLU******
 
 ********** 
 EGGN/U6543/22
@@ -2101,6 +2250,12 @@ AMEND NOTE 1 CAUTION ON M2 TAC TO ILS/DME RWY 16 AD 2-EGXE-1-33
 (FLOWN ON 17 MAY 2021)
 FROM  ILS AUTO-COUPLED APP PERMITTED TO CAT 1 DH
 TO    ILS AUTO-COUPLED APP NOT PERMITED.
+
+********** 
+EGGN/U104/23
+CHANGE TO AD OPENING HOURS
+MON TO THU 0900-1315 1400-1800
+FRI  0900-1315 1400-1700
 </description>
                 <styleUrl>#3</styleUrl>
                 <Point id="196">
@@ -2133,8 +2288,8 @@ TWY C AND TEY D CLOSED FOR WIP
             </Placemark>
             <Placemark id="201">
                 <name>EGLINTON</name>
-                <description>*****TAF EGAE 081656Z 0818/0821 23013KT 9999 SCT020 PROB40 TEMPO 0818/0821 7000 SHRA BKN014******
-*****EGAE 081820Z 22014KT 9999 FEW018 SCT032 07/05 Q0979******
+                <description>*****TAF EGAE 090801Z 0909/0918 25017G27KT 9999 FEW020 SCT030 BECMG 0909/0911 26020G37KT TEMPO 0909/0918 7000 SHRA PROB30 TEMPO 0909/0914 4000 +SHRA +TSRA BKN014 BKN022CB BECMG 0913/0916 28013KT******
+*****EGAE 090850Z 24014KT 9999 VCSH FEW020 SCT029 06/04 Q0993******
 
 ********** 
 EGGN/I4026/22
@@ -2181,8 +2336,8 @@ FOR ALL ENQUIRIES INCLUDING BOOKING OUT AND PPR USE 028 7181 3314
             </Placemark>
             <Placemark id="203">
                 <name>WICK</name>
-                <description>*****TAF AMD EGPC 081706Z 0817/0824 18020G30KT 9999 FEW030 PROB30 TEMPO 0817/0903 9000 -SHRA BECMG 0819/0822 19012KT******
-*****EGPC 081820Z 17018KT CAVOK 07/00 Q0975******
+                <description>*****TAF EGPC 090758Z 0909/0918 21009KT CAVOK PROB30 TEMPO 0909/0912 22015G25KT PROB40 TEMPO 0916/0918 6000 SHRA BKN010******
+*****EGPC 090850Z 21007KT 180V240 9999 FEW012CB 04/02 Q0983******
 
 ********** 
 EGGN/I3500/22
@@ -2202,8 +2357,8 @@ UK AIP AD 2.3, AD 2.18, AD 2.19 REFER.
             </Placemark>
             <Placemark id="205">
                 <name>KIRKWALL</name>
-                <description>*****TAF EGPA 081706Z 0818/0903 18020G30KT 9999 FEW030 PROB40 TEMPO 0818/0903 7000 SHRA BECMG 0819/0822 19012KT PROB30 TEMPO 0822/0824 20015G25KT******
-*****EGPA 081820Z 19018KT 9999 FEW019 SCT042 07/01 Q0975******
+                <description>*****TAF EGPA 090758Z 0909/0918 21012KT 9999 FEW015 SCT025 PROB40 TEMPO 0909/0918 22015G25KT PROB30 TEMPO 0909/0912 6000 SHRA PROB40 TEMPO 0916/0918 6000 SHRA BKN010******
+*****EGPA 090850Z 21013KT 9999 VCSH SCT023 BKN036 06/04 Q0981******
 
 ********** 
 EGGN/I41/23
@@ -2217,10 +2372,10 @@ RWY 09/27 INSTR RVR U/S
             </Placemark>
             <Placemark id="207">
                 <name>LEUCHARS</name>
-                <description>*****TAF EGQL 081627Z 0818/0903 20010KT 9999 FEW030 PROB40 0820/0901 BKN011******
-*****EGQL 081750Z 27004KT 9999 SKC 03/01 Q0978 RMK BLU******
+                <description>*****TAF EGQL 090710Z 0909/0918 26012KT 9999 FEW040 TEMPO 0911/0917 -SHRA SCT018 PROB30 TEMPO 0912/0917 27015G25KT 5000 SHRA SCT015CB******
+*****EGQL 090850Z 23009KT CAVOK 03/// Q0987 RMK BLU******
 No Notams</description>
-                <styleUrl>#3</styleUrl>
+                <styleUrl>#6</styleUrl>
                 <Point id="206">
                     <coordinates>-2.868500,56.372667,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -2228,8 +2383,8 @@ No Notams</description>
             </Placemark>
             <Placemark id="209">
                 <name>LAKENHEATH</name>
-                <description>***** No Valid TAF *****
-*****EGUL 081817Z AUTO 22019G24KT 9999 -RA FEW015 BKN025 06/06 A2917 RMK AO2 RAE01RAB02 CIG 023V060 SLP882 $******
+                <description>*****TAF EGUL 090600Z 0906/1012 26012KT 9999 FEW025 SCT040 QNH2929INS BECMG 0910/0911 27015G20KT 9999 FEW015 SCT020 BKN040 510006 QNH2944INS BECMG 0912/0913 27015G25KT 9000 -RA FEW015 SCT020 BKN040 510006 QNH2947INS BECMG 0915/0916 27015G30KT 9999 NSW SCT025 BKN030 510006 QNH2958INS BECMG 1000/1001 25010G20KT 9999 FEW020 SCT030 BKN040 650408 520006 QNH2985INS BECMG 1007/1008 20015G25KT 9000 -SHRA SCT020 BKN030 OVC040 640809 641701 520006 QNH2961INS TEMPO 1008/1012 18020G35KT SCT010 BKN020 OVC030 TX07/0913Z TN03/1005Z******
+*****EGUL 090755Z 21008KT 9999 FEW040 SCT060 03/03 A2935 RMK AO2A SLP943 T00330032 $******
 
 ********** 
 EGGN/U6051/22
@@ -2271,6 +2426,11 @@ OBSTRUCTION LIGHT ON DIGITAL AIRPORT SURVEILLANCE RADAR (DASR)
 UNLIT.
 
 ********** 
+EGGN/U7345/22
+USE CAUTION: MEN AND EQUIPMENT WORKING WITHIN 670FT SOUTHWEST OF
+RWY 24 OVERRUN
+
+********** 
 EGGN/U7577/22
 OBST LIGHT ON BARRIER SHACK THREE SOUTH UNLIT.
 
@@ -2299,6 +2459,11 @@ CATEGORY 8 AND 9 AIRCRAFT AND CRITICAL LEVEL FOR CATEGORY 10.
 ********** 
 EGGN/U57/23
 CHARLIE RAMP NORTH SPOTS 33 TO 42 CLOSED
+
+********** 
+EGGN/U132/23
+RWY 06/24 SURFACE CONDITION IS CONCRETE WET ASPHALT WET, NO
+STANDING WATER.
 </description>
                 <styleUrl>#3</styleUrl>
                 <Point id="208">
@@ -2308,10 +2473,10 @@ CHARLIE RAMP NORTH SPOTS 33 TO 42 CLOSED
             </Placemark>
             <Placemark id="211">
                 <name>WOODVALE</name>
-                <description>***** No Valid TAF *****
-***** No Valid METAR *****
+                <description>*****TAF EGOW 090812Z 0908/0915 29023G35KT 9999 FEW020 TEMPO 0908/0915 SCT020 PROB30 TEMPO 0908/0910 7000 SHRA******
+*****EGOW 090750Z 28017KT 9999 VCSH FEW018 SCT022CB 08/05 Q0994 RMK WHT******
 No Notams</description>
-                <styleUrl>#3</styleUrl>
+                <styleUrl>#6</styleUrl>
                 <Point id="210">
                     <coordinates>-3.055528,53.581575,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -2360,6 +2525,16 @@ RWY EDGE LIGHTS RWY 17/35 U/S
 ********** 
 EGGN/L6703/22
 RWY APPROACH LIGHTS FOR RWY 17/35 U/S
+
+********** 
+EGGN/L113/23
+REVISED AD OPERATIONAL HOURS 0800-1630
+
+********** 
+EGGN/L115/23
+AD SUBJECT TO SHORT NOTICE CLOSURE DURING WX WITH VIS 1500M OR
+BELOW. AFIS WILL REMAIN OPERATIONAL DURING PUBLISHED HRS UNLESS
+NOTAM STATING 0THERWISE
 </description>
                 <styleUrl>#3</styleUrl>
                 <Point id="214">
@@ -2388,8 +2563,8 @@ AD NOT AVBL TO ACFT REQUIRING THE USE OF A LICENSED AD DUE NO RFFS
             </Placemark>
             <Placemark id="219">
                 <name>FARNBOROUGH</name>
-                <description>*****TAF EGLF 081702Z 0818/0820 24010KT 9999 SCT020******
-*****EGLF 081820Z AUTO 20006KT 9999 NCD 05/03 Q0990******
+                <description>*****TAF EGLF 090803Z 0909/0918 24010KT 9999 FEW020 PROB40 TEMPO 0909/0911 BKN012 PROB30 TEMPO 0909/0915 26015G25KT 7000 SHRA******
+*****EGLF 090850Z 24012KT 9999 FEW014 06/04 Q0998******
 
 ********** 
 EGGN/C6077/22
@@ -2415,8 +2590,8 @@ UK AIP AD 2.20 GROUND MOVEMENT REFERS
             </Placemark>
             <Placemark id="221">
                 <name>LONDON GATWICK</name>
-                <description>*****TAF EGKK 081704Z 0818/0924 23009KT 9999 SCT025 TEMPO 0821/0903 25015G25KT 8000 SHRA BKN014 PROB30 TEMPO 0822/0902 4000 +SHRA PROB30 TEMPO 0908/0915 6000 SHRA BKN014 PROB30 TEMPO 0912/0918 27015G26KT******
-*****EGKK 081820Z 23008KT CAVOK 06/04 Q0991******
+                <description>*****TAF EGKK 090454Z 0906/1012 26011KT 9999 SCT025 PROB30 TEMPO 0906/0916 8000 SHRA PROB40 TEMPO 0907/0912 BKN014 PROB40 TEMPO 0911/0918 28015G25KT BECMG 1003/1006 20012KT BECMG 1007/1010 20016G28KT BKN012 TEMPO 1007/1012 6000 RA -RADZ BKN007 PROB30 TEMPO 1007/1012 3000 RADZ BKN003******
+*****EGKK 090850Z 24009KT 9999 FEW027 05/03 Q0998******
 
 ********** 
 EGGN/A53/23
@@ -2431,8 +2606,8 @@ AMSL. INFRINGES THE TYPE A 08L BY 51FT
             </Placemark>
             <Placemark id="223">
                 <name>CRANWELL</name>
-                <description>***** No Valid TAF *****
-*****EGYD 081820Z AUTO 20006KT //// FEW027/// BKN100/// 06/04 Q0986******
+                <description>*****TAF EGYD 090724Z 0909/0918 26014KT 9999 FEW030 PROB40 TEMPO 0909/0912 SCT014 TEMPO 0911/0918 27015G30KT PROB40 TEMPO 0912/0914 SCT018 PROB30 TEMPO 0917/0918 SCT018******
+*****EGYD 090820Z 24011KT 9999 FEW012 SCT250 04/03 Q0993 NOSIG RMK BLU BLU******
 
 ********** 
 EGGN/U7169/22
@@ -2462,8 +2637,8 @@ UNRESTRICTED.
             </Placemark>
             <Placemark id="225">
                 <name>LYDD</name>
-                <description>*****TAF EGMD 081702Z 0818/0903 24017KT 9999 SCT020 TEMPO 0818/0819 7000 SHRA PROB30 TEMPO 0818/0819 26022G32KT 4000 +SHRA BKN014CB TEMPO 0822/0903 24020G34KT 7000 SHRA PROB30 TEMPO 0822/0902 3000 +SHRA SHGS BKN014CB******
-*****EGMD 081820Z 24020G31KT 9999 FEW013 SCT018 BKN023 09/07 Q0992******
+                <description>*****TAF EGMD 090803Z 0909/0918 26012KT 9999 FEW020 PROB30 TEMPO 0911/0916 26017G27KT 7000 SHRA BKN014******
+*****EGMD 090850Z 25012KT CAVOK 07/05 Q0999******
 
 ********** 
 EGGN/C7145/22
@@ -2485,8 +2660,8 @@ ILS LOCALIZER RWY 21 U/S.
             </Placemark>
             <Placemark id="227">
                 <name>LIVERPOOL</name>
-                <description>*****TAF EGGP 081704Z 0818/0918 18010KT 9999 SCT028 PROB40 TEMPO 0820/0824 6000 SHRA BKN012 BECMG 0900/0903 27010KT PROB30 TEMPO 0900/0905 6000 SHRA BKN014 TEMPO 0905/0910 6000 SHRA BKN014 PROB30 TEMPO 0905/0918 29018G28KT PROB30 TEMPO 0906/0910 4000 +SHRA TEMPO 0913/0918 6000 SHRA BKN014 PROB30 TEMPO 0913/0918 4000 +SHRA******
-*****EGGP 081820Z 19013KT 9999 FEW027 SCT034 05/03 Q0984******
+                <description>*****TAF EGGP 090500Z 0906/1006 24009KT 9999 SCT025 TEMPO 0906/0910 6000 SHRA BKN014 PROB30 TEMPO 0906/0909 4000 +SHRA BKN009 TEMPO 0907/0921 29018G30KT TEMPO 0913/0918 6000 SHRA BKN014 PROB30 TEMPO 0913/0918 4000 +SHRA BECMG 1003/1006 16010KT TEMPO 1003/1006 4000 RA BKN008 PROB30 TEMPO 1003/1006 16015G25KT******
+*****EGGP 090850Z 28020KT 9999 VCSH SCT017 BKN028 07/04 Q0995******
 
 ********** 
 EGGN/A85/23
@@ -2503,6 +2678,12 @@ FOLLOWING DATES/TIMES
 EGGN/A152/23
 NANTI2V SID NOT AVBL. PILOTS CAN EXPECT TO RECEIVE OUTBOUND 
 CLEARANCE 180 DEGREES, CLIMB TO ALTITUDE 4000FT
+
+********** 
+EGGN/A169/23
+LIVERPOOL PRIMARY RADAR U/S DUE MAINTENANCE. SECONDARY RADAR
+SERVICE ONLY. POSSIBILITY OF UNKNOWN, NON TRANSPONDING AIRCRAFT 
+OPERATING WITHIN CONTROLLED AIRSPACE.
 </description>
                 <styleUrl>#3</styleUrl>
                 <Point id="226">
@@ -2512,12 +2693,8 @@ CLEARANCE 180 DEGREES, CLIMB TO ALTITUDE 4000FT
             </Placemark>
             <Placemark id="229">
                 <name>SOUTHAMPTON</name>
-                <description>*****TAF EGHI 081701Z 0818/0823 23012KT 9999 SCT030 PROB30 TEMPO 0818/0819 25015G25KT 6000 SHRA BKN014 TEMPO 0819/0823 6000 SHRA PROB30 TEMPO 0819/0823 25015G25KT 3000 +SHRA BKN014******
-*****EGHI 081820Z 21007KT CAVOK 07/04 Q0991******
-
-********** 
-EGGN/C5837/22
-STAND 12 CLOSED DUE TO WINTER OPERATIONS
+                <description>*****TAF EGHI 090756Z 0909/0918 24005KT 9999 SCT025 TEMPO 0909/0910 6000 SHRA PROB30 TEMPO 0909/0910 26015G25KT 3000 +SHRA BKN014 PROB30 TEMPO 0910/0916 26015G25KT 6000 SHRA BKN014******
+*****EGHI 090850Z 25007KT 220V280 9999 SCT025 07/05 Q1000******
 
 ********** 
 EGGN/C6875/22
@@ -2544,6 +2721,10 @@ OUTSIDE OF THESE HOURS, SOUTHAMPTON CTR AND ALL SOLENT CTA WILL BE
 DEACTIVATED AND RECLASSIFIED CLASS G. TO FACILITATE ATC BREAKS ATS
 MAY NOT BE AVAILABLE. SERVICE AVAILABILITY WILL BE TACTICALLY
 MANAGED TO ACCOMODATE SCHEDULED MOVEMENTS.
+
+********** 
+EGGN/C133/23
+STAND 12 CLOSED
 </description>
                 <styleUrl>#3</styleUrl>
                 <Point id="228">
@@ -2556,7 +2737,7 @@ MANAGED TO ACCOMODATE SCHEDULED MOVEMENTS.
                 <description>***** No Valid TAF *****
 ***** No Valid METAR *****
 No Notams</description>
-                <styleUrl>#3</styleUrl>
+                <styleUrl>#6</styleUrl>
                 <Point id="230">
                     <coordinates>-2.305264,52.640533,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -2564,8 +2745,8 @@ No Notams</description>
             </Placemark>
             <Placemark id="233">
                 <name>NORTHOLT</name>
-                <description>*****TAF EGWU 081616Z 0818/0912 21010KT 9999 FEW025 PROB30 TEMPO 0822/0903 4000 +SHRA BKN014 PROB30 TEMPO 0903/0912 6000 SHRA BKN018******
-*****EGWU 081820Z 24008KT 9999 FEW017 05/04 Q0990 NOSIG RMK BLU BLU******
+                <description>*****TAF EGWU 090745Z 0909/1003 25010KT 9999 SCT030 PROB40 TEMPO 0909/0914 7000 SHRA BKN016 PROB40 TEMPO 0910/0919 28015G25KT******
+*****EGWU 090820Z 25008KT 9999 SCT040 05/03 Q0997 NOSIG RMK BLU BLU******
 
 ********** 
 EGGN/U6531/22
@@ -2588,8 +2769,8 @@ ALREADY PUBLISHED DVOR SID ARE TO BE USED.
             </Placemark>
             <Placemark id="235">
                 <name>EDINBURGH</name>
-                <description>*****TAF EGPH 081704Z 0818/0918 24012KT 9999 FEW020 SCT040 TEMPO 0818/0822 8000 -RA BKN010 PROB40 TEMPO 0822/0909 6000 SHRA BKN009 BECMG 0906/0909 25015G25KT TEMPO 0913/0916 4500 RA SHRA BKN012******
-*****EGPH 081820Z 22007KT 9999 FEW032 04/01 Q0978******
+                <description>*****TAF EGPH 090455Z 0906/1006 24007KT 9999 FEW015 SCT040 PROB40 TEMPO 0906/0909 6000 SHRA BKN009 BECMG 0909/0912 25015G25KT TEMPO 0912/0918 4500 RA SHRA BKN010 BECMG 0921/0924 24010KT PROB30 TEMPO 1000/1006 25015G25KT******
+*****EGPH 090850Z 24014KT 9999 FEW029 05/03 Q0989******
 
 ********** 
 EGGN/A8326/22
@@ -2634,12 +2815,16 @@ LICENSED AREODROME
             </Placemark>
             <Placemark id="239">
                 <name>CARDIFF</name>
-                <description>*****TAF EGFF 081701Z 0818/0918 23016KT 9999 FEW015 SCT025 TEMPO 0818/0820 23018G32KT 6000 SHRA BKN010 PROB30 TEMPO 0818/0906 3000 +SHRAGS BKN008CB BECMG 0820/0823 29018G30KT TEMPO 0820/0908 6000 SHRA BKN010******
-*****EGFF 081820Z AUTO 21012KT 9999 FEW025/// SCT032/// //////TCU 07/04 Q0987******
+                <description>*****TAF EGFF 090457Z 0906/1006 28013KT 9999 SCT020 BECMG 0906/0909 28018G28KT TEMPO 0906/0912 6000 SHRA BKN012 BECMG 0918/0921 24012KT BECMG 1003/1006 7000 RA BKN010 PROB30 TEMPO 1004/1006 21015G25KT 3000 +RA BKN006******
+*****EGFF 090850Z AUTO 29018KT 9999 SCT023 BKN027 BKN035 07/04 Q1000******
 
 ********** 
 EGGN/A54/23
 AVGAS NOT AVBL
+
+********** 
+EGGN/A179/23
+ATIS NOT AVBL ON FREQ 132.480. AVBL VIA TELEPHONE +441446 729319.
 </description>
                 <styleUrl>#3</styleUrl>
                 <Point id="238">
@@ -2649,8 +2834,8 @@ AVGAS NOT AVBL
             </Placemark>
             <Placemark id="241">
                 <name>EAST MIDLANDS</name>
-                <description>*****TAF EGNX 081700Z 0818/0918 21010KT 9999 SCT025 PROB30 TEMPO 0818/0907 6000 SHRA BECMG 0823/0902 27010KT TEMPO 0823/0907 BKN014 PROB30 TEMPO 0823/0907 BKN008 TEMPO 0907/0912 6000 SHRA BKN014 PROB30 TEMPO 0907/0912 28015G25KT 3000 +SHRA BKN008 PROB30 TEMPO 0912/0918 28015G25KT 6000 SHRA******
-*****EGNX 081750Z 21009KT CAVOK 05/04 Q0986******
+                <description>*****TAF EGNX 090453Z 0906/1006 23012KT 9999 SCT030 TEMPO 0906/0912 25015G25KT 6000 SHRA BKN014 PROB30 TEMPO 0906/0912 3000 +SHRA BKN008 BKN020CB TEMPO 0912/0923 25015G25KT PROB30 TEMPO 0912/0920 6000 SHRA BECMG 1001/1004 17010KT TEMPO 1004/1006 6000 RA BKN012 PROB30 TEMPO 1005/1006 18015G25KT 3000 +RA RADZ BKN008******
+*****EGNX 090850Z 26018KT 9999 -SHRA FEW022 SCT033 06/04 Q0995******
 
 ********** 
 EGGN/C6206/22
@@ -2669,7 +2854,7 @@ UK AIP EGNX AD 2.EGNX-2-1, AD 2.EGNX-2-2 REFERS.
             <Placemark id="243">
                 <name>WITTERING</name>
                 <description>***** No Valid TAF *****
-*****EGXT 081820Z AUTO 22010KT 9999 // SCT064/// BKN100/// 06/03 Q0986******
+*****EGXT 090820Z AUTO 23012KT 9999 FEW029/// 05/03 Q0994******
 
 ********** 
 EGGN/U6111/22
@@ -2678,10 +2863,6 @@ EGGN/U6111/22
 ********** 
 EGGN/U7253/22
 OBSTRUCTION LIGHTING ON AIR TRAFFIC CONTROL TOWER U/S
-
-********** 
-EGGN/U7/23
-AD CLOSED
 </description>
                 <styleUrl>#3</styleUrl>
                 <Point id="242">
@@ -2691,8 +2872,8 @@ AD CLOSED
             </Placemark>
             <Placemark id="245">
                 <name>BENBECULA</name>
-                <description>***** No Valid TAF *****
-*****EGPL 081820Z AUTO 25012KT 9999 SCT008/// 08/05 Q0974******
+                <description>*****TAF EGPL 090758Z 0909/0918 27019G32KT 9999 FEW015 SCT025 TEMPO 0909/0915 6000 SHRA BKN014CB PROB30 0909/0911 27009KT PROB40 TEMPO 0910/0915 3000 +SHRA SHGS BKN008 PROB30 TEMPO 0915/0918 7000 -SHRA******
+*****EGPL 090850Z 25013KT 9999 VCSH SCT014CB SCT022 07/04 Q0984******
 
 ********** 
 EGGN/I3254/22
@@ -2720,8 +2901,8 @@ ABBREVIATED PAPI SYSTEM IN USE RWY 24.
             </Placemark>
             <Placemark id="247">
                 <name>WARTON</name>
-                <description>***** No Valid TAF *****
-***** No Valid METAR *****
+                <description>*****TAF EGNO 090803Z 0909/0918 28015KT 9999 SCT030 TEMPO 0909/0918 30020G32KT PROB30 TEMPO 0912/0918 6000 SHRA BKN008******
+*****EGNO 090850Z 29012KT 9999 VCSH SCT027TCU 07/04 Q0994******
 
 ********** 
 EGGN/L48/23
@@ -2736,28 +2917,29 @@ THE CENTRELINE BELOW PATH
             </Placemark>
             <Placemark id="249">
                 <name>HUMBERSIDE</name>
-                <description>*****TAF EGNJ 081656Z 0818/0903 20009KT 9999 SCT028******
-***** No Valid METAR *****
+                <description>*****TAF EGNJ 090803Z 0909/0918 20012KT 9999 FEW025 PROB30 TEMPO 0909/0918 27018G28KT PROB30 TEMPO 0909/0918 7000 -SHRA BKN010******
+*****EGNJ 090850Z 20010KT 9999 FEW020 SCT034 04/03 Q0993******
 
 ********** 
-EGGN/C15/23
+EGGN/C130/23
 REVISED HUMBERSIDE ATZ AND AD OPERATING HOURS:
+MON 0730-1815 PPR 2030-2130
 TUE 0730-1815 PPR 0600-0630
 WED 0730-1815 PPR 2030-2130
 THU 0730-1815 PPR 0600-0630, 2030-2130
 FRI 0730-1815 PPR 0600-0630
-SAT 0800-1730 PPR 1730-2000, 2030-2130
-SUN 0800-1730 PPR 0600-0630, 1730-2100
+SAT 0800-1730 PPR 2030-2130
+SUN 0800-1730 PPR 0600-0630
 ATS AVBL DURING ABOVE OPR TIMES ONLY. OUTSIDE OF ABOVE TIMES
-HUMBERSIDE ATZ CAN REACTIVATE AT SHORT NOTICE. IN ADDITION, SAR S92 
-HELICOPTERS OR NATIONAL POLICE SERVICE AIRCRAFT MAY FLY ILS 
-APPROACHES FOR TRAINING OR OPERATIONAL PURPOSES. PILOTS ARE 
-THEREFORE REQ TO MAKE BLIND CALLS ON HUMBERSIDE 124.905MHZ IF 
-TRANSITING WI 8NM AND MONITOR UNTIL CLEAR, WITH PARTICULAR ATTENTION 
-TO THE INSTRUMENT APPROACH FUNNEL TOWARDS RWY 20. CHECK NOTAM FOR 
-ANY ADDITIONAL ACTIVITY. USE OF THE AD DURING PPR PERIODS AND  
-OUTSIDE ABOVE TIMES IS BY PRIOR ARRANGEMENT, CTC TERMINAL SUPERVISOR 
-ON 07718 524072.
+HUMBERSIDE ATZ CAN REACTIVATE AT SHORT NOTICE. IN ADDITION,
+SAR S92 HELICOPTERS OR NATIONAL POLICE SERVICE AIRCRAFT MAY
+FLY ILS APPROACHES FOR TRAINING OR OPERATIONAL PURPOSES.
+PILOTS ARE THEREFORE REQ TO MAKE BLIND CALLS ON HUMBERSIDE
+124.905MHZ IF TRANSITING WI 8NM AND MONITOR UNTIL CLEAR, WITH
+PARTICULAR ATTENTION TO THE INSTRUMENT APPROACH FUNNEL TOWARDS
+RWY 20. CHECK NOTAM FOR ANY ADDITIONAL ACTIVITY. USE OF THE AD
+DURING PPR PERIODS AND OUTSIDE ABOVE TIMES IS BY PRIOR
+ARRANGEMENT, CTC TERMINAL SUPERVISOR ON 07718 524072.
 </description>
                 <styleUrl>#3</styleUrl>
                 <Point id="248">
@@ -2767,8 +2949,8 @@ ON 07718 524072.
             </Placemark>
             <Placemark id="251">
                 <name>NEWCASTLE</name>
-                <description>*****TAF EGNT 081703Z 0818/0918 21010KT 9999 SCT030 PROB40 TEMPO 0818/0824 5000 SHRA RA BKN009 BECMG 0900/0903 27007KT PROB30 TEMPO 0904/0906 6000 SHRA BKN014 PROB40 TEMPO 0910/0918 27015G25KT******
-*****EGNT 081820Z 21007KT 160V250 9999 FEW025 05/03 Q0982******
+                <description>*****TAF EGNT 090459Z 0906/1006 27010KT 9999 SCT020 PROB30 TEMPO 0906/0918 BKN010 PROB40 TEMPO 0912/0921 27018G28KT BECMG 1003/1006 19010KT******
+*****EGNT 090850Z 27008KT 9999 FEW040 05/03 Q0990******
 
 ********** 
 EGGN/C5989/22
@@ -2804,7 +2986,7 @@ STAND 32 CLOSED
                 <description>***** No Valid TAF *****
 ***** No Valid METAR *****
 No Notams</description>
-                <styleUrl>#3</styleUrl>
+                <styleUrl>#6</styleUrl>
                 <Point id="252">
                     <coordinates>-0.990644,53.923697,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -2815,7 +2997,7 @@ No Notams</description>
                 <description>***** No Valid TAF *****
 ***** No Valid METAR *****
 No Notams</description>
-                <styleUrl>#3</styleUrl>
+                <styleUrl>#6</styleUrl>
                 <Point id="254">
                     <coordinates>-0.911639,53.023319,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -2826,7 +3008,7 @@ No Notams</description>
                 <description>***** No Valid TAF *****
 ***** No Valid METAR *****
 No Notams</description>
-                <styleUrl>#3</styleUrl>
+                <styleUrl>#6</styleUrl>
                 <Point id="256">
                     <coordinates>-1.614444,52.192222,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -2858,7 +3040,7 @@ NOT AVBL. 2022-12-0086/AS4.
                 <description>***** No Valid TAF *****
 ***** No Valid METAR *****
 No Notams</description>
-                <styleUrl>#3</styleUrl>
+                <styleUrl>#6</styleUrl>
                 <Point id="260">
                     <coordinates>-3.153333,52.628611,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -2866,6 +3048,17 @@ No Notams</description>
             </Placemark>
         </Folder>
         <Folder id="9">
+            <Style id="13">
+                <IconStyle id="14">
+                    <color>ff008000</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="15">
+                        <href>https://raw.githubusercontent.com/john0sweet/TAK_EFB/main/icons/helipad.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
             <Style id="10">
                 <IconStyle id="11">
                     <color>ff0000ff</color>
@@ -2883,7 +3076,7 @@ No Notams</description>
                 <description>***** No Valid TAF *****
 ***** No Valid METAR *****
 No Notams</description>
-                <styleUrl>#10</styleUrl>
+                <styleUrl>#13</styleUrl>
                 <Point id="52">
                     <coordinates>-5.177500,50.331667,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -2894,7 +3087,7 @@ No Notams</description>
                 <description>***** No Valid TAF *****
 ***** No Valid METAR *****
 No Notams</description>
-                <styleUrl>#10</styleUrl>
+                <styleUrl>#13</styleUrl>
                 <Point id="92">
                     <coordinates>0.154167,51.721667,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -2905,7 +3098,7 @@ No Notams</description>
                 <description>***** No Valid TAF *****
 ***** No Valid METAR *****
 No Notams</description>
-                <styleUrl>#10</styleUrl>
+                <styleUrl>#13</styleUrl>
                 <Point id="176">
                     <coordinates>-1.686883,51.139583,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -2916,7 +3109,7 @@ No Notams</description>
                 <description>***** No Valid TAF *****
 ***** No Valid METAR *****
 No Notams</description>
-                <styleUrl>#10</styleUrl>
+                <styleUrl>#13</styleUrl>
                 <Point id="262">
                     <coordinates>-3.442333,51.407667,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -2927,7 +3120,7 @@ No Notams</description>
                 <description>***** No Valid TAF *****
 ***** No Valid METAR *****
 No Notams</description>
-                <styleUrl>#10</styleUrl>
+                <styleUrl>#13</styleUrl>
                 <Point id="264">
                     <coordinates>-3.201667,51.200667,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -2938,7 +3131,7 @@ No Notams</description>
                 <description>***** No Valid TAF *****
 ***** No Valid METAR *****
 No Notams</description>
-                <styleUrl>#10</styleUrl>
+                <styleUrl>#13</styleUrl>
                 <Point id="266">
                     <coordinates>-0.093436,51.305961,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -2949,7 +3142,7 @@ No Notams</description>
                 <description>***** No Valid TAF *****
 ***** No Valid METAR *****
 No Notams</description>
-                <styleUrl>#10</styleUrl>
+                <styleUrl>#13</styleUrl>
                 <Point id="268">
                     <coordinates>-6.617778,56.601944,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -2960,7 +3153,7 @@ No Notams</description>
                 <description>***** No Valid TAF *****
 ***** No Valid METAR *****
 No Notams</description>
-                <styleUrl>#10</styleUrl>
+                <styleUrl>#13</styleUrl>
                 <Point id="270">
                     <coordinates>-6.243056,56.057500,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -2971,7 +3164,7 @@ No Notams</description>
                 <description>***** No Valid TAF *****
 ***** No Valid METAR *****
 No Notams</description>
-                <styleUrl>#10</styleUrl>
+                <styleUrl>#13</styleUrl>
                 <Point id="272">
                     <coordinates>-0.118333,52.355500,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -2982,7 +3175,7 @@ No Notams</description>
                 <description>***** No Valid TAF *****
 ***** No Valid METAR *****
 No Notams</description>
-                <styleUrl>#10</styleUrl>
+                <styleUrl>#13</styleUrl>
                 <Point id="274">
                     <coordinates>-2.565167,55.057000,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -2993,7 +3186,7 @@ No Notams</description>
                 <description>***** No Valid TAF *****
 ***** No Valid METAR *****
 No Notams</description>
-                <styleUrl>#10</styleUrl>
+                <styleUrl>#13</styleUrl>
                 <Point id="276">
                     <coordinates>0.449167,51.895000,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -3004,7 +3197,7 @@ No Notams</description>
                 <description>***** No Valid TAF *****
 ***** No Valid METAR *****
 No Notams</description>
-                <styleUrl>#10</styleUrl>
+                <styleUrl>#13</styleUrl>
                 <Point id="278">
                     <coordinates>-2.571500,53.164167,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -3015,7 +3208,7 @@ No Notams</description>
                 <description>***** No Valid TAF *****
 ***** No Valid METAR *****
 No Notams</description>
-                <styleUrl>#10</styleUrl>
+                <styleUrl>#13</styleUrl>
                 <Point id="280">
                     <coordinates>-7.014833,55.061500,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -3047,7 +3240,7 @@ WIP BETWEEN TERMINAL AND RUNWAY 15 MARKER
                 <description>***** No Valid TAF *****
 ***** No Valid METAR *****
 No Notams</description>
-                <styleUrl>#10</styleUrl>
+                <styleUrl>#13</styleUrl>
                 <Point id="284">
                     <coordinates>-1.109500,50.678000,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -3058,7 +3251,7 @@ No Notams</description>
                 <description>***** No Valid TAF *****
 ***** No Valid METAR *****
 No Notams</description>
-                <styleUrl>#10</styleUrl>
+                <styleUrl>#13</styleUrl>
                 <Point id="286">
                     <coordinates>-0.362000,53.898667,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -3069,7 +3262,7 @@ No Notams</description>
                 <description>***** No Valid TAF *****
 ***** No Valid METAR *****
 No Notams</description>
-                <styleUrl>#10</styleUrl>
+                <styleUrl>#13</styleUrl>
                 <Point id="288">
                     <coordinates>-4.665833,50.499667,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -3080,7 +3273,7 @@ No Notams</description>
                 <description>***** No Valid TAF *****
 ***** No Valid METAR *****
 No Notams</description>
-                <styleUrl>#10</styleUrl>
+                <styleUrl>#13</styleUrl>
                 <Point id="290">
                     <coordinates>-0.042500,52.210500,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -3091,7 +3284,7 @@ No Notams</description>
                 <description>***** No Valid TAF *****
 ***** No Valid METAR *****
 No Notams</description>
-                <styleUrl>#10</styleUrl>
+                <styleUrl>#13</styleUrl>
                 <Point id="292">
                     <coordinates>-3.135833,51.467167,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -3122,7 +3315,7 @@ OVERHEAD UPWIND END OF RUNWAY
                 <description>***** No Valid TAF *****
 ***** No Valid METAR *****
 No Notams</description>
-                <styleUrl>#10</styleUrl>
+                <styleUrl>#13</styleUrl>
                 <Point id="296">
                     <coordinates>1.130000,51.785000,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -3132,7 +3325,11 @@ No Notams</description>
                 <name>COMPTON ABBAS</name>
                 <description>***** No Valid TAF *****
 ***** No Valid METAR *****
-No Notams</description>
+
+********** 
+EGGN/L149/23
+AERODROME CLOSED DUE TO WEATHER CONDITIONS
+</description>
                 <styleUrl>#10</styleUrl>
                 <Point id="298">
                     <coordinates>-2.153611,50.967222,0.0</coordinates>
@@ -3144,7 +3341,7 @@ No Notams</description>
                 <description>***** No Valid TAF *****
 ***** No Valid METAR *****
 No Notams</description>
-                <styleUrl>#10</styleUrl>
+                <styleUrl>#13</styleUrl>
                 <Point id="300">
                     <coordinates>1.111000,52.171167,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -3211,7 +3408,7 @@ RUTS. CAUTION TO ROTARY LANDING NORTH SIDE GRASS RWY
                 <description>***** No Valid TAF *****
 ***** No Valid METAR *****
 No Notams</description>
-                <styleUrl>#10</styleUrl>
+                <styleUrl>#13</styleUrl>
                 <Point id="306">
                     <coordinates>-1.617500,52.859722,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -3220,9 +3417,9 @@ No Notams</description>
             <Placemark id="309">
                 <name>DONNA NOOK/RAF</name>
                 <description>***** No Valid TAF *****
-*****EGXS 081820Z AUTO 19012KT 9999 OVC160/// 06/04 Q0985******
+*****EGXS 090820Z AUTO 21012KT 9999 NCD 04/02 Q0992******
 No Notams</description>
-                <styleUrl>#10</styleUrl>
+                <styleUrl>#13</styleUrl>
                 <Point id="308">
                     <coordinates>0.152000,53.475000,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -3233,7 +3430,7 @@ No Notams</description>
                 <description>***** No Valid TAF *****
 ***** No Valid METAR *****
 No Notams</description>
-                <styleUrl>#10</styleUrl>
+                <styleUrl>#13</styleUrl>
                 <Point id="310">
                     <coordinates>-3.989500,50.928667,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -3244,7 +3441,7 @@ No Notams</description>
                 <description>***** No Valid TAF *****
 ***** No Valid METAR *****
 No Notams</description>
-                <styleUrl>#10</styleUrl>
+                <styleUrl>#13</styleUrl>
                 <Point id="312">
                     <coordinates>0.682500,51.914444,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -3255,7 +3452,7 @@ No Notams</description>
                 <description>***** No Valid TAF *****
 ***** No Valid METAR *****
 No Notams</description>
-                <styleUrl>#10</styleUrl>
+                <styleUrl>#13</styleUrl>
                 <Point id="314">
                     <coordinates>-2.772500,59.190278,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -3312,7 +3509,7 @@ AD NOT AVBL TO ACFT REQUIRING THE USE OF A LICENCED AD
                 <description>***** No Valid TAF *****
 ***** No Valid METAR *****
 No Notams</description>
-                <styleUrl>#10</styleUrl>
+                <styleUrl>#13</styleUrl>
                 <Point id="318">
                     <coordinates>-1.628611,59.534722,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -3322,7 +3519,11 @@ No Notams</description>
                 <name>FAIROAKS</name>
                 <description>***** No Valid TAF *****
 ***** No Valid METAR *****
-No Notams</description>
+
+********** 
+EGGN/L148/23
+RFFS DOWNGRADED TO CATEGORY ONE
+</description>
                 <styleUrl>#10</styleUrl>
                 <Point id="320">
                     <coordinates>-0.558611,51.348056,0.0</coordinates>
@@ -3334,7 +3535,7 @@ No Notams</description>
                 <description>***** No Valid TAF *****
 ***** No Valid METAR *****
 No Notams</description>
-                <styleUrl>#10</styleUrl>
+                <styleUrl>#13</styleUrl>
                 <Point id="322">
                     <coordinates>-0.030000,52.739444,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -3345,7 +3546,7 @@ No Notams</description>
                 <description>***** No Valid TAF *****
 ***** No Valid METAR *****
 No Notams</description>
-                <styleUrl>#10</styleUrl>
+                <styleUrl>#13</styleUrl>
                 <Point id="324">
                     <coordinates>-3.220333,56.183333,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -3356,7 +3557,7 @@ No Notams</description>
                 <description>***** No Valid TAF *****
 ***** No Valid METAR *****
 No Notams</description>
-                <styleUrl>#10</styleUrl>
+                <styleUrl>#13</styleUrl>
                 <Point id="326">
                     <coordinates>0.061667,52.077500,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -3367,7 +3568,7 @@ No Notams</description>
                 <description>***** No Valid TAF *****
 ***** No Valid METAR *****
 No Notams</description>
-                <styleUrl>#10</styleUrl>
+                <styleUrl>#13</styleUrl>
                 <Point id="328">
                     <coordinates>-0.864667,53.980500,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -3378,7 +3579,7 @@ No Notams</description>
                 <description>***** No Valid TAF *****
 ***** No Valid METAR *****
 No Notams</description>
-                <styleUrl>#10</styleUrl>
+                <styleUrl>#13</styleUrl>
                 <Point id="330">
                     <coordinates>-0.737833,51.792500,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -3389,7 +3590,7 @@ No Notams</description>
                 <description>***** No Valid TAF *****
 ***** No Valid METAR *****
 No Notams</description>
-                <styleUrl>#10</styleUrl>
+                <styleUrl>#13</styleUrl>
                 <Point id="332">
                     <coordinates>-2.357167,50.985000,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -3398,9 +3599,9 @@ No Notams</description>
             <Placemark id="335">
                 <name>HOLBEACH/AIR WEAPONS RANGE</name>
                 <description>***** No Valid TAF *****
-*****EGYH 081820Z AUTO 21014KT 9999 -RA SCT031/// SCT057/// 07/05 Q0986******
+*****EGYH 090820Z AUTO 23013KT 9999 NCD 03/02 Q0994******
 No Notams</description>
-                <styleUrl>#10</styleUrl>
+                <styleUrl>#13</styleUrl>
                 <Point id="334">
                     <coordinates>0.170000,52.855667,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -3411,7 +3612,7 @@ No Notams</description>
                 <description>***** No Valid TAF *****
 ***** No Valid METAR *****
 No Notams</description>
-                <styleUrl>#10</styleUrl>
+                <styleUrl>#13</styleUrl>
                 <Point id="336">
                     <coordinates>-3.398525,55.873206,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -3419,10 +3620,10 @@ No Notams</description>
             </Placemark>
             <Placemark id="339">
                 <name>LANDS END</name>
-                <description>***** No Valid TAF *****
-***** No Valid METAR *****
+                <description>*****TAF EGHC 090800Z 0909/0918 28018KT 9999 SCT025 TEMPO 0909/0912 30025G35KT 6000 SHRA BKN014 PROB30 TEMPO 0909/0912 29030G45KT 3000 +SHRAGS BKN009 BKN020CB PROB30 TEMPO 0912/0918 29025G35KT 6000 SHRA BKN014******
+*****EGHC 090850Z 31021KT 9999 VCSH FEW018 FEW023TCU FEW026CB 07/04 Q1006 RESHRA RESHGS******
 No Notams</description>
-                <styleUrl>#10</styleUrl>
+                <styleUrl>#13</styleUrl>
                 <Point id="338">
                     <coordinates>-5.670556,50.102778,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -3433,7 +3634,7 @@ No Notams</description>
                 <description>***** No Valid TAF *****
 ***** No Valid METAR *****
 No Notams</description>
-                <styleUrl>#10</styleUrl>
+                <styleUrl>#13</styleUrl>
                 <Point id="340">
                     <coordinates>0.644444,51.156389,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -3459,7 +3660,7 @@ NO OUT OF HOURS ON CALL SERVICE.
                 <description>***** No Valid TAF *****
 ***** No Valid METAR *****
 No Notams</description>
-                <styleUrl>#10</styleUrl>
+                <styleUrl>#13</styleUrl>
                 <Point id="344">
                     <coordinates>-0.153833,52.166667,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -3470,7 +3671,7 @@ No Notams</description>
                 <description>***** No Valid TAF *****
 ***** No Valid METAR *****
 No Notams</description>
-                <styleUrl>#10</styleUrl>
+                <styleUrl>#13</styleUrl>
                 <Point id="346">
                     <coordinates>-4.333000,55.867833,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -3536,7 +3737,7 @@ NETHERAVON AFIS CLOSED IN LINE WITH SALISBURY OPS CLOSURE.
                 <description>***** No Valid TAF *****
 ***** No Valid METAR *****
 No Notams</description>
-                <styleUrl>#10</styleUrl>
+                <styleUrl>#13</styleUrl>
                 <Point id="352">
                     <coordinates>-1.196203,53.316933,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -3547,7 +3748,7 @@ No Notams</description>
                 <description>***** No Valid TAF *****
 ***** No Valid METAR *****
 No Notams</description>
-                <styleUrl>#10</styleUrl>
+                <styleUrl>#13</styleUrl>
                 <Point id="354">
                     <coordinates>-5.691944,54.581111,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -3558,7 +3759,7 @@ No Notams</description>
                 <description>***** No Valid TAF *****
 ***** No Valid METAR *****
 No Notams</description>
-                <styleUrl>#10</styleUrl>
+                <styleUrl>#13</styleUrl>
                 <Point id="356">
                     <coordinates>-2.434444,59.367500,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -3584,6 +3785,10 @@ RWY 02/20, RWY 07L/25R, HOLD A, TWY A, HOLD B, PARKING AREAS A, C
 AND ALL GRASS AREAS STRICTLY NOT IN USE. PARKING AREA B ONLY TO BE 
 USED IF DIRECTED. ALL DEPARTING ACFT MUST CONTACT BUCKENHAM RADIO 
 PRIOR TO TAXI. AD NOT AVBL TO MOTORGLIDERS
+
+********** 
+EGGN/L6704/22
+AD CLOSED
 </description>
                 <styleUrl>#10</styleUrl>
                 <Point id="358">
@@ -3596,7 +3801,7 @@ PRIOR TO TAXI. AD NOT AVBL TO MOTORGLIDERS
                 <description>***** No Valid TAF *****
 ***** No Valid METAR *****
 No Notams</description>
-                <styleUrl>#10</styleUrl>
+                <styleUrl>#13</styleUrl>
                 <Point id="360">
                     <coordinates>-4.312222,51.713889,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -3607,7 +3812,7 @@ No Notams</description>
                 <description>***** No Valid TAF *****
 ***** No Valid METAR *****
 No Notams</description>
-                <styleUrl>#10</styleUrl>
+                <styleUrl>#13</styleUrl>
                 <Point id="362">
                     <coordinates>-2.900278,59.351111,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -3633,7 +3838,7 @@ RWY 15/33 CLSD
                 <description>***** No Valid TAF *****
 ***** No Valid METAR *****
 No Notams</description>
-                <styleUrl>#10</styleUrl>
+                <styleUrl>#13</styleUrl>
                 <Point id="366">
                     <coordinates>-0.386333,52.555833,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -3644,7 +3849,7 @@ No Notams</description>
                 <description>***** No Valid TAF *****
 ***** No Valid METAR *****
 No Notams</description>
-                <styleUrl>#10</styleUrl>
+                <styleUrl>#13</styleUrl>
                 <Point id="368">
                     <coordinates>-1.236167,51.194333,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -3655,7 +3860,7 @@ No Notams</description>
                 <description>***** No Valid TAF *****
 ***** No Valid METAR *****
 No Notams</description>
-                <styleUrl>#10</styleUrl>
+                <styleUrl>#13</styleUrl>
                 <Point id="370">
                     <coordinates>-1.166111,50.848333,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -3731,8 +3936,8 @@ AD NOT AVBL TO ACFT REQUIRING THE USE OF A LICENSED AD DUE NO RFFS
             </Placemark>
             <Placemark id="379">
                 <name>SCILLY ISLES/ST MARYS</name>
-                <description>***** No Valid TAF *****
-***** No Valid METAR *****
+                <description>*****TAF EGHE 090800Z 0909/0918 29022KT 9999 SCT020 TEMPO 0909/0912 30025G35KT 6000 SHRA BKN014 PROB30 TEMPO 0909/0912 30030G45KT 3000 +SHRAGS BKN009 BKN020CB PROB30 TEMPO 0912/0918 30025G35KT 6000 SHRA BKN014******
+*****EGHE 090850Z 31020KT 9999 FEW025 08/03 Q1008******
 
 ********** 
 EGGN/L5/23
@@ -3753,7 +3958,7 @@ AD IDENT BEACON SC U/S
                 <description>***** No Valid TAF *****
 ***** No Valid METAR *****
 No Notams</description>
-                <styleUrl>#10</styleUrl>
+                <styleUrl>#13</styleUrl>
                 <Point id="380">
                     <coordinates>1.417167,52.511167,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -3784,7 +3989,7 @@ RFFS COVER
                 <description>***** No Valid TAF *****
 ***** No Valid METAR *****
 No Notams</description>
-                <styleUrl>#10</styleUrl>
+                <styleUrl>#13</styleUrl>
                 <Point id="384">
                     <coordinates>-2.575000,59.250278,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -3795,7 +4000,7 @@ No Notams</description>
                 <description>***** No Valid TAF *****
 ***** No Valid METAR *****
 No Notams</description>
-                <styleUrl>#10</styleUrl>
+                <styleUrl>#13</styleUrl>
                 <Point id="386">
                     <coordinates>-2.771667,52.833889,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -3806,7 +4011,7 @@ No Notams</description>
                 <description>***** No Valid TAF *****
 ***** No Valid METAR *****
 No Notams</description>
-                <styleUrl>#10</styleUrl>
+                <styleUrl>#13</styleUrl>
                 <Point id="388">
                     <coordinates>0.156111,51.652500,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -3841,7 +4046,7 @@ UK AIP EGTH AD 2.2 REFERS.
                 <description>***** No Valid TAF *****
 ***** No Valid METAR *****
 No Notams</description>
-                <styleUrl>#10</styleUrl>
+                <styleUrl>#13</styleUrl>
                 <Point id="392">
                     <coordinates>-0.685333,53.381167,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -3852,7 +4057,7 @@ No Notams</description>
                 <description>***** No Valid TAF *****
 ***** No Valid METAR *****
 No Notams</description>
-                <styleUrl>#10</styleUrl>
+                <styleUrl>#13</styleUrl>
                 <Point id="394">
                     <coordinates>-2.641389,59.155278,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -3863,7 +4068,7 @@ No Notams</description>
                 <description>***** No Valid TAF *****
 ***** No Valid METAR *****
 No Notams</description>
-                <styleUrl>#10</styleUrl>
+                <styleUrl>#13</styleUrl>
                 <Point id="396">
                     <coordinates>-3.959667,57.825833,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -3874,7 +4079,7 @@ No Notams</description>
                 <description>***** No Valid TAF *****
 ***** No Valid METAR *****
 No Notams</description>
-                <styleUrl>#10</styleUrl>
+                <styleUrl>#13</styleUrl>
                 <Point id="398">
                     <coordinates>-5.142500,50.278667,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -3885,7 +4090,7 @@ No Notams</description>
                 <description>***** No Valid TAF *****
 ***** No Valid METAR *****
 No Notams</description>
-                <styleUrl>#10</styleUrl>
+                <styleUrl>#13</styleUrl>
                 <Point id="400">
                     <coordinates>-0.853833,60.747000,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -3896,7 +4101,7 @@ No Notams</description>
                 <description>***** No Valid TAF *****
 ***** No Valid METAR *****
 No Notams</description>
-                <styleUrl>#10</styleUrl>
+                <styleUrl>#13</styleUrl>
                 <Point id="402">
                     <coordinates>-1.782000,51.286167,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -3907,7 +4112,7 @@ No Notams</description>
                 <description>***** No Valid TAF *****
 ***** No Valid METAR *****
 No Notams</description>
-                <styleUrl>#10</styleUrl>
+                <styleUrl>#13</styleUrl>
                 <Point id="404">
                     <coordinates>-1.942333,51.227833,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -3918,7 +4123,7 @@ No Notams</description>
                 <description>***** No Valid TAF *****
 ***** No Valid METAR *****
 No Notams</description>
-                <styleUrl>#10</styleUrl>
+                <styleUrl>#13</styleUrl>
                 <Point id="406">
                     <coordinates>-2.950167,59.350000,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -3929,7 +4134,7 @@ No Notams</description>
                 <description>***** No Valid TAF *****
 ***** No Valid METAR *****
 No Notams</description>
-                <styleUrl>#10</styleUrl>
+                <styleUrl>#13</styleUrl>
                 <Point id="408">
                     <coordinates>-0.925500,60.377000,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -3940,7 +4145,7 @@ No Notams</description>
                 <description>***** No Valid TAF *****
 ***** No Valid METAR *****
 No Notams</description>
-                <styleUrl>#10</styleUrl>
+                <styleUrl>#13</styleUrl>
                 <Point id="410">
                     <coordinates>-0.774722,51.500556,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -3951,7 +4156,7 @@ No Notams</description>
                 <description>***** No Valid TAF *****
 ***** No Valid METAR *****
 No Notams</description>
-                <styleUrl>#10</styleUrl>
+                <styleUrl>#13</styleUrl>
                 <Point id="412">
                     <coordinates>-0.348889,53.316944,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -3962,7 +4167,7 @@ No Notams</description>
                 <description>***** No Valid TAF *****
 ***** No Valid METAR *****
 No Notams</description>
-                <styleUrl>#10</styleUrl>
+                <styleUrl>#13</styleUrl>
                 <Point id="414">
                     <coordinates>-0.808333,51.611667,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -3973,7 +4178,7 @@ No Notams</description>
                 <description>***** No Valid TAF *****
 ***** No Valid METAR *****
 No Notams</description>
-                <styleUrl>#10</styleUrl>
+                <styleUrl>#13</styleUrl>
                 <Point id="416">
                     <coordinates>-2.654500,50.938500,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -3984,7 +4189,7 @@ No Notams</description>
                 <description>***** No Valid TAF *****
 ***** No Valid METAR *****
 No Notams</description>
-                <styleUrl>#10</styleUrl>
+                <styleUrl>#13</styleUrl>
                 <Point id="418">
                     <coordinates>-1.033500,51.187167,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -3995,7 +4200,7 @@ No Notams</description>
                 <description>***** No Valid TAF *****
 ***** No Valid METAR *****
 No Notams</description>
-                <styleUrl>#10</styleUrl>
+                <styleUrl>#13</styleUrl>
                 <Point id="420">
                     <coordinates>-1.097500,52.040833,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -4006,7 +4211,7 @@ No Notams</description>
                 <description>***** No Valid TAF *****
 ***** No Valid METAR *****
 No Notams</description>
-                <styleUrl>#10</styleUrl>
+                <styleUrl>#13</styleUrl>
                 <Point id="422">
                     <coordinates>-1.808333,51.514444,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -4017,7 +4222,7 @@ No Notams</description>
                 <description>***** No Valid TAF *****
 ***** No Valid METAR *****
 No Notams</description>
-                <styleUrl>#10</styleUrl>
+                <styleUrl>#13</styleUrl>
                 <Point id="424">
                     <coordinates>-1.150000,51.350000,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -4028,7 +4233,7 @@ No Notams</description>
                 <description>***** No Valid TAF *****
 ***** No Valid METAR *****
 No Notams</description>
-                <styleUrl>#10</styleUrl>
+                <styleUrl>#13</styleUrl>
                 <Point id="426">
                     <coordinates>-0.220278,50.936111,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -4039,7 +4244,7 @@ No Notams</description>
                 <description>***** No Valid TAF *****
 ***** No Valid METAR *****
 No Notams</description>
-                <styleUrl>#10</styleUrl>
+                <styleUrl>#13</styleUrl>
                 <Point id="428">
                     <coordinates>0.829167,51.208333,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -4050,7 +4255,7 @@ No Notams</description>
                 <description>***** No Valid TAF *****
 ***** No Valid METAR *****
 No Notams</description>
-                <styleUrl>#10</styleUrl>
+                <styleUrl>#13</styleUrl>
                 <Point id="430">
                     <coordinates>0.155833,50.881667,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -4061,7 +4266,7 @@ No Notams</description>
                 <description>***** No Valid TAF *****
 ***** No Valid METAR *****
 No Notams</description>
-                <styleUrl>#10</styleUrl>
+                <styleUrl>#13</styleUrl>
                 <Point id="432">
                     <coordinates>0.404722,51.268889,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -4072,7 +4277,7 @@ No Notams</description>
                 <description>***** No Valid TAF *****
 ***** No Valid METAR *****
 No Notams</description>
-                <styleUrl>#10</styleUrl>
+                <styleUrl>#13</styleUrl>
                 <Point id="434">
                     <coordinates>-0.470000,51.350278,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -4083,7 +4288,7 @@ No Notams</description>
                 <description>***** No Valid TAF *****
 ***** No Valid METAR *****
 No Notams</description>
-                <styleUrl>#10</styleUrl>
+                <styleUrl>#13</styleUrl>
                 <Point id="436">
                     <coordinates>-1.171111,51.383611,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -4094,7 +4299,7 @@ No Notams</description>
                 <description>***** No Valid TAF *****
 ***** No Valid METAR *****
 No Notams</description>
-                <styleUrl>#10</styleUrl>
+                <styleUrl>#13</styleUrl>
                 <Point id="438">
                     <coordinates>0.244444,51.528889,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -4105,7 +4310,7 @@ No Notams</description>
                 <description>***** No Valid TAF *****
 ***** No Valid METAR *****
 No Notams</description>
-                <styleUrl>#10</styleUrl>
+                <styleUrl>#13</styleUrl>
                 <Point id="440">
                     <coordinates>0.366667,51.538056,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -4116,7 +4321,7 @@ No Notams</description>
                 <description>***** No Valid TAF *****
 ***** No Valid METAR *****
 No Notams</description>
-                <styleUrl>#10</styleUrl>
+                <styleUrl>#13</styleUrl>
                 <Point id="442">
                     <coordinates>-0.402778,52.146389,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -4127,7 +4332,7 @@ No Notams</description>
                 <description>***** No Valid TAF *****
 ***** No Valid METAR *****
 No Notams</description>
-                <styleUrl>#10</styleUrl>
+                <styleUrl>#13</styleUrl>
                 <Point id="444">
                     <coordinates>1.203333,52.032500,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -4138,7 +4343,7 @@ No Notams</description>
                 <description>***** No Valid TAF *****
 ***** No Valid METAR *****
 No Notams</description>
-                <styleUrl>#10</styleUrl>
+                <styleUrl>#13</styleUrl>
                 <Point id="446">
                     <coordinates>0.978000,52.075333,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -4149,7 +4354,7 @@ No Notams</description>
                 <description>***** No Valid TAF *****
 ***** No Valid METAR *****
 No Notams</description>
-                <styleUrl>#10</styleUrl>
+                <styleUrl>#13</styleUrl>
                 <Point id="448">
                     <coordinates>0.382222,52.230833,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -4160,7 +4365,7 @@ No Notams</description>
                 <description>***** No Valid TAF *****
 ***** No Valid METAR *****
 No Notams</description>
-                <styleUrl>#10</styleUrl>
+                <styleUrl>#13</styleUrl>
                 <Point id="450">
                     <coordinates>-0.935667,51.771833,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -4171,7 +4376,7 @@ No Notams</description>
                 <description>***** No Valid TAF *****
 ***** No Valid METAR *****
 No Notams</description>
-                <styleUrl>#10</styleUrl>
+                <styleUrl>#13</styleUrl>
                 <Point id="452">
                     <coordinates>-0.533333,51.116667,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -4182,7 +4387,7 @@ No Notams</description>
                 <description>***** No Valid TAF *****
 ***** No Valid METAR *****
 No Notams</description>
-                <styleUrl>#10</styleUrl>
+                <styleUrl>#13</styleUrl>
                 <Point id="454">
                     <coordinates>-1.431944,51.929444,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -4193,7 +4398,7 @@ No Notams</description>
                 <description>***** No Valid TAF *****
 ***** No Valid METAR *****
 No Notams</description>
-                <styleUrl>#10</styleUrl>
+                <styleUrl>#13</styleUrl>
                 <Point id="456">
                     <coordinates>-2.022222,51.641667,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -4204,7 +4409,7 @@ No Notams</description>
                 <description>***** No Valid TAF *****
 ***** No Valid METAR *****
 No Notams</description>
-                <styleUrl>#10</styleUrl>
+                <styleUrl>#13</styleUrl>
                 <Point id="458">
                     <coordinates>-1.249722,51.934167,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -4215,7 +4420,7 @@ No Notams</description>
                 <description>***** No Valid TAF *****
 ***** No Valid METAR *****
 No Notams</description>
-                <styleUrl>#10</styleUrl>
+                <styleUrl>#13</styleUrl>
                 <Point id="460">
                     <coordinates>-1.316111,51.687500,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -4226,7 +4431,7 @@ No Notams</description>
                 <description>***** No Valid TAF *****
 ***** No Valid METAR *****
 No Notams</description>
-                <styleUrl>#10</styleUrl>
+                <styleUrl>#13</styleUrl>
                 <Point id="462">
                     <coordinates>-1.284722,51.383889,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -4237,7 +4442,7 @@ No Notams</description>
                 <description>***** No Valid TAF *****
 ***** No Valid METAR *****
 No Notams</description>
-                <styleUrl>#10</styleUrl>
+                <styleUrl>#13</styleUrl>
                 <Point id="464">
                     <coordinates>-1.200000,51.983333,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -4271,7 +4476,7 @@ HELIPORT ARP). MAX HGT 316FT AGL / 333FT AMSL
                 <description>***** No Valid TAF *****
 ***** No Valid METAR *****
 No Notams</description>
-                <styleUrl>#10</styleUrl>
+                <styleUrl>#13</styleUrl>
                 <Point id="468">
                     <coordinates>-2.054444,51.925833,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -4282,7 +4487,7 @@ No Notams</description>
                 <description>***** No Valid TAF *****
 ***** No Valid METAR *****
 No Notams</description>
-                <styleUrl>#10</styleUrl>
+                <styleUrl>#13</styleUrl>
                 <Point id="470">
                     <coordinates>-2.798997,52.080856,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -4293,7 +4498,7 @@ No Notams</description>
                 <description>***** No Valid TAF *****
 ***** No Valid METAR *****
 No Notams</description>
-                <styleUrl>#10</styleUrl>
+                <styleUrl>#13</styleUrl>
                 <Point id="472">
                     <coordinates>-5.512222,50.130556,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
@@ -4304,7 +4509,7 @@ No Notams</description>
                 <description>***** No Valid TAF *****
 ***** No Valid METAR *****
 No Notams</description>
-                <styleUrl>#10</styleUrl>
+                <styleUrl>#13</styleUrl>
                 <Point id="474">
                     <coordinates>-6.331389,49.945556,0.0</coordinates>
                     <altitudeMode>clampToGround</altitudeMode>
